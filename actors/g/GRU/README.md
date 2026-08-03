@@ -1,8 +1,8 @@
 # GRU - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [GRU](https://vuldb.com/?actor.gru). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [GRU](https://vuldb.com/actor/gru). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.gru](https://vuldb.com/?actor.gru)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/gru](https://vuldb.com/actor/gru)
 
 ## Campaigns
 
@@ -15,12 +15,12 @@ The following _campaigns_ are known and can be associated with GRU:
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with GRU:
 
-* [US](https://vuldb.com/?country.us)
-* [PL](https://vuldb.com/?country.pl)
-* [RU](https://vuldb.com/?country.ru)
+* [US](https://vuldb.com/country/us)
+* [PL](https://vuldb.com/country/pl)
+* [RU](https://vuldb.com/country/ru)
 * ...
 
-There are 15 more country items available. Please use our online service to access the data.
+There are 17 more country items available. Please use our online service to access the data.
 
 ## IOC - Indicator of Compromise
 
@@ -28,20 +28,20 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [31.42.4.138](https://vuldb.com/?ip.31.42.4.138) | 31.42.4.138.alfanet24.pl | Western Logistics Entities and Technology Companies | High
-2 | [31.135.199.145](https://vuldb.com/?ip.31.135.199.145) | client-145.home.subnet-199.nat.dynamic.home-net.pl | Western Logistics Entities and Technology Companies | High
-3 | [46.112.70.252](https://vuldb.com/?ip.46.112.70.252) | user-46-112-70-252.play-internet.pl | Western Logistics Entities and Technology Companies | High
-4 | [46.248.185.236](https://vuldb.com/?ip.46.248.185.236) | 46-248-185-236.rev.iq.pl | Western Logistics Entities and Technology Companies | High
-5 | [64.176.67.117](https://vuldb.com/?ip.64.176.67.117) | 64.176.67.117.vultrusercontent.com | Western Logistics Entities and Technology Companies | Medium
-6 | [64.176.69.196](https://vuldb.com/?ip.64.176.69.196) | 64.176.69.196.vultrusercontent.com | Western Logistics Entities and Technology Companies | Medium
-7 | [64.176.70.18](https://vuldb.com/?ip.64.176.70.18) | 64.176.70.18.vultrusercontent.com | Western Logistics Entities and Technology Companies | Medium
-8 | [64.176.70.238](https://vuldb.com/?ip.64.176.70.238) | 64.176.70.238.vultrusercontent.com | Western Logistics Entities and Technology Companies | Medium
-9 | [64.176.71.201](https://vuldb.com/?ip.64.176.71.201) | 64.176.71.201.vultrusercontent.com | Western Logistics Entities and Technology Companies | Medium
-10 | [70.34.242.220](https://vuldb.com/?ip.70.34.242.220) | 70.34.242.220.vultrusercontent.com | Western Logistics Entities and Technology Companies | Medium
-11 | [70.34.243.226](https://vuldb.com/?ip.70.34.243.226) | 70.34.243.226.vultrusercontent.com | Western Logistics Entities and Technology Companies | Medium
-12 | [70.34.244.100](https://vuldb.com/?ip.70.34.244.100) | 70.34.244.100.vultrusercontent.com | Western Logistics Entities and Technology Companies | Medium
-13 | [70.34.245.215](https://vuldb.com/?ip.70.34.245.215) | 70.34.245.215.vultrusercontent.com | Western Logistics Entities and Technology Companies | Medium
-14 | [70.34.252.168](https://vuldb.com/?ip.70.34.252.168) | 70.34.252.168.vultrusercontent.com | Western Logistics Entities and Technology Companies | Medium
+1 | [31.42.4.138](https://vuldb.com/ip/31.42.4.138) | 31.42.4.138.alfanet24.pl | Western Logistics Entities and Technology Companies | High
+2 | [31.135.199.145](https://vuldb.com/ip/31.135.199.145) | client-145.home.subnet-199.nat.dynamic.home-net.pl | Western Logistics Entities and Technology Companies | High
+3 | [46.112.70.252](https://vuldb.com/ip/46.112.70.252) | user-46-112-70-252.play-internet.pl | Western Logistics Entities and Technology Companies | High
+4 | [46.248.185.236](https://vuldb.com/ip/46.248.185.236) | 46-248-185-236.rev.iq.pl | Western Logistics Entities and Technology Companies | High
+5 | [64.176.67.117](https://vuldb.com/ip/64.176.67.117) | 64.176.67.117.vultrusercontent.com | Western Logistics Entities and Technology Companies | Medium
+6 | [64.176.69.196](https://vuldb.com/ip/64.176.69.196) | 64.176.69.196.vultrusercontent.com | Western Logistics Entities and Technology Companies | Medium
+7 | [64.176.70.18](https://vuldb.com/ip/64.176.70.18) | 64.176.70.18.vultrusercontent.com | Western Logistics Entities and Technology Companies | Medium
+8 | [64.176.70.238](https://vuldb.com/ip/64.176.70.238) | 64.176.70.238.vultrusercontent.com | Western Logistics Entities and Technology Companies | Medium
+9 | [64.176.71.201](https://vuldb.com/ip/64.176.71.201) | 64.176.71.201.vultrusercontent.com | Western Logistics Entities and Technology Companies | Medium
+10 | [70.34.242.220](https://vuldb.com/ip/70.34.242.220) | 70.34.242.220.vultrusercontent.com | Western Logistics Entities and Technology Companies | Medium
+11 | [70.34.243.226](https://vuldb.com/ip/70.34.243.226) | 70.34.243.226.vultrusercontent.com | Western Logistics Entities and Technology Companies | Medium
+12 | [70.34.244.100](https://vuldb.com/ip/70.34.244.100) | 70.34.244.100.vultrusercontent.com | Western Logistics Entities and Technology Companies | Medium
+13 | [70.34.245.215](https://vuldb.com/ip/70.34.245.215) | 70.34.245.215.vultrusercontent.com | Western Logistics Entities and Technology Companies | Medium
+14 | [70.34.252.168](https://vuldb.com/ip/70.34.252.168) | 70.34.252.168.vultrusercontent.com | Western Logistics Entities and Technology Companies | Medium
 15 | ... | ... | ... | ...
 
 There are 58 more IOC items available. Please use our online service to access the data.
@@ -121,37 +121,38 @@ ID | Type | Indicator | Confidence
 52 | File | `/api/sys/login` | High
 53 | File | `/api/v1/settings` | High
 54 | File | `/api/wizard/getCapability` | High
-55 | File | `/app/api/controller/collect.php` | High
-56 | File | `/app/api/v1/openvpn.py` | High
-57 | File | `/app/checkout/delete.php` | High
-58 | File | `/app/controller/Api.php` | High
-59 | File | `/app/register.php?action=reg` | High
-60 | File | `/app/sys1.php` | High
-61 | File | `/assetsGroupReport/assetsService.j%73p` | High
-62 | File | `/auth.asp` | Medium
-63 | File | `/BBfile/Blood/o+.php` | High
-64 | File | `/bin/goahead` | Medium
-65 | File | `/bin/httpd` | Medium
-66 | File | `/binutils/debug.c` | High
-67 | File | `/biurl_grou` | Medium
-68 | File | `/blog/bContent/save` | High
-69 | File | `/boaform/formSysCmd` | High
-70 | File | `/boafrm/formDMZ` | High
-71 | File | `/boafrm/formIpQoS` | High
-72 | File | `/boafrm/formTmultiAP` | High
-73 | File | `/borrow.php` | Medium
-74 | File | `/browse.php` | Medium
-75 | File | `/cart/update/attr` | High
-76 | File | `/cgi-bin/adm.cgi` | High
-77 | File | `/cgi-bin/cstecgi.cgi` | High
-78 | File | `/cgi-bin/ExportIbmsConfig.sh` | High
-79 | File | `/cgi-bin/firewall.cgi` | High
-80 | File | `/cgi-bin/imode_alldata.php` | High
-81 | File | `/cgi-bin/login.cgi` | High
-82 | File | `/cgi-bin/nas_sharing.cgi` | High
-83 | ... | ... | ...
+55 | File | `/api/wizard/setLanguage` | High
+56 | File | `/app/api/controller/collect.php` | High
+57 | File | `/app/api/v1/openvpn.py` | High
+58 | File | `/app/checkout/delete.php` | High
+59 | File | `/app/controller/Api.php` | High
+60 | File | `/app/register.php?action=reg` | High
+61 | File | `/app/sys1.php` | High
+62 | File | `/assetsGroupReport/assetsService.j%73p` | High
+63 | File | `/auth.asp` | Medium
+64 | File | `/BBfile/Blood/o+.php` | High
+65 | File | `/bin/goahead` | Medium
+66 | File | `/bin/httpd` | Medium
+67 | File | `/binutils/debug.c` | High
+68 | File | `/biurl_grou` | Medium
+69 | File | `/blog/bContent/save` | High
+70 | File | `/boaform/formSysCmd` | High
+71 | File | `/boafrm/formDMZ` | High
+72 | File | `/boafrm/formIpQoS` | High
+73 | File | `/boafrm/formTmultiAP` | High
+74 | File | `/borrow.php` | Medium
+75 | File | `/browse.php` | Medium
+76 | File | `/cart/update/attr` | High
+77 | File | `/cgi-bin/adm.cgi` | High
+78 | File | `/cgi-bin/cstecgi.cgi` | High
+79 | File | `/cgi-bin/ExportIbmsConfig.sh` | High
+80 | File | `/cgi-bin/firewall.cgi` | High
+81 | File | `/cgi-bin/imode_alldata.php` | High
+82 | File | `/cgi-bin/login.cgi` | High
+83 | File | `/cgi-bin/nas_sharing.cgi` | High
+84 | ... | ... | ...
 
-There are 728 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 745 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -165,9 +166,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

@@ -1,16 +1,16 @@
 # Spectre - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [Spectre](https://vuldb.com/?actor.spectre). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [Spectre](https://vuldb.com/actor/spectre). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.spectre](https://vuldb.com/?actor.spectre)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/spectre](https://vuldb.com/actor/spectre)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Spectre:
 
-* [US](https://vuldb.com/?country.us)
-* [CH](https://vuldb.com/?country.ch)
-* [RU](https://vuldb.com/?country.ru)
+* [US](https://vuldb.com/country/us)
+* [CH](https://vuldb.com/country/ch)
+* [RU](https://vuldb.com/country/ru)
 * ...
 
 There are 17 more country items available. Please use our online service to access the data.
@@ -21,10 +21,10 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [91.92.240.40](https://vuldb.com/?ip.91.92.240.40) | - | - | High
-2 | [91.92.241.187](https://vuldb.com/?ip.91.92.241.187) | - | - | High
-3 | [91.92.243.158](https://vuldb.com/?ip.91.92.243.158) | - | - | High
-4 | [91.92.244.110](https://vuldb.com/?ip.91.92.244.110) | - | - | High
+1 | [91.92.240.40](https://vuldb.com/ip/91.92.240.40) | - | - | High
+2 | [91.92.241.187](https://vuldb.com/ip/91.92.241.187) | - | - | High
+3 | [91.92.243.158](https://vuldb.com/ip/91.92.243.158) | - | - | High
+4 | [91.92.244.110](https://vuldb.com/ip/91.92.244.110) | - | - | High
 5 | ... | ... | ... | ...
 
 There are 14 more IOC items available. Please use our online service to access the data.
@@ -105,39 +105,39 @@ ID | Type | Indicator | Confidence
 53 | File | `/api/settings` | High
 54 | File | `/api/sys/login` | High
 55 | File | `/api/wizard/getCapability` | High
-56 | File | `/app/api/controller/collect.php` | High
-57 | File | `/app/api/v1/openvpn.py` | High
-58 | File | `/app/controller/Api.php` | High
-59 | File | `/app/index/controller/Common.php` | High
-60 | File | `/app/register.php?action=reg` | High
-61 | File | `/app/sys1.php` | High
-62 | File | `/applications/core/modules/admin/editor/toolbar.php` | High
-63 | File | `/Applications/Google\ Drive.app/Contents/MacOS` | High
-64 | File | `/applications/nexus/modules/front/store/store.php` | High
-65 | File | `/assetsGroupReport/assetsService.j%73p` | High
-66 | File | `/auth.asp` | Medium
-67 | File | `/backend/doc/his_doc_update-account.php` | High
-68 | File | `/be/erpc.php` | Medium
-69 | File | `/be/rpc.php` | Medium
-70 | File | `/bin/httpd` | Medium
-71 | File | `/bitrix/admin/ldap_server_edit.php` | High
-72 | File | `/biurl_grou` | Medium
-73 | File | `/boaform/formSysCmd` | High
-74 | File | `/boafrm/formDMZ` | High
-75 | File | `/boafrm/formTmultiAP` | High
-76 | File | `/borrow.php` | Medium
-77 | File | `/browse.php` | Medium
-78 | File | `/cgi-bin-sdb/` | High
-79 | File | `/cgi-bin/apkg_mgr.cgi` | High
-80 | File | `/cgi-bin/cstecgi.cgi` | High
-81 | File | `/cgi-bin/nas_sharing.cgi` | High
-82 | File | `/cgi-bin/photocenter_mgr.cgi` | High
-83 | File | `/cgi-bin/supervisor/CloudSetup.cgi` | High
-84 | File | `/cgi-bin/system_mgr.cgi` | High
-85 | File | `/cgi-bin/wlogin.cgi` | High
+56 | File | `/api/wizard/setLanguage` | High
+57 | File | `/app/api/controller/collect.php` | High
+58 | File | `/app/api/v1/openvpn.py` | High
+59 | File | `/app/controller/Api.php` | High
+60 | File | `/app/index/controller/Common.php` | High
+61 | File | `/app/register.php?action=reg` | High
+62 | File | `/app/sys1.php` | High
+63 | File | `/applications/core/modules/admin/editor/toolbar.php` | High
+64 | File | `/Applications/Google\ Drive.app/Contents/MacOS` | High
+65 | File | `/applications/nexus/modules/front/store/store.php` | High
+66 | File | `/assetsGroupReport/assetsService.j%73p` | High
+67 | File | `/auth.asp` | Medium
+68 | File | `/backend/doc/his_doc_update-account.php` | High
+69 | File | `/be/erpc.php` | Medium
+70 | File | `/be/rpc.php` | Medium
+71 | File | `/bin/httpd` | Medium
+72 | File | `/bitrix/admin/ldap_server_edit.php` | High
+73 | File | `/biurl_grou` | Medium
+74 | File | `/boaform/formSysCmd` | High
+75 | File | `/boafrm/formDMZ` | High
+76 | File | `/boafrm/formTmultiAP` | High
+77 | File | `/borrow.php` | Medium
+78 | File | `/browse.php` | Medium
+79 | File | `/cgi-bin-sdb/` | High
+80 | File | `/cgi-bin/apkg_mgr.cgi` | High
+81 | File | `/cgi-bin/cstecgi.cgi` | High
+82 | File | `/cgi-bin/nas_sharing.cgi` | High
+83 | File | `/cgi-bin/photocenter_mgr.cgi` | High
+84 | File | `/cgi-bin/supervisor/CloudSetup.cgi` | High
+85 | File | `/cgi-bin/system_mgr.cgi` | High
 86 | ... | ... | ...
 
-There are 754 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 759 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -149,9 +149,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

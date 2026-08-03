@@ -1,8 +1,8 @@
 # GALLIUM - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [GALLIUM](https://vuldb.com/?actor.gallium). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [GALLIUM](https://vuldb.com/actor/gallium). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.gallium](https://vuldb.com/?actor.gallium)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/gallium](https://vuldb.com/actor/gallium)
 
 ## Campaigns
 
@@ -14,12 +14,12 @@ The following _campaigns_ are known and can be associated with GALLIUM:
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with GALLIUM:
 
-* [CN](https://vuldb.com/?country.cn)
-* [US](https://vuldb.com/?country.us)
-* [RU](https://vuldb.com/?country.ru)
+* [CN](https://vuldb.com/country/cn)
+* [US](https://vuldb.com/country/us)
+* [RU](https://vuldb.com/country/ru)
 * ...
 
-There are 4 more country items available. Please use our online service to access the data.
+There are 1 more country items available. Please use our online service to access the data.
 
 ## IOC - Indicator of Compromise
 
@@ -27,31 +27,31 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [2.58.242.229](https://vuldb.com/?ip.2.58.242.229) | 242-58-2-229.hostinginside.com | - | High
-2 | [2.58.242.230](https://vuldb.com/?ip.2.58.242.230) | 242-58-2-230.hostinginside.com | - | High
-3 | [2.58.242.231](https://vuldb.com/?ip.2.58.242.231) | 242-58-2-231.hostinginside.com | - | High
-4 | [2.58.242.232](https://vuldb.com/?ip.2.58.242.232) | 242-58-2-232.hostinginside.com | - | High
-5 | [2.58.242.235](https://vuldb.com/?ip.2.58.242.235) | 242-58-2-235.hostinginside.com | - | High
-6 | [2.58.242.236](https://vuldb.com/?ip.2.58.242.236) | 242-58-2-236.hostinginside.com | - | High
-7 | [5.8.71.97](https://vuldb.com/?ip.5.8.71.97) | goodluck23.jp.us | PingPull | High
-8 | [5.181.25.55](https://vuldb.com/?ip.5.181.25.55) | vps76.example.com | PingPull | High
-9 | [5.188.33.237](https://vuldb.com/?ip.5.188.33.237) | firman00467.example.com | - | High
-10 | [37.61.229.104](https://vuldb.com/?ip.37.61.229.104) | theodore974.example.com | - | High
-11 | [37.61.229.106](https://vuldb.com/?ip.37.61.229.106) | oliver7891.example.com | - | High
-12 | [43.254.218.43](https://vuldb.com/?ip.43.254.218.43) | - | - | High
-13 | [43.254.218.57](https://vuldb.com/?ip.43.254.218.57) | - | - | High
-14 | [43.254.218.98](https://vuldb.com/?ip.43.254.218.98) | - | - | High
-15 | [43.254.218.104](https://vuldb.com/?ip.43.254.218.104) | - | - | High
-16 | [43.254.218.114](https://vuldb.com/?ip.43.254.218.114) | - | - | High
-17 | [45.14.66.230](https://vuldb.com/?ip.45.14.66.230) | 45.14.66.230.static.xtom.com | - | High
-18 | [45.76.113.163](https://vuldb.com/?ip.45.76.113.163) | 45.76.113.163.vultrusercontent.com | - | Medium
-19 | [45.116.13.153](https://vuldb.com/?ip.45.116.13.153) | 45.116.13.153.static.xtom.hk | - | High
-20 | [45.121.50.230](https://vuldb.com/?ip.45.121.50.230) | - | - | High
-21 | [45.128.221.61](https://vuldb.com/?ip.45.128.221.61) | - | - | High
-22 | [45.128.221.66](https://vuldb.com/?ip.45.128.221.66) | - | - | High
-23 | [45.128.221.169](https://vuldb.com/?ip.45.128.221.169) | - | - | High
-24 | [45.128.221.172](https://vuldb.com/?ip.45.128.221.172) | - | - | High
-25 | [45.128.221.182](https://vuldb.com/?ip.45.128.221.182) | - | - | High
+1 | [2.58.242.229](https://vuldb.com/ip/2.58.242.229) | 242-58-2-229.hostinginside.com | - | High
+2 | [2.58.242.230](https://vuldb.com/ip/2.58.242.230) | 242-58-2-230.hostinginside.com | - | High
+3 | [2.58.242.231](https://vuldb.com/ip/2.58.242.231) | 242-58-2-231.hostinginside.com | - | High
+4 | [2.58.242.232](https://vuldb.com/ip/2.58.242.232) | 242-58-2-232.hostinginside.com | - | High
+5 | [2.58.242.235](https://vuldb.com/ip/2.58.242.235) | 242-58-2-235.hostinginside.com | - | High
+6 | [2.58.242.236](https://vuldb.com/ip/2.58.242.236) | 242-58-2-236.hostinginside.com | - | High
+7 | [5.8.71.97](https://vuldb.com/ip/5.8.71.97) | goodluck23.jp.us | PingPull | High
+8 | [5.181.25.55](https://vuldb.com/ip/5.181.25.55) | vps76.example.com | PingPull | High
+9 | [5.188.33.237](https://vuldb.com/ip/5.188.33.237) | firman00467.example.com | - | High
+10 | [37.61.229.104](https://vuldb.com/ip/37.61.229.104) | theodore974.example.com | - | High
+11 | [37.61.229.106](https://vuldb.com/ip/37.61.229.106) | oliver7891.example.com | - | High
+12 | [43.254.218.43](https://vuldb.com/ip/43.254.218.43) | - | - | High
+13 | [43.254.218.57](https://vuldb.com/ip/43.254.218.57) | - | - | High
+14 | [43.254.218.98](https://vuldb.com/ip/43.254.218.98) | - | - | High
+15 | [43.254.218.104](https://vuldb.com/ip/43.254.218.104) | - | - | High
+16 | [43.254.218.114](https://vuldb.com/ip/43.254.218.114) | - | - | High
+17 | [45.14.66.230](https://vuldb.com/ip/45.14.66.230) | 45.14.66.230.static.xtom.com | - | High
+18 | [45.76.113.163](https://vuldb.com/ip/45.76.113.163) | 45.76.113.163.vultrusercontent.com | - | Medium
+19 | [45.116.13.153](https://vuldb.com/ip/45.116.13.153) | 45.116.13.153.static.xtom.hk | - | High
+20 | [45.121.50.230](https://vuldb.com/ip/45.121.50.230) | - | - | High
+21 | [45.128.221.61](https://vuldb.com/ip/45.128.221.61) | - | - | High
+22 | [45.128.221.66](https://vuldb.com/ip/45.128.221.66) | - | - | High
+23 | [45.128.221.169](https://vuldb.com/ip/45.128.221.169) | - | - | High
+24 | [45.128.221.172](https://vuldb.com/ip/45.128.221.172) | - | - | High
+25 | [45.128.221.182](https://vuldb.com/ip/45.128.221.182) | - | - | High
 26 | ... | ... | ... | ...
 
 There are 102 more IOC items available. Please use our online service to access the data.
@@ -62,12 +62,12 @@ _Tactics, techniques, and procedures_ (TTP) summarize the suspected MITRE ATT&CK
 
 ID | Technique | Weakness | Description | Confidence
 -- | --------- | -------- | ----------- | ----------
-1 | T1006 | CWE-21, CWE-22 | Path Traversal | High
+1 | T1006 | CWE-21 | Path Traversal | High
 2 | T1055 | CWE-74 | Improper Neutralization of Data within XPath Expressions | High
-3 | T1059 | CWE-94, CWE-1321 | Argument Injection | High
+3 | T1059 | CWE-1321 | Argument Injection | High
 4 | ... | ... | ... | ...
 
-There are 9 more TTP items available. Please use our online service to access the data.
+There are 8 more TTP items available. Please use our online service to access the data.
 
 ## IOA - Indicator of Attack
 
@@ -82,10 +82,9 @@ ID | Type | Indicator | Confidence
 5 | File | `/admin/profile.php` | High
 6 | File | `/admin/search-medicalcard.php` | High
 7 | File | `/adpweb/wechat/verifyToken/` | High
-8 | File | `/doctor/view-appointment-detail.php` | High
-9 | ... | ... | ...
+8 | ... | ... | ...
 
-There are 61 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 58 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -97,9 +96,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

@@ -8,8 +8,12 @@ _Live data_ and more _analysis capabilities_ are available at [https://vuldb.com
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with ModeloRAT:
 
-* [CN](https://vuldb.com/country/cn)
 * [US](https://vuldb.com/country/us)
+* [SG](https://vuldb.com/country/sg)
+* [CN](https://vuldb.com/country/cn)
+* ...
+
+There are 7 more country items available. Please use our online service to access the data.
 
 ## Actors
 
@@ -18,6 +22,7 @@ These _actors_ are associated with ModeloRAT or other actors linked to the campa
 ID | Actor | Confidence
 -- | ----- | ----------
 1 | [KongTuke](https://vuldb.com/actor/kongtuke) | High
+2 | [ModeloRAT](https://vuldb.com/actor/modelorat) | High
 
 ## IOC - Indicator of Compromise
 
@@ -25,8 +30,12 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Actor | Confidence
 -- | ---------- | -------- | ----- | ----------
-1 | [158.247.252.178](https://vuldb.com/ip/158.247.252.178) | 158-247-252-178.constant.com | [KongTuke](https://vuldb.com/actor/kongtuke) | High
-2 | [170.168.103.208](https://vuldb.com/ip/170.168.103.208) | vm5198.bit.hosting | [KongTuke](https://vuldb.com/actor/kongtuke) | High
+1 | [45.59.122.231](https://vuldb.com/ip/45.59.122.231) | 231.122.59.45.static.cloudzy.com | [ModeloRAT](https://vuldb.com/actor/modelorat) | High
+2 | [45.76.241.51](https://vuldb.com/ip/45.76.241.51) | 45.76.241.51.vultrusercontent.com | [ModeloRAT](https://vuldb.com/actor/modelorat) | Medium
+3 | [46.225.231.170](https://vuldb.com/ip/46.225.231.170) | static.170.231.225.46.clients.your-server.de | [ModeloRAT](https://vuldb.com/actor/modelorat) | High
+4 | ... | ... | ... | ...
+
+There are 14 more IOC items available. Please use our online service to access the data.
 
 ## TTP - Tactics, Techniques, Procedures
 
@@ -34,12 +43,13 @@ _Tactics, techniques, and procedures_ (TTP) summarize the suspected MITRE ATT&CK
 
 ID | Technique | Weakness | Description | Confidence
 -- | --------- | -------- | ----------- | ----------
-1 | T1006 | CWE-22 | Path Traversal | High
-2 | T1059.007 | CWE-79 | Basic Cross Site Scripting | High
-3 | T1202 | CWE-78 | Command Shell in Externally Accessible Directory | High
-4 | ... | ... | ... | ...
+1 | T1006 | CWE-21, CWE-22 | Path Traversal | High
+2 | T1040 | CWE-319 | Authentication Bypass by Capture-replay | High
+3 | T1059 | CWE-94 | Argument Injection | High
+4 | T1059.007 | CWE-79, CWE-80 | Basic Cross Site Scripting | High
+5 | ... | ... | ... | ...
 
-There are 1 more TTP items available. Please use our online service to access the data.
+There are 14 more TTP items available. Please use our online service to access the data.
 
 ## IOA - Indicator of Attack
 
@@ -47,15 +57,32 @@ These _indicators of attack_ (IOA) list the potential fragments used for technic
 
 ID | Type | Indicator | Confidence
 -- | ---- | --------- | ----------
-1 | File | `/api /v3/auth` | High
-2 | Argument | `title` | Low
-3 | Argument | `\file\` | Low
+1 | File | `/admin.php/addon/index` | High
+2 | File | `/admin/bookList?page=1&limit=10` | High
+3 | File | `/admin/create_product.php` | High
+4 | File | `/admin/maintenance/view_designation.php` | High
+5 | File | `/adminui/history_log.php` | High
+6 | File | `/analysisProject/pagingQueryData` | High
+7 | File | `/api/GylOperator/UpdatePasswordBatch` | High
+8 | File | `/api /v3/auth` | High
+9 | File | `/Applications/Endurance.app/Contents/Library/LaunchServices/com.MagnetismStudios.endurance.helper` | High
+10 | File | `/att_add.php` | Medium
+11 | File | `/backend/admin/his_admin_add_lab_equipment.php` | High
+12 | File | `/backend/admin/his_admin_register_patient.php` | High
+13 | File | `/bin/httpd` | Medium
+14 | File | `/com/tiandy/easy7/core/bo/CLSBODownLoad.java` | High
+15 | File | `/department.php` | High
+16 | File | `/extensions/realestate/index.php/agents/agent-register/addagent` | High
+17 | ... | ... | ...
+
+There are 139 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
 The following list contains _external sources_ which discuss the campaign and the associated activities:
 
 * https://www.huntress.com/blog/malicious-browser-extention-crashfix-kongtuke
+* https://www.rapid7.com/blog/post/tr-it-support-dissecting-modelorat-campaign-microsoft-teams-compromise/
 
 ## Literature
 

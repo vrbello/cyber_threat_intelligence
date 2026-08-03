@@ -1,19 +1,19 @@
 # Domino - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [Domino](https://vuldb.com/?actor.domino). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [Domino](https://vuldb.com/actor/domino). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.domino](https://vuldb.com/?actor.domino)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/domino](https://vuldb.com/actor/domino)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Domino:
 
-* [US](https://vuldb.com/?country.us)
-* [CN](https://vuldb.com/?country.cn)
-* [RU](https://vuldb.com/?country.ru)
+* [US](https://vuldb.com/country/us)
+* [CN](https://vuldb.com/country/cn)
+* [RU](https://vuldb.com/country/ru)
 * ...
 
-There are 13 more country items available. Please use our online service to access the data.
+There are 14 more country items available. Please use our online service to access the data.
 
 ## IOC - Indicator of Compromise
 
@@ -21,9 +21,9 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [5.182.37.118](https://vuldb.com/?ip.5.182.37.118) | vps.hostry.com | - | High
-2 | [45.67.34.236](https://vuldb.com/?ip.45.67.34.236) | lixm3.servepics.com | - | High
-3 | [88.119.175.124](https://vuldb.com/?ip.88.119.175.124) | 19872-33971.bacloud.info | - | High
+1 | [5.182.37.118](https://vuldb.com/ip/5.182.37.118) | vps.hostry.com | - | High
+2 | [45.67.34.236](https://vuldb.com/ip/45.67.34.236) | lixm3.servepics.com | - | High
+3 | [88.119.175.124](https://vuldb.com/ip/88.119.175.124) | 19872-33971.bacloud.info | - | High
 4 | ... | ... | ... | ...
 
 There are 4 more IOC items available. Please use our online service to access the data.
@@ -62,28 +62,28 @@ ID | Type | Indicator | Confidence
 11 | File | `/config/pw_changeusers.html` | High
 12 | File | `/cwc/login` | Medium
 13 | File | `/debuginfo.htm` | High
-14 | File | `/download` | Medium
-15 | File | `/etc/passwd` | Medium
-16 | File | `/etc/quagga` | Medium
-17 | File | `/etc/shadow` | Medium
-18 | File | `/forms/doLogin` | High
-19 | File | `/h/autoSaveDraft` | High
-20 | File | `/h/calendar` | Medium
-21 | File | `/handgunner-administrator/register_code.php` | High
-22 | File | `/inc/extensions.php` | High
-23 | File | `/mhds/clinic/view_details.php` | High
-24 | File | `/netflow/jspui/editProfile.jsp` | High
-25 | File | `/nova/bin/console` | High
-26 | File | `/nova/bin/detnet` | High
-27 | File | `/out.php` | Medium
-28 | File | `/php/ping.php` | High
-29 | File | `/rapi/read_url` | High
-30 | File | `/req_password_user.php` | High
-31 | File | `/retailer/edit_profile.php` | High
-32 | File | `/rom-0` | Low
+14 | File | `/dm/dispatch/user/add` | High
+15 | File | `/download` | Medium
+16 | File | `/etc/passwd` | Medium
+17 | File | `/etc/quagga` | Medium
+18 | File | `/etc/shadow` | Medium
+19 | File | `/forms/doLogin` | High
+20 | File | `/h/autoSaveDraft` | High
+21 | File | `/h/calendar` | Medium
+22 | File | `/handgunner-administrator/register_code.php` | High
+23 | File | `/inc/extensions.php` | High
+24 | File | `/mhds/clinic/view_details.php` | High
+25 | File | `/netflow/jspui/editProfile.jsp` | High
+26 | File | `/nova/bin/console` | High
+27 | File | `/nova/bin/detnet` | High
+28 | File | `/out.php` | Medium
+29 | File | `/php/ping.php` | High
+30 | File | `/rapi/read_url` | High
+31 | File | `/req_password_user.php` | High
+32 | File | `/retailer/edit_profile.php` | High
 33 | ... | ... | ...
 
-There are 281 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 283 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -95,9 +95,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

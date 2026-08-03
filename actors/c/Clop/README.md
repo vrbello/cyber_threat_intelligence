@@ -24,7 +24,7 @@ These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. acce
 * [BR](https://vuldb.com/country/br)
 * ...
 
-There are 51 more country items available. Please use our online service to access the data.
+There are 52 more country items available. Please use our online service to access the data.
 
 ## IOC - Indicator of Compromise
 
@@ -149,7 +149,7 @@ ID | Type | Indicator | Confidence
 32 | File | `/admin/receipt.php` | High
 33 | File | `/admin/roomdelete.php` | High
 34 | File | `/admin/save_user.php` | High
-35 | File | `/admin/settings/index.php?page=accounts` | High
+35 | File | `/admin/sn_package/sn_https` | High
 36 | File | `/admin/teacher-attendance.php` | High
 37 | File | `/admin/teacher-salary.php` | High
 38 | File | `/admin/updateabout.php` | High
@@ -157,14 +157,14 @@ ID | Type | Indicator | Confidence
 40 | File | `/admin/update_s4.php` | High
 41 | File | `/admin/update_s7.php` | High
 42 | File | `/admin/user.php` | High
-43 | File | `/admin/user/manage_user.php` | High
-44 | File | `/admin/v1/blog/edit` | High
-45 | File | `/admin/yesterday-reg-users.php` | High
-46 | File | `/admindetail.php?action=edit` | High
-47 | File | `/admin_search_student.php` | High
-48 | File | `/admin_state.php` | High
-49 | File | `/advisers.php` | High
-50 | File | `/api/av/removeUnusedAttributeView` | High
+43 | File | `/admin/v1/blog/edit` | High
+44 | File | `/admin/yesterday-reg-users.php` | High
+45 | File | `/Administrator/PHP/AdminAddUser.php` | High
+46 | File | `/admin_search_student.php` | High
+47 | File | `/admin_state.php` | High
+48 | File | `/advisers.php` | High
+49 | File | `/api/av/removeUnusedAttributeView` | High
+50 | File | `/api/controllers/merchant/shop/PosterController.php` | High
 51 | File | `/api/dept/build` | High
 52 | File | `/api/endpoint` | High
 53 | File | `/api/events/in` | High
@@ -181,35 +181,33 @@ ID | Type | Indicator | Confidence
 64 | File | `/application/models/Crud_model.php` | High
 65 | File | `/assetsGroupReport/assetsService.j%73p` | High
 66 | File | `/att_single_view.php` | High
-67 | File | `/auth/userkey/logout.php` | High
-68 | File | `/Base/BaseHandler.ashx` | High
-69 | File | `/Base/BaseService.asmx/DataService` | High
-70 | File | `/bidlog.php` | Medium
-71 | File | `/bin/httpd` | Medium
-72 | File | `/bin/netis.cgi` | High
-73 | File | `/binutils/debug.c` | High
-74 | File | `/Blood/A+.php` | High
-75 | File | `/boaform/formSamba` | High
-76 | File | `/boafrm/formDdns` | High
-77 | File | `/boafrm/formFilter` | High
-78 | File | `/boafrm/formIpQoS` | High
-79 | File | `/boafrm/formLteSetup` | High
-80 | File | `/boafrm/formNtp` | High
-81 | File | `/boafrm/formPortFw` | High
-82 | File | `/boafrm/formReflashClientTbl` | High
-83 | File | `/boafrm/formSetLg` | High
-84 | File | `/boafrm/formSysCmd` | High
-85 | File | `/boafrm/formSysLog` | High
-86 | File | `/book-appointment.php` | High
-87 | File | `/borrowedequip.php` | High
-88 | File | `/borrowedtool.php` | High
-89 | File | `/borrowed_equip_report.php` | High
-90 | File | `/C6/Jhsoft.Web.officesupply/OfficeSupplyTypeRight.aspx` | High
-91 | File | `/catageory.php` | High
-92 | File | `/cgi-bin/adm.cgi` | High
-93 | ... | ... | ...
+67 | File | `/Base/BaseHandler.ashx` | High
+68 | File | `/Base/BaseService.asmx/DataService` | High
+69 | File | `/bidlog.php` | Medium
+70 | File | `/bin/httpd` | Medium
+71 | File | `/bin/netis.cgi` | High
+72 | File | `/binutils/debug.c` | High
+73 | File | `/Blood/A+.php` | High
+74 | File | `/boaform/formSamba` | High
+75 | File | `/boafrm/formIpQoS` | High
+76 | File | `/boafrm/formLteSetup` | High
+77 | File | `/boafrm/formReflashClientTbl` | High
+78 | File | `/boafrm/formSetLg` | High
+79 | File | `/boafrm/formSysCmd` | High
+80 | File | `/book-appointment.php` | High
+81 | File | `/borrowedequip.php` | High
+82 | File | `/borrowedtool.php` | High
+83 | File | `/borrowed_equip_report.php` | High
+84 | File | `/C6/Jhsoft.Web.officesupply/OfficeSupplyTypeRight.aspx` | High
+85 | File | `/catageory.php` | High
+86 | File | `/cgi-bin/adm.cgi` | High
+87 | File | `/cgi-bin/cstecgi.cgi` | High
+88 | File | `/cgi-bin/hd_config.cgi` | High
+89 | File | `/cgi-bin/hedwig.cgi` | High
+90 | File | `/cgi-bin/internet.cgi` | High
+91 | ... | ... | ...
 
-There are 817 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 808 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -226,7 +224,7 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License

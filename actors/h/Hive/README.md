@@ -1,19 +1,19 @@
 # Hive - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [Hive](https://vuldb.com/?actor.hive). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [Hive](https://vuldb.com/actor/hive). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.hive](https://vuldb.com/?actor.hive)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/hive](https://vuldb.com/actor/hive)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Hive:
 
-* [US](https://vuldb.com/?country.us)
-* [SC](https://vuldb.com/?country.sc)
-* [RU](https://vuldb.com/?country.ru)
+* [US](https://vuldb.com/country/us)
+* [SC](https://vuldb.com/country/sc)
+* [RU](https://vuldb.com/country/ru)
 * ...
 
-There are 14 more country items available. Please use our online service to access the data.
+There are 16 more country items available. Please use our online service to access the data.
 
 ## IOC - Indicator of Compromise
 
@@ -21,16 +21,16 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [5.61.37.207](https://vuldb.com/?ip.5.61.37.207) | mx.domain.com | - | High
-2 | [5.199.162.220](https://vuldb.com/?ip.5.199.162.220) | - | - | High
-3 | [5.199.162.229](https://vuldb.com/?ip.5.199.162.229) | - | - | High
-4 | [23.81.246.84](https://vuldb.com/?ip.23.81.246.84) | - | - | High
-5 | [23.227.178.65](https://vuldb.com/?ip.23.227.178.65) | 23-227-178-65.static.hvvc.us | - | High
-6 | [45.9.150.144](https://vuldb.com/?ip.45.9.150.144) | - | - | High
-7 | [46.166.161.68](https://vuldb.com/?ip.46.166.161.68) | - | - | High
+1 | [5.61.37.207](https://vuldb.com/ip/5.61.37.207) | mx.domain.com | - | High
+2 | [5.199.162.220](https://vuldb.com/ip/5.199.162.220) | - | - | High
+3 | [5.199.162.229](https://vuldb.com/ip/5.199.162.229) | - | - | High
+4 | [23.81.246.84](https://vuldb.com/ip/23.81.246.84) | - | - | High
+5 | [23.227.178.65](https://vuldb.com/ip/23.227.178.65) | 23-227-178-65.static.hvvc.us | - | High
+6 | [45.9.150.144](https://vuldb.com/ip/45.9.150.144) | - | - | High
+7 | [46.166.161.68](https://vuldb.com/ip/46.166.161.68) | - | - | High
 8 | ... | ... | ... | ...
 
-There are 29 more IOC items available. Please use our online service to access the data.
+There are 30 more IOC items available. Please use our online service to access the data.
 
 ## TTP - Tactics, Techniques, Procedures
 
@@ -78,12 +78,12 @@ ID | Type | Indicator | Confidence
 23 | File | `/CPE` | Low
 24 | File | `/css/..%2f` | Medium
 25 | File | `/delete_student.php` | High
-26 | File | `/Employer/EditProfile.php` | High
-27 | File | `/endpoint/add-guest.php` | High
-28 | File | `/goform/addressNat` | High
+26 | File | `/downloadas/` | Medium
+27 | File | `/Employer/EditProfile.php` | High
+28 | File | `/endpoint/add-guest.php` | High
 29 | ... | ... | ...
 
-There are 241 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 245 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -91,6 +91,7 @@ The following list contains _external sources_ which discuss the actor and the a
 
 * https://blog.netlab.360.com/warning-hive-variant-xdr33-is-coming_cn/
 * https://de.darktrace.com/blog/tracking-the-hive-darktraces-detection-of-a-hive-ransomware-as-service
+* https://urlhaus.abuse.ch/url/3784020/
 * https://www.cisa.gov/uscert/ncas/alerts/aa22-321a
 * https://www.varonis.com/blog/hive-ransomware-analysis
 
@@ -98,9 +99,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

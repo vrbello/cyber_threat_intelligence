@@ -1,15 +1,14 @@
 # British Virgin Islands Unknown - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [British Virgin Islands Unknown](https://vuldb.com/?actor.british_virgin_islands_unknown). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [British Virgin Islands Unknown](https://vuldb.com/actor/british_virgin_islands_unknown). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.british_virgin_islands_unknown](https://vuldb.com/?actor.british_virgin_islands_unknown)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/british_virgin_islands_unknown](https://vuldb.com/actor/british_virgin_islands_unknown)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with British Virgin Islands Unknown:
 
-* [US](https://vuldb.com/?country.us)
-* [GB](https://vuldb.com/?country.gb)
+* [US](https://vuldb.com/country/us)
 
 ## IOC - Indicator of Compromise
 
@@ -17,58 +16,58 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [5.62.56.44](https://vuldb.com/?ip.5.62.56.44) | r-44-56-62-5.consumer-pool.prcdn.net | - | High
-2 | [5.62.58.44](https://vuldb.com/?ip.5.62.58.44) | r-44-58-62-5.consumer-pool.prcdn.net | - | High
-3 | [5.100.152.0](https://vuldb.com/?ip.5.100.152.0) | - | - | High
-4 | [5.100.158.0](https://vuldb.com/?ip.5.100.158.0) | - | - | High
-5 | [23.130.224.0](https://vuldb.com/?ip.23.130.224.0) | - | - | High
-6 | [23.136.96.0](https://vuldb.com/?ip.23.136.96.0) | - | - | High
-7 | [23.137.112.0](https://vuldb.com/?ip.23.137.112.0) | - | - | High
-8 | [23.189.176.0](https://vuldb.com/?ip.23.189.176.0) | - | - | High
-9 | [23.236.8.200](https://vuldb.com/?ip.23.236.8.200) | - | - | High
-10 | [31.14.25.0](https://vuldb.com/?ip.31.14.25.0) | - | - | High
-11 | [31.14.26.0](https://vuldb.com/?ip.31.14.26.0) | - | - | High
-12 | [31.14.68.0](https://vuldb.com/?ip.31.14.68.0) | - | - | High
-13 | [31.220.6.64](https://vuldb.com/?ip.31.220.6.64) | - | - | High
-14 | [37.77.80.0](https://vuldb.com/?ip.37.77.80.0) | - | - | High
-15 | [37.153.140.0](https://vuldb.com/?ip.37.153.140.0) | 0.140.153.37.rev.aif.tel | - | High
-16 | [37.153.152.0](https://vuldb.com/?ip.37.153.152.0) | - | - | High
-17 | [45.12.70.240](https://vuldb.com/?ip.45.12.70.240) | slackness.globalhilive.com | - | High
-18 | [45.12.71.240](https://vuldb.com/?ip.45.12.71.240) | - | - | High
-19 | [45.62.191.32](https://vuldb.com/?ip.45.62.191.32) | - | - | High
-20 | [45.142.0.0](https://vuldb.com/?ip.45.142.0.0) | ns1648.ztomy.com | - | High
-21 | [45.142.3.0](https://vuldb.com/?ip.45.142.3.0) | ns1648.ztomy.com | - | High
-22 | [45.253.248.0](https://vuldb.com/?ip.45.253.248.0) | - | - | High
-23 | [46.102.101.0](https://vuldb.com/?ip.46.102.101.0) | host-46-102-101-0.access.redder.net | - | High
-24 | [46.174.184.0](https://vuldb.com/?ip.46.174.184.0) | - | - | High
-25 | [63.143.79.0](https://vuldb.com/?ip.63.143.79.0) | - | - | High
-26 | [63.143.103.0](https://vuldb.com/?ip.63.143.103.0) | digijmres-0-103-143-63.digicelbroadband.com | - | High
-27 | [63.143.106.0](https://vuldb.com/?ip.63.143.106.0) | - | - | High
-28 | [63.243.189.0](https://vuldb.com/?ip.63.243.189.0) | - | - | High
-29 | [63.246.39.128](https://vuldb.com/?ip.63.246.39.128) | - | - | High
-30 | [64.86.20.0](https://vuldb.com/?ip.64.86.20.0) | - | - | High
-31 | [65.48.153.0](https://vuldb.com/?ip.65.48.153.0) | - | - | High
-32 | [65.48.154.0](https://vuldb.com/?ip.65.48.154.0) | - | - | High
-33 | [65.48.213.7](https://vuldb.com/?ip.65.48.213.7) | bvi-vpls1.caribsurf.com | - | High
-34 | [65.48.213.8](https://vuldb.com/?ip.65.48.213.8) | bvi-vpls2.caribsurf.com | - | High
-35 | [65.48.213.23](https://vuldb.com/?ip.65.48.213.23) | - | - | High
-36 | [65.48.213.24](https://vuldb.com/?ip.65.48.213.24) | - | - | High
-37 | [65.48.217.0](https://vuldb.com/?ip.65.48.217.0) | - | - | High
-38 | [65.48.218.0](https://vuldb.com/?ip.65.48.218.0) | - | - | High
-39 | [65.48.220.0](https://vuldb.com/?ip.65.48.220.0) | - | - | High
-40 | [66.81.192.0](https://vuldb.com/?ip.66.81.192.0) | - | - | High
-41 | [66.180.216.0](https://vuldb.com/?ip.66.180.216.0) | - | - | High
-42 | [66.180.220.0](https://vuldb.com/?ip.66.180.220.0) | - | - | High
-43 | [66.212.55.0](https://vuldb.com/?ip.66.212.55.0) | - | - | High
-44 | [66.212.229.0](https://vuldb.com/?ip.66.212.229.0) | - | - | High
-45 | [67.211.103.0](https://vuldb.com/?ip.67.211.103.0) | - | - | High
-46 | [68.65.216.0](https://vuldb.com/?ip.68.65.216.0) | - | - | High
-47 | [69.57.229.0](https://vuldb.com/?ip.69.57.229.0) | - | - | High
-48 | [69.57.233.0](https://vuldb.com/?ip.69.57.233.0) | - | - | High
-49 | [69.57.240.0](https://vuldb.com/?ip.69.57.240.0) | - | - | High
-50 | [69.57.249.0](https://vuldb.com/?ip.69.57.249.0) | - | - | High
-51 | [69.79.196.64](https://vuldb.com/?ip.69.79.196.64) | 64-196-79-69-static.flowja.com | - | High
-52 | [69.90.60.0](https://vuldb.com/?ip.69.90.60.0) | - | - | High
+1 | [5.62.56.44](https://vuldb.com/ip/5.62.56.44) | r-44-56-62-5.consumer-pool.prcdn.net | - | High
+2 | [5.62.58.44](https://vuldb.com/ip/5.62.58.44) | r-44-58-62-5.consumer-pool.prcdn.net | - | High
+3 | [5.100.152.0](https://vuldb.com/ip/5.100.152.0) | - | - | High
+4 | [5.100.158.0](https://vuldb.com/ip/5.100.158.0) | - | - | High
+5 | [23.130.224.0](https://vuldb.com/ip/23.130.224.0) | - | - | High
+6 | [23.136.96.0](https://vuldb.com/ip/23.136.96.0) | - | - | High
+7 | [23.137.112.0](https://vuldb.com/ip/23.137.112.0) | - | - | High
+8 | [23.189.176.0](https://vuldb.com/ip/23.189.176.0) | - | - | High
+9 | [23.236.8.200](https://vuldb.com/ip/23.236.8.200) | - | - | High
+10 | [31.14.25.0](https://vuldb.com/ip/31.14.25.0) | - | - | High
+11 | [31.14.26.0](https://vuldb.com/ip/31.14.26.0) | - | - | High
+12 | [31.14.68.0](https://vuldb.com/ip/31.14.68.0) | - | - | High
+13 | [31.220.6.64](https://vuldb.com/ip/31.220.6.64) | - | - | High
+14 | [37.77.80.0](https://vuldb.com/ip/37.77.80.0) | - | - | High
+15 | [37.153.140.0](https://vuldb.com/ip/37.153.140.0) | 0.140.153.37.rev.aif.tel | - | High
+16 | [37.153.152.0](https://vuldb.com/ip/37.153.152.0) | - | - | High
+17 | [45.12.70.240](https://vuldb.com/ip/45.12.70.240) | slackness.globalhilive.com | - | High
+18 | [45.12.71.240](https://vuldb.com/ip/45.12.71.240) | - | - | High
+19 | [45.62.191.32](https://vuldb.com/ip/45.62.191.32) | - | - | High
+20 | [45.142.0.0](https://vuldb.com/ip/45.142.0.0) | ns1648.ztomy.com | - | High
+21 | [45.142.3.0](https://vuldb.com/ip/45.142.3.0) | ns1648.ztomy.com | - | High
+22 | [45.253.248.0](https://vuldb.com/ip/45.253.248.0) | - | - | High
+23 | [46.102.101.0](https://vuldb.com/ip/46.102.101.0) | host-46-102-101-0.access.redder.net | - | High
+24 | [46.174.184.0](https://vuldb.com/ip/46.174.184.0) | - | - | High
+25 | [63.143.79.0](https://vuldb.com/ip/63.143.79.0) | - | - | High
+26 | [63.143.103.0](https://vuldb.com/ip/63.143.103.0) | digijmres-0-103-143-63.digicelbroadband.com | - | High
+27 | [63.143.106.0](https://vuldb.com/ip/63.143.106.0) | - | - | High
+28 | [63.243.189.0](https://vuldb.com/ip/63.243.189.0) | - | - | High
+29 | [63.246.39.128](https://vuldb.com/ip/63.246.39.128) | - | - | High
+30 | [64.86.20.0](https://vuldb.com/ip/64.86.20.0) | - | - | High
+31 | [65.48.153.0](https://vuldb.com/ip/65.48.153.0) | - | - | High
+32 | [65.48.154.0](https://vuldb.com/ip/65.48.154.0) | - | - | High
+33 | [65.48.213.7](https://vuldb.com/ip/65.48.213.7) | bvi-vpls1.caribsurf.com | - | High
+34 | [65.48.213.8](https://vuldb.com/ip/65.48.213.8) | bvi-vpls2.caribsurf.com | - | High
+35 | [65.48.213.23](https://vuldb.com/ip/65.48.213.23) | - | - | High
+36 | [65.48.213.24](https://vuldb.com/ip/65.48.213.24) | - | - | High
+37 | [65.48.217.0](https://vuldb.com/ip/65.48.217.0) | - | - | High
+38 | [65.48.218.0](https://vuldb.com/ip/65.48.218.0) | - | - | High
+39 | [65.48.220.0](https://vuldb.com/ip/65.48.220.0) | - | - | High
+40 | [66.81.192.0](https://vuldb.com/ip/66.81.192.0) | - | - | High
+41 | [66.180.216.0](https://vuldb.com/ip/66.180.216.0) | - | - | High
+42 | [66.180.220.0](https://vuldb.com/ip/66.180.220.0) | - | - | High
+43 | [66.212.55.0](https://vuldb.com/ip/66.212.55.0) | - | - | High
+44 | [66.212.229.0](https://vuldb.com/ip/66.212.229.0) | - | - | High
+45 | [67.211.103.0](https://vuldb.com/ip/67.211.103.0) | - | - | High
+46 | [68.65.216.0](https://vuldb.com/ip/68.65.216.0) | - | - | High
+47 | [69.57.229.0](https://vuldb.com/ip/69.57.229.0) | - | - | High
+48 | [69.57.233.0](https://vuldb.com/ip/69.57.233.0) | - | - | High
+49 | [69.57.240.0](https://vuldb.com/ip/69.57.240.0) | - | - | High
+50 | [69.57.249.0](https://vuldb.com/ip/69.57.249.0) | - | - | High
+51 | [69.79.196.64](https://vuldb.com/ip/69.79.196.64) | 64-196-79-69-static.flowja.com | - | High
+52 | [69.90.60.0](https://vuldb.com/ip/69.90.60.0) | - | - | High
 53 | ... | ... | ... | ...
 
 There are 208 more IOC items available. Please use our online service to access the data.
@@ -81,10 +80,10 @@ ID | Technique | Weakness | Description | Confidence
 -- | --------- | -------- | ----------- | ----------
 1 | T1059.007 | CWE-79, CWE-80 | Basic Cross Site Scripting | High
 2 | T1068 | CWE-269 | Execution with Unnecessary Privileges | High
-3 | T1110.001 | CWE-307 | Hard-coded Credentials | High
+3 | T1202 | CWE-78 | Command Shell in Externally Accessible Directory | High
 4 | ... | ... | ... | ...
 
-There are 5 more TTP items available. Please use our online service to access the data.
+There are 3 more TTP items available. Please use our online service to access the data.
 
 ## IOA - Indicator of Attack
 
@@ -94,10 +93,10 @@ ID | Type | Indicator | Confidence
 -- | ---- | --------- | ----------
 1 | File | `/controllers/add_client.php` | High
 2 | File | `/foms/routers/place-order.php` | High
-3 | File | `/forum/away.php` | High
+3 | File | `/vpn/list_vpn_web_custom.php` | High
 4 | ... | ... | ...
 
-There are 23 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 8 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -112,9 +111,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

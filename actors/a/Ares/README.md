@@ -1,19 +1,19 @@
 # Ares - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [Ares](https://vuldb.com/?actor.ares). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [Ares](https://vuldb.com/actor/ares). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.ares](https://vuldb.com/?actor.ares)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/ares](https://vuldb.com/actor/ares)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Ares:
 
-* [US](https://vuldb.com/?country.us)
-* [DE](https://vuldb.com/?country.de)
-* [CN](https://vuldb.com/?country.cn)
+* [US](https://vuldb.com/country/us)
+* [DE](https://vuldb.com/country/de)
+* [CN](https://vuldb.com/country/cn)
 * ...
 
-There are 11 more country items available. Please use our online service to access the data.
+There are 12 more country items available. Please use our online service to access the data.
 
 ## IOC - Indicator of Compromise
 
@@ -21,13 +21,13 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [2.58.113.190](https://vuldb.com/?ip.2.58.113.190) | tube-hosting.com | - | High
-2 | [5.75.134.42](https://vuldb.com/?ip.5.75.134.42) | h90.wpherc.dev | - | High
-3 | [5.149.252.227](https://vuldb.com/?ip.5.149.252.227) | - | - | High
-4 | [5.161.104.72](https://vuldb.com/?ip.5.161.104.72) | h91.wpherc.dev | - | High
-5 | [18.142.254.96](https://vuldb.com/?ip.18.142.254.96) | ec2-18-142-254-96.ap-southeast-1.compute.amazonaws.com | - | Medium
-6 | [31.141.178.107](https://vuldb.com/?ip.31.141.178.107) | - | - | High
-7 | [31.220.41.207](https://vuldb.com/?ip.31.220.41.207) | - | - | High
+1 | [2.58.113.190](https://vuldb.com/ip/2.58.113.190) | tube-hosting.com | - | High
+2 | [5.75.134.42](https://vuldb.com/ip/5.75.134.42) | h90.wpherc.dev | - | High
+3 | [5.149.252.227](https://vuldb.com/ip/5.149.252.227) | - | - | High
+4 | [5.161.104.72](https://vuldb.com/ip/5.161.104.72) | h91.wpherc.dev | - | High
+5 | [18.142.254.96](https://vuldb.com/ip/18.142.254.96) | ec2-18-142-254-96.ap-southeast-1.compute.amazonaws.com | - | Medium
+6 | [31.141.178.107](https://vuldb.com/ip/31.141.178.107) | - | - | High
+7 | [31.220.41.207](https://vuldb.com/ip/31.220.41.207) | - | - | High
 8 | ... | ... | ... | ...
 
 There are 29 more IOC items available. Please use our online service to access the data.
@@ -60,35 +60,37 @@ ID | Type | Indicator | Confidence
 5 | File | `/admin/modal_add_product.php` | High
 6 | File | `/admin/settings/users/edit/` | High
 7 | File | `/administrator/components/table_manager/` | High
-8 | File | `/api/wizard/setsyncpppoecfg` | High
-9 | File | `/audimex/cgi-bin/wal.fcgi` | High
-10 | File | `/auth_pic.cgi` | High
-11 | File | `/blog` | Low
-12 | File | `/cgi-bin/cstecgi.cgi` | High
-13 | File | `/Content/Template/root/reverse-shell.aspx` | High
-14 | File | `/en/?mylogout` | High
-15 | File | `/expedit.php` | Medium
-16 | File | `/export` | Low
-17 | File | `/forum/away.php` | High
-18 | File | `/friendprofile.php` | High
-19 | File | `/goform/setsambacfg` | High
-20 | File | `/goform/SysToolRestoreSet` | High
-21 | File | `/large.php` | Medium
-22 | File | `/MRcgi/MRchat.pl` | High
-23 | File | `/panel/edit-services.php` | High
-24 | File | `/profile.php` | Medium
-25 | File | `/register.php` | High
-26 | File | `/routers/add-ticket.php` | High
-27 | File | `/school/model/get_events.php` | High
-28 | File | `/sessions/sess_<sessionid>` | High
-29 | File | `/spip.php` | Medium
-30 | File | `/stores` | Low
-31 | File | `/sys/user/queryUserComponentData` | High
-32 | File | `/sysmanage/edit_manageadmin.php` | High
-33 | File | `/tmp` | Low
-34 | ... | ... | ...
+8 | File | `/api/data.php` | High
+9 | File | `/api/wizard/setsyncpppoecfg` | High
+10 | File | `/audimex/cgi-bin/wal.fcgi` | High
+11 | File | `/auth_pic.cgi` | High
+12 | File | `/blog` | Low
+13 | File | `/cgi-bin/cstecgi.cgi` | High
+14 | File | `/cgi-bin/nas.cgi` | High
+15 | File | `/Content/Template/root/reverse-shell.aspx` | High
+16 | File | `/en/?mylogout` | High
+17 | File | `/expedit.php` | Medium
+18 | File | `/export` | Low
+19 | File | `/forum/away.php` | High
+20 | File | `/friendprofile.php` | High
+21 | File | `/goform/QuickIndex` | High
+22 | File | `/goform/setsambacfg` | High
+23 | File | `/goform/SysToolRestoreSet` | High
+24 | File | `/large.php` | Medium
+25 | File | `/MRcgi/MRchat.pl` | High
+26 | File | `/panel/edit-services.php` | High
+27 | File | `/profile.php` | Medium
+28 | File | `/register.php` | High
+29 | File | `/routers/add-ticket.php` | High
+30 | File | `/school/model/get_events.php` | High
+31 | File | `/sessions/sess_<sessionid>` | High
+32 | File | `/single-list_rent.php` | High
+33 | File | `/sitemap` | Medium
+34 | File | `/spip.php` | Medium
+35 | File | `/stores` | Low
+36 | ... | ... | ...
 
-There are 295 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 307 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -134,9 +136,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

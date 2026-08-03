@@ -1,16 +1,16 @@
 # Pacha - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [Pacha](https://vuldb.com/?actor.pacha). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [Pacha](https://vuldb.com/actor/pacha). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.pacha](https://vuldb.com/?actor.pacha)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/pacha](https://vuldb.com/actor/pacha)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Pacha:
 
-* [US](https://vuldb.com/?country.us)
-* [SV](https://vuldb.com/?country.sv)
-* [RU](https://vuldb.com/?country.ru)
+* [US](https://vuldb.com/country/us)
+* [SV](https://vuldb.com/country/sv)
+* [RU](https://vuldb.com/country/ru)
 * ...
 
 There are 10 more country items available. Please use our online service to access the data.
@@ -21,19 +21,19 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [5.254.96.150](https://vuldb.com/?ip.5.254.96.150) | - | - | High
-2 | [23.175.0.142](https://vuldb.com/?ip.23.175.0.142) | - | - | High
-3 | [34.193.88.221](https://vuldb.com/?ip.34.193.88.221) | ec2-34-193-88-221.compute-1.amazonaws.com | - | Medium
-4 | [34.196.173.143](https://vuldb.com/?ip.34.196.173.143) | ec2-34-196-173-143.compute-1.amazonaws.com | - | Medium
-5 | [35.168.52.211](https://vuldb.com/?ip.35.168.52.211) | ec2-35-168-52-211.compute-1.amazonaws.com | - | Medium
-6 | [37.44.212.223](https://vuldb.com/?ip.37.44.212.223) | - | - | High
-7 | [37.59.43.136](https://vuldb.com/?ip.37.59.43.136) | ns399296.ip-37-59-43.eu | - | High
-8 | [37.59.44.93](https://vuldb.com/?ip.37.59.44.93) | http1ssh.2gci.net | - | High
-9 | [37.59.45.174](https://vuldb.com/?ip.37.59.45.174) | ns3000125.ip-37-59-45.eu | - | High
-10 | [37.59.54.205](https://vuldb.com/?ip.37.59.54.205) | ns3089218.ip-37-59-54.eu | - | High
-11 | [37.59.55.60](https://vuldb.com/?ip.37.59.55.60) | ns3268026.ip-37-59-55.eu | - | High
-12 | [37.120.131.220](https://vuldb.com/?ip.37.120.131.220) | - | - | High
-13 | [37.139.22.136](https://vuldb.com/?ip.37.139.22.136) | - | - | High
+1 | [5.254.96.150](https://vuldb.com/ip/5.254.96.150) | - | - | High
+2 | [23.175.0.142](https://vuldb.com/ip/23.175.0.142) | - | - | High
+3 | [34.193.88.221](https://vuldb.com/ip/34.193.88.221) | ec2-34-193-88-221.compute-1.amazonaws.com | - | Medium
+4 | [34.196.173.143](https://vuldb.com/ip/34.196.173.143) | ec2-34-196-173-143.compute-1.amazonaws.com | - | Medium
+5 | [35.168.52.211](https://vuldb.com/ip/35.168.52.211) | ec2-35-168-52-211.compute-1.amazonaws.com | - | Medium
+6 | [37.44.212.223](https://vuldb.com/ip/37.44.212.223) | - | - | High
+7 | [37.59.43.136](https://vuldb.com/ip/37.59.43.136) | ns399296.ip-37-59-43.eu | - | High
+8 | [37.59.44.93](https://vuldb.com/ip/37.59.44.93) | http1ssh.2gci.net | - | High
+9 | [37.59.45.174](https://vuldb.com/ip/37.59.45.174) | ns3000125.ip-37-59-45.eu | - | High
+10 | [37.59.54.205](https://vuldb.com/ip/37.59.54.205) | ns3089218.ip-37-59-54.eu | - | High
+11 | [37.59.55.60](https://vuldb.com/ip/37.59.55.60) | ns3268026.ip-37-59-55.eu | - | High
+12 | [37.120.131.220](https://vuldb.com/ip/37.120.131.220) | - | - | High
+13 | [37.139.22.136](https://vuldb.com/ip/37.139.22.136) | - | - | High
 14 | ... | ... | ... | ...
 
 There are 50 more IOC items available. Please use our online service to access the data.
@@ -44,9 +44,9 @@ _Tactics, techniques, and procedures_ (TTP) summarize the suspected MITRE ATT&CK
 
 ID | Technique | Weakness | Description | Confidence
 -- | --------- | -------- | ----------- | ----------
-1 | T1006 | CWE-22, CWE-23 | Path Traversal | High
+1 | T1006 | CWE-21, CWE-22, CWE-23 | Path Traversal | High
 2 | T1040 | CWE-319 | Authentication Bypass by Capture-replay | High
-3 | T1059 | CWE-94, CWE-1321 | Argument Injection | High
+3 | T1059 | CWE-88, CWE-94, CWE-1321 | Argument Injection | High
 4 | ... | ... | ... | ...
 
 There are 12 more TTP items available. Please use our online service to access the data.
@@ -76,32 +76,33 @@ ID | Type | Indicator | Confidence
 17 | File | `/admin/return_add.php` | High
 18 | File | `/admin/sys_sql_query.php` | High
 19 | File | `/admin/user/controller.php` | High
-20 | File | `/admin/user/index.php` | High
-21 | File | `/admin/vacancy/controller.php` | High
-22 | File | `/admin/view-appointment.php` | High
-23 | File | `/admin/vote_edit.php` | High
-24 | File | `/adminPage/conf/reload` | High
-25 | File | `/adminPage/conf/saveCmd` | High
-26 | File | `/adminPage/main/upload` | High
-27 | File | `/adminPage/www/addOver` | High
-28 | File | `/adminpanel/admin/facebox_modal/updateCourse.php` | High
-29 | File | `/adminpanel/admin/facebox_modal/updateExaminee.php` | High
-30 | File | `/adminpanel/admin/query/loginExe.php` | High
-31 | File | `/api.php` | Medium
-32 | File | `/apply/index.php` | High
-33 | File | `/auth/userkey/logout.php` | High
-34 | File | `/authenticate.php` | High
-35 | File | `/backend/admin/his_admin_add_lab_equipment.php` | High
-36 | File | `/backend/admin/his_admin_register_patient.php` | High
-37 | File | `/boaform/wlan_basic_set.cgi` | High
-38 | File | `/C6/Jhsoft.Web.departments/GetTreeDate.aspx` | High
-39 | File | `/cgi-bin/cstecgi.cgi` | High
-40 | File | `/classes/Master.php?f=delete_category` | High
-41 | File | `/classes/Users.php` | High
-42 | File | `/core/config-revisions` | High
-43 | ... | ... | ...
+20 | File | `/admin/vacancy/controller.php` | High
+21 | File | `/admin/view-appointment.php` | High
+22 | File | `/admin/vote_edit.php` | High
+23 | File | `/adminPage/conf/reload` | High
+24 | File | `/adminPage/conf/saveCmd` | High
+25 | File | `/adminPage/main/upload` | High
+26 | File | `/adminPage/www/addOver` | High
+27 | File | `/adminpanel/admin/facebox_modal/updateCourse.php` | High
+28 | File | `/adminpanel/admin/facebox_modal/updateExaminee.php` | High
+29 | File | `/adminpanel/admin/query/loginExe.php` | High
+30 | File | `/api.php` | Medium
+31 | File | `/apply/index.php` | High
+32 | File | `/auth/userkey/logout.php` | High
+33 | File | `/authenticate.php` | High
+34 | File | `/backend/admin/his_admin_add_lab_equipment.php` | High
+35 | File | `/backend/admin/his_admin_register_patient.php` | High
+36 | File | `/boaform/wlan_basic_set.cgi` | High
+37 | File | `/C6/Jhsoft.Web.departments/GetTreeDate.aspx` | High
+38 | File | `/cgi-bin/cstecgi.cgi` | High
+39 | File | `/classes/Master.php?f=delete_category` | High
+40 | File | `/classes/Users.php` | High
+41 | File | `/core/config-revisions` | High
+42 | File | `/device.rsp?opt=sys&cmd=___S_O_S_T_R_E_A_MAX___` | High
+43 | File | `/edoc/doctor/patient.php` | High
+44 | ... | ... | ...
 
-There are 372 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 381 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -114,9 +115,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

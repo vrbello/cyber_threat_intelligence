@@ -13,7 +13,7 @@ These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. acce
 * [RU](https://vuldb.com/country/ru)
 * ...
 
-There are 21 more country items available. Please use our online service to access the data.
+There are 22 more country items available. Please use our online service to access the data.
 
 ## Actors
 
@@ -50,7 +50,7 @@ ID | IP address | Hostname | Actor | Confidence
 17 | [62.76.147.106](https://vuldb.com/ip/62.76.147.106) | - | [Akira](https://vuldb.com/actor/akira) | High
 18 | ... | ... | ... | ...
 
-There are 67 more IOC items available. Please use our online service to access the data.
+There are 68 more IOC items available. Please use our online service to access the data.
 
 ## TTP - Tactics, Techniques, Procedures
 
@@ -76,74 +76,75 @@ ID | Type | Indicator | Confidence
 1 | File | `/#/network?tab=network_node_list.html` | High
 2 | File | `/?module=users&section=cpanel&page=list` | High
 3 | File | `/AcceptZip.ashx` | High
-4 | File | `/add_employee.php` | High
-5 | File | `/admin#themes` | High
-6 | File | `/admin.php` | Medium
-7 | File | `/admin/aboutus.php` | High
-8 | File | `/admin/actions/remove-announcement.php` | High
-9 | File | `/admin/add-ambulance.php` | High
-10 | File | `/admin/admin-profile.php` | High
-11 | File | `/admin/ajax.php?action=confirm_order` | High
-12 | File | `/admin/client_user` | High
-13 | File | `/admin/config_time_sync.php` | High
-14 | File | `/admin/create_product.php` | High
-15 | File | `/admin/deleteuser.php` | High
-16 | File | `/admin/edit-admin.php` | High
-17 | File | `/admin/edit-ambulance.php` | High
-18 | File | `/admin/edit.php` | High
-19 | File | `/admin/edit_supplier.php` | High
-20 | File | `/admin/emp-profile-avatar.php` | High
-21 | File | `/admin/index2.html` | High
-22 | File | `/admin/inventory/manage_stock.php` | High
-23 | File | `/admin/ipAddPost.php` | High
-24 | File | `/admin/kami_list` | High
-25 | File | `/admin/login.php` | High
-26 | File | `/admin/orders/update_status.php` | High
-27 | File | `/admin/positions_add.php` | High
-28 | File | `/admin/process_category_edit.php` | High
-29 | File | `/Admin/resultdetails.php` | High
-30 | File | `/admin/SysModule/upload/ajaxmodel/upload/uploadfilepath/sysmodule_1` | High
-31 | File | `/admin/voters_delete.php` | High
-32 | File | `/adminapi/system/crud` | High
-33 | File | `/administrator/bidlist.php` | High
-34 | File | `/admin_notify.php` | High
-35 | File | `/ajax.php?action=delete_member` | High
-36 | File | `/ajax.php?action=delete_tenant` | High
-37 | File | `/ajax.php?action=save_deductions` | High
-38 | File | `/animalsadd.php` | High
-39 | File | `/api/authentication/login` | High
-40 | File | `/api/wizard/getDualbandSync` | High
-41 | File | `/apiadmin/upload/attach` | High
-42 | File | `/application/pay/controller/Index.php` | High
-43 | File | `/appy.cgi` | Medium
-44 | File | `/artist-display.php` | High
-45 | File | `/assets/editNotes.php` | High
-46 | File | `/backend/admin/his_admin_register_patient.php` | High
-47 | File | `/billing/test_accesscodelogin.php` | High
-48 | File | `/boafrm/formParentControl` | High
-49 | File | `/boafrm/formReflashClientTbl` | High
-50 | File | `/boafrm/formTracerouteDiagnosticRun` | High
-51 | File | `/boafrm/formWlanMultipleAP` | High
-52 | File | `/boat/login.php` | High
-53 | File | `/cancelar-enturmacao-em-lote/` | High
-54 | File | `/cas/logout` | Medium
-55 | File | `/catalog/admin/categories.php?cPath=&action=new_product` | High
-56 | File | `/cgi-bin/hd_config.cgi` | High
-57 | File | `/cgi-bin/nas_sharing.cgi` | High
-58 | File | `/cgi-bin/p1_ftpserver.php` | High
-59 | File | `/cgi-bin/tosei_kikai.php` | High
-60 | File | `/cgi-bin/wlogin.cgi` | High
-61 | File | `/classes/Master.php` | High
-62 | File | `/classes/Master.php?f=delete_category` | High
-63 | File | `/classes/profile.class.php` | High
-64 | File | `/classes/SystemSettings.php?f=update_settings` | High
-65 | File | `/com/esafenet/servlet/policy/EncryptPolicyService.java` | High
-66 | File | `/com/ruoyi/common/utils/sql/SqlUtil.java` | High
-67 | File | `/conf/app.conf` | High
-68 | File | `/control/register_case.php` | High
-69 | ... | ... | ...
+4 | File | `/Actions.php` | Medium
+5 | File | `/add_employee.php` | High
+6 | File | `/admin#themes` | High
+7 | File | `/admin.php` | Medium
+8 | File | `/admin/aboutus.php` | High
+9 | File | `/admin/actions/remove-announcement.php` | High
+10 | File | `/admin/add-ambulance.php` | High
+11 | File | `/admin/admin-profile.php` | High
+12 | File | `/admin/ajax.php?action=confirm_order` | High
+13 | File | `/admin/ajax.php?action=delete_cart` | High
+14 | File | `/admin/client_user` | High
+15 | File | `/admin/config_time_sync.php` | High
+16 | File | `/admin/create_product.php` | High
+17 | File | `/admin/deleteuser.php` | High
+18 | File | `/admin/edit-admin.php` | High
+19 | File | `/admin/edit-ambulance.php` | High
+20 | File | `/admin/edit.php` | High
+21 | File | `/admin/edit_supplier.php` | High
+22 | File | `/admin/emp-profile-avatar.php` | High
+23 | File | `/admin/index2.html` | High
+24 | File | `/admin/inventory/manage_stock.php` | High
+25 | File | `/admin/ipAddPost.php` | High
+26 | File | `/admin/kami_list` | High
+27 | File | `/admin/login.php` | High
+28 | File | `/admin/orders/update_status.php` | High
+29 | File | `/admin/positions_add.php` | High
+30 | File | `/admin/process_category_edit.php` | High
+31 | File | `/Admin/resultdetails.php` | High
+32 | File | `/admin/SysModule/upload/ajaxmodel/upload/uploadfilepath/sysmodule_1` | High
+33 | File | `/admin/voters_delete.php` | High
+34 | File | `/adminapi/system/crud` | High
+35 | File | `/administrator/bidlist.php` | High
+36 | File | `/admin_notify.php` | High
+37 | File | `/ajax.php?action=delete_member` | High
+38 | File | `/ajax.php?action=delete_tenant` | High
+39 | File | `/ajax.php?action=save_deductions` | High
+40 | File | `/animalsadd.php` | High
+41 | File | `/api/authentication/login` | High
+42 | File | `/api/wizard/getDualbandSync` | High
+43 | File | `/apiadmin/upload/attach` | High
+44 | File | `/application/pay/controller/Index.php` | High
+45 | File | `/appy.cgi` | Medium
+46 | File | `/artist-display.php` | High
+47 | File | `/assets/editNotes.php` | High
+48 | File | `/backend/admin/his_admin_register_patient.php` | High
+49 | File | `/billing/test_accesscodelogin.php` | High
+50 | File | `/boafrm/formParentControl` | High
+51 | File | `/boafrm/formReflashClientTbl` | High
+52 | File | `/boafrm/formTracerouteDiagnosticRun` | High
+53 | File | `/boafrm/formWlanMultipleAP` | High
+54 | File | `/boat/login.php` | High
+55 | File | `/cancelar-enturmacao-em-lote/` | High
+56 | File | `/cas/logout` | Medium
+57 | File | `/catalog/admin/categories.php?cPath=&action=new_product` | High
+58 | File | `/cgi-bin/hd_config.cgi` | High
+59 | File | `/cgi-bin/nas_sharing.cgi` | High
+60 | File | `/cgi-bin/p1_ftpserver.php` | High
+61 | File | `/cgi-bin/tosei_kikai.php` | High
+62 | File | `/cgi-bin/wlogin.cgi` | High
+63 | File | `/classes/Master.php` | High
+64 | File | `/classes/Master.php?f=delete_category` | High
+65 | File | `/classes/profile.class.php` | High
+66 | File | `/classes/SystemSettings.php?f=update_settings` | High
+67 | File | `/com/esafenet/servlet/policy/EncryptPolicyService.java` | High
+68 | File | `/com/ruoyi/common/utils/sql/SqlUtil.java` | High
+69 | File | `/conf/app.conf` | High
+70 | ... | ... | ...
 
-There are 606 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 617 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -151,6 +152,7 @@ The following list contains _external sources_ which discuss the campaign and th
 
 * https://arcticwolf.com/resources/blog/arctic-wolf-labs-observes-increased-fog-and-akira-ransomware-activity-linked-to-sonicwall-ssl-vpn/
 * https://arcticwolf.com/resources/blog/smash-and-grab-aggressive-akira-campaign-targets-sonicwall-vpns/
+* https://circleid.com/posts/a-look-back-at-the-top-10-ransomware-of-2025
 * https://de.darktrace.com/blog/akira-ransomware-how-darktrace-foiled-another-novel-ransomware-attack
 * https://github.com/sophoslabs/IoCs/blob/master/2023-12%20Akira%20followup.csv
 * https://thedfirreport.com/2025/08/05/from-bing-search-to-ransomware-bumblebee-and-adaptixc2-deliver-akira/

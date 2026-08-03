@@ -4,6 +4,14 @@ These _indicators_ were reported, collected, and generated during the [VulDB CTI
 
 _Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/apt42](https://vuldb.com/actor/apt42)
 
+## Countries
+
+These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with APT42:
+
+* [GB](https://vuldb.com/country/gb)
+* [US](https://vuldb.com/country/us)
+* [PT](https://vuldb.com/country/pt)
+
 ## IOC - Indicator of Compromise
 
 These _indicators of compromise_ (IOC) indicate associated network resources which are known to be part of research and attack activities of APT42.
@@ -11,18 +19,29 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
 1 | [49.13.194.118](https://vuldb.com/ip/49.13.194.118) | static.118.194.13.49.clients.your-server.de | - | High
+2 | [146.19.254.238](https://vuldb.com/ip/146.19.254.238) | - | - | High
+
+## TTP - Tactics, Techniques, Procedures
+
+_Tactics, techniques, and procedures_ (TTP) summarize the suspected MITRE ATT&CK techniques used by _APT42_. This data is unique as it uses our predictive model for actor profiling.
+
+ID | Technique | Weakness | Description | Confidence
+-- | --------- | -------- | ----------- | ----------
+1 | T1068 | CWE-284 | Execution with Unnecessary Privileges | High
+2 | T1592 | CWE-200 | Invocation of Process Using Visible Sensitive Information | High
 
 ## References
 
 The following list contains _external sources_ which discuss the actor and the associated activities:
 
+* https://circleid.com/posts/a-network-ioc-analysis-for-8-iran-affiliated-apt-groups
 * https://circleid.com/posts/new-mitre-attck-groups-for-2025-a-dns-deep-dive
 
 ## Literature
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License

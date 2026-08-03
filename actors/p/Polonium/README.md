@@ -1,8 +1,8 @@
 # Polonium - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [Polonium](https://vuldb.com/?actor.polonium). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [Polonium](https://vuldb.com/actor/polonium). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.polonium](https://vuldb.com/?actor.polonium)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/polonium](https://vuldb.com/actor/polonium)
 
 ## Campaigns
 
@@ -14,9 +14,9 @@ The following _campaigns_ are known and can be associated with Polonium:
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Polonium:
 
-* [US](https://vuldb.com/?country.us)
-* [GB](https://vuldb.com/?country.gb)
-* [RU](https://vuldb.com/?country.ru)
+* [US](https://vuldb.com/country/us)
+* [GB](https://vuldb.com/country/gb)
+* [RU](https://vuldb.com/country/ru)
 * ...
 
 There are 25 more country items available. Please use our online service to access the data.
@@ -27,10 +27,10 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [37.120.233.89](https://vuldb.com/?ip.37.120.233.89) | no-rdns.m247.com | - | High
-2 | [45.80.148.119](https://vuldb.com/?ip.45.80.148.119) | - | - | High
-3 | [45.80.148.167](https://vuldb.com/?ip.45.80.148.167) | - | - | High
-4 | [45.80.148.186](https://vuldb.com/?ip.45.80.148.186) | - | - | High
+1 | [37.120.233.89](https://vuldb.com/ip/37.120.233.89) | no-rdns.m247.com | - | High
+2 | [45.80.148.119](https://vuldb.com/ip/45.80.148.119) | - | - | High
+3 | [45.80.148.167](https://vuldb.com/ip/45.80.148.167) | - | - | High
+4 | [45.80.148.186](https://vuldb.com/ip/45.80.148.186) | - | - | High
 5 | ... | ... | ... | ...
 
 There are 18 more IOC items available. Please use our online service to access the data.
@@ -60,39 +60,39 @@ ID | Type | Indicator | Confidence
 2 | File | `/AcceptZip.ashx` | High
 3 | File | `/admin.php` | Medium
 4 | File | `/advanced-tools/nova/bin/netwatch` | High
-5 | File | `/backend/admin/his_admin_add_lab_equipment.php` | High
-6 | File | `/BalloonSave.ashx` | High
-7 | File | `/cgi-bin/logo_extra_upload.cgi` | High
-8 | File | `/cgi-bin/mesh.cgi?page=upgrade` | High
-9 | File | `/cgi-bin/touchlist_sync.cgi` | High
-10 | File | `/classes/master.php?f=delete_order` | High
-11 | File | `/controller/api/Room.php` | High
-12 | File | `/dayrui/Fcms/Init.php` | High
-13 | File | `/dev-api/common/upload` | High
-14 | File | `/Device/Device/GetDeviceInfoList?deviceCode=&searchField=&deviceState=` | High
-15 | File | `/downloadFile.php` | High
-16 | File | `/etc/gsissh/sshd_config` | High
-17 | File | `/etc/passwd` | Medium
-18 | File | `/file/downloadShowFile.action` | High
-19 | File | `/forms/nslookupHandler` | High
-20 | File | `/goform/wirelessAdvancedHidden` | High
-21 | File | `/h/autoSaveDraft` | High
-22 | File | `/includes/article_detail.php` | High
-23 | File | `/index.php` | Medium
-24 | File | `/index.php/stock/item_select` | High
-25 | File | `/interlib/order/BatchOrder?cmdACT=admin_order&xsl=adminOrder_OrderList.xsl` | High
-26 | File | `/jdcapi` | Low
-27 | File | `/je/postil/postil/loadPostil` | High
-28 | File | `/librarian/bookdetails.php` | High
-29 | File | `/model/update_grade.php` | High
-30 | File | `/module/word_model/view/index.php` | High
-31 | File | `/modules/profile/index.php` | High
-32 | File | `/news.dtl.php` | High
-33 | File | `/opt/zimbra/jetty/webapps/zimbra/public` | High
-34 | File | `/out.php` | Medium
+5 | File | `/api/environments/` | High
+6 | File | `/backend/admin/his_admin_add_lab_equipment.php` | High
+7 | File | `/BalloonSave.ashx` | High
+8 | File | `/cgi-bin/logo_extra_upload.cgi` | High
+9 | File | `/cgi-bin/mesh.cgi?page=upgrade` | High
+10 | File | `/cgi-bin/touchlist_sync.cgi` | High
+11 | File | `/classes/master.php?f=delete_order` | High
+12 | File | `/controller/api/Room.php` | High
+13 | File | `/dayrui/Fcms/Init.php` | High
+14 | File | `/dev-api/common/upload` | High
+15 | File | `/Device/Device/GetDeviceInfoList?deviceCode=&searchField=&deviceState=` | High
+16 | File | `/downloadFile.php` | High
+17 | File | `/etc/gsissh/sshd_config` | High
+18 | File | `/etc/passwd` | Medium
+19 | File | `/file/downloadShowFile.action` | High
+20 | File | `/forms/nslookupHandler` | High
+21 | File | `/goform/wirelessAdvancedHidden` | High
+22 | File | `/h/autoSaveDraft` | High
+23 | File | `/includes/article_detail.php` | High
+24 | File | `/index.php` | Medium
+25 | File | `/index.php/stock/item_select` | High
+26 | File | `/interlib/order/BatchOrder?cmdACT=admin_order&xsl=adminOrder_OrderList.xsl` | High
+27 | File | `/jdcapi` | Low
+28 | File | `/je/postil/postil/loadPostil` | High
+29 | File | `/librarian/bookdetails.php` | High
+30 | File | `/model/update_grade.php` | High
+31 | File | `/module/word_model/view/index.php` | High
+32 | File | `/modules/profile/index.php` | High
+33 | File | `/news.dtl.php` | High
+34 | File | `/opt/zimbra/jetty/webapps/zimbra/public` | High
 35 | ... | ... | ...
 
-There are 296 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 300 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -105,9 +105,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

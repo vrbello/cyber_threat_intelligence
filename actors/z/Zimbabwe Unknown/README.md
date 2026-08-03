@@ -9,11 +9,11 @@ _Live data_ and more _analysis capabilities_ are available at [https://vuldb.com
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Zimbabwe Unknown:
 
 * [US](https://vuldb.com/country/us)
-* [GB](https://vuldb.com/country/gb)
 * [DE](https://vuldb.com/country/de)
+* [EG](https://vuldb.com/country/eg)
 * ...
 
-There are 43 more country items available. Please use our online service to access the data.
+There are 39 more country items available. Please use our online service to access the data.
 
 ## IOC - Indicator of Compromise
 
@@ -95,14 +95,14 @@ _Tactics, techniques, and procedures_ (TTP) summarize the suspected MITRE ATT&CK
 
 ID | Technique | Weakness | Description | Confidence
 -- | --------- | -------- | ----------- | ----------
-1 | T1006 | CWE-21, CWE-22, CWE-23 | Path Traversal | High
+1 | T1006 | CWE-22, CWE-23 | Path Traversal | High
 2 | T1040 | CWE-319 | Authentication Bypass by Capture-replay | High
 3 | T1055 | CWE-74 | Improper Neutralization of Data within XPath Expressions | High
 4 | T1059 | CWE-88, CWE-94 | Argument Injection | High
 5 | T1059.007 | CWE-79, CWE-80 | Basic Cross Site Scripting | High
 6 | ... | ... | ... | ...
 
-There are 20 more TTP items available. Please use our online service to access the data.
+There are 18 more TTP items available. Please use our online service to access the data.
 
 ## IOA - Indicator of Attack
 
@@ -114,54 +114,48 @@ ID | Type | Indicator | Confidence
 2 | File | `/account/forgotpassword` | High
 3 | File | `/addbill.php` | Medium
 4 | File | `/admin` | Low
-5 | File | `/admin/add_trainers.php` | High
-6 | File | `/admin/admin-profile.php` | High
-7 | File | `/admin/ajax.php?action=delete_vacancy` | High
-8 | File | `/admin/class.php` | High
-9 | File | `/admin/create_product.php` | High
-10 | File | `/admin/department.php` | High
-11 | File | `/admin/edit_action.php` | High
-12 | File | `/Admin/edit_profile.php` | High
-13 | File | `/admin/edit_user.php` | High
-14 | File | `/admin/emp-profile-avatar.php` | High
-15 | File | `/Admin/facilitator.php` | High
-16 | File | `/admin/index.php` | High
-17 | File | `/admin/index2.html` | High
-18 | File | `/admin/manage-pages.php` | High
-19 | File | `/admin/registration.php` | High
-20 | File | `/admin/reservation.php` | High
-21 | File | `/admin/sales/manage_sale.php` | High
-22 | File | `/Admin/sports.php` | High
-23 | File | `/admin/view-appointment.php` | High
-24 | File | `/advanced-tools/nova/bin/netwatch` | High
-25 | File | `/ajax.php?action=save_ticket` | High
-26 | File | `/api/file/downloadUrl` | High
-27 | File | `/Api/TinyMce/UploadAjaxAPI.ashx` | High
-28 | File | `/api/user/update` | High
-29 | File | `/apilog.php` | Medium
-30 | File | `/appointment-history.php` | High
-31 | File | `/App_Resource/UEditor/server/upload.aspx` | High
-32 | File | `/assets/editNotes.php` | High
-33 | File | `/auth_pic.cgi` | High
-34 | File | `/cancelbookingpatient.php` | High
-35 | File | `/category.php` | High
-36 | File | `/cgi-bin/account_mgr.cgi?cmd=cgi_user_add` | High
-37 | File | `/cgi-bin/api-get_line_status` | High
-38 | File | `/cgi-bin/cstecgi.cgi` | High
-39 | File | `/cgi-bin/myMusic.cgi` | High
-40 | File | `/cgi-bin/wlogin.cgi` | High
-41 | File | `/changeimage1.php` | High
-42 | File | `/ClickAndBanexDemo/admin/admin.asp` | High
-43 | File | `/cms/templates/templatesAssetsEditor` | High
-44 | File | `/CMSInstall/install.aspx` | High
-45 | File | `/Code/loginnew.php` | High
-46 | File | `/Code/sc_login.php` | High
-47 | File | `/com/esafenet/servlet/document/CDGAuthoriseTempletService.java` | High
-48 | File | `/complete_task.php` | High
-49 | File | `/conf/app.conf` | High
-50 | ... | ... | ...
+5 | File | `/admin/admin-profile.php` | High
+6 | File | `/admin/ajax.php?action=delete_vacancy` | High
+7 | File | `/admin/class.php` | High
+8 | File | `/admin/create_product.php` | High
+9 | File | `/admin/department.php` | High
+10 | File | `/admin/edit_action.php` | High
+11 | File | `/Admin/edit_profile.php` | High
+12 | File | `/admin/edit_user.php` | High
+13 | File | `/admin/emp-profile-avatar.php` | High
+14 | File | `/Admin/facilitator.php` | High
+15 | File | `/admin/index.php` | High
+16 | File | `/admin/index2.html` | High
+17 | File | `/admin/manage-pages.php` | High
+18 | File | `/admin/registration.php` | High
+19 | File | `/admin/reservation.php` | High
+20 | File | `/Admin/sports.php` | High
+21 | File | `/admin/view-appointment.php` | High
+22 | File | `/advanced-tools/nova/bin/netwatch` | High
+23 | File | `/ajax.php?action=save_ticket` | High
+24 | File | `/api/file/downloadUrl` | High
+25 | File | `/Api/TinyMce/UploadAjaxAPI.ashx` | High
+26 | File | `/api/user/update` | High
+27 | File | `/apilog.php` | Medium
+28 | File | `/appointment-history.php` | High
+29 | File | `/App_Resource/UEditor/server/upload.aspx` | High
+30 | File | `/assets/editNotes.php` | High
+31 | File | `/auth_pic.cgi` | High
+32 | File | `/cancelbookingpatient.php` | High
+33 | File | `/category.php` | High
+34 | File | `/cgi-bin/account_mgr.cgi?cmd=cgi_user_add` | High
+35 | File | `/cgi-bin/cstecgi.cgi` | High
+36 | File | `/cgi-bin/myMusic.cgi` | High
+37 | File | `/changeimage1.php` | High
+38 | File | `/ClickAndBanexDemo/admin/admin.asp` | High
+39 | File | `/cms/templates/templatesAssetsEditor` | High
+40 | File | `/CMSInstall/install.aspx` | High
+41 | File | `/Code/loginnew.php` | High
+42 | File | `/Code/sc_login.php` | High
+43 | File | `/com/esafenet/servlet/document/CDGAuthoriseTempletService.java` | High
+44 | ... | ... | ...
 
-There are 432 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 380 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -175,7 +169,7 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License

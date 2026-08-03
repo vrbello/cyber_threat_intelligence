@@ -144,7 +144,7 @@ ID | Type | Indicator | Confidence
 80 | File | `/cgi-bin/apkg_mgr.cgi` | High
 81 | ... | ... | ...
 
-There are 714 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 713 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 

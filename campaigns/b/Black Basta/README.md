@@ -1,19 +1,19 @@
 # Black Basta - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the campaign known as _Black Basta_. The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the campaign known as _Black Basta_. The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor](https://vuldb.com/?actor)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor](https://vuldb.com/actor)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Black Basta:
 
-* [CN](https://vuldb.com/?country.cn)
-* [US](https://vuldb.com/?country.us)
-* [GB](https://vuldb.com/?country.gb)
+* [US](https://vuldb.com/country/us)
+* [CN](https://vuldb.com/country/cn)
+* [GB](https://vuldb.com/country/gb)
 * ...
 
-There are 8 more country items available. Please use our online service to access the data.
+There are 9 more country items available. Please use our online service to access the data.
 
 ## Actors
 
@@ -21,8 +21,8 @@ These _actors_ are associated with Black Basta or other actors linked to the cam
 
 ID | Actor | Confidence
 -- | ----- | ----------
-1 | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-2 | [FIN7](https://vuldb.com/?actor.fin7) | High
+1 | [Black Basta](https://vuldb.com/actor/black_basta) | High
+2 | [FIN7](https://vuldb.com/actor/fin7) | High
 
 ## IOC - Indicator of Compromise
 
@@ -30,47 +30,50 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Actor | Confidence
 -- | ---------- | -------- | ----- | ----------
-1 | [2.57.149.22](https://vuldb.com/?ip.2.57.149.22) | - | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-2 | [2.57.149.25](https://vuldb.com/?ip.2.57.149.25) | - | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-3 | [2.57.149.231](https://vuldb.com/?ip.2.57.149.231) | - | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-4 | [2.57.149.237](https://vuldb.com/?ip.2.57.149.237) | - | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-5 | [5.62.43.252](https://vuldb.com/?ip.5.62.43.252) | r-252-43-62-5.consumer-pool.prcdn.net | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-6 | [5.78.41.255](https://vuldb.com/?ip.5.78.41.255) | static.255.41.78.5.clients.your-server.de | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-7 | [5.181.3.164](https://vuldb.com/?ip.5.181.3.164) | 49897.ip-ptr.tech | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-8 | [5.181.159.48](https://vuldb.com/?ip.5.181.159.48) | 5-181-159-48.mivocloud.com | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-9 | [5.196.124.228](https://vuldb.com/?ip.5.196.124.228) | ip228.ip-5-196-124.eu | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-10 | [5.199.162.220](https://vuldb.com/?ip.5.199.162.220) | - | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-11 | [8.209.111.227](https://vuldb.com/?ip.8.209.111.227) | - | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-12 | [8.211.34.166](https://vuldb.com/?ip.8.211.34.166) | - | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-13 | [20.82.136.218](https://vuldb.com/?ip.20.82.136.218) | - | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-14 | [20.187.1.254](https://vuldb.com/?ip.20.187.1.254) | - | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-15 | [23.26.137.225](https://vuldb.com/?ip.23.26.137.225) | - | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-16 | [23.81.246.84](https://vuldb.com/?ip.23.81.246.84) | - | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-17 | [23.106.160.188](https://vuldb.com/?ip.23.106.160.188) | - | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-18 | [23.227.178.65](https://vuldb.com/?ip.23.227.178.65) | 23-227-178-65.static.hvvc.us | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-19 | [24.49.232.96](https://vuldb.com/?ip.24.49.232.96) | 24-49-232-96.resi.cgocable.ca | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-20 | [24.64.114.59](https://vuldb.com/?ip.24.64.114.59) | S0106b06ebfd79790.cg.shawcable.net | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-21 | [24.178.196.44](https://vuldb.com/?ip.24.178.196.44) | 024-178-196-044.biz.spectrum.com | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-22 | [37.186.54.185](https://vuldb.com/?ip.37.186.54.185) | - | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-23 | [38.132.111.19](https://vuldb.com/?ip.38.132.111.19) | jawu0119.fruitfast.eu | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-24 | [38.180.25.3](https://vuldb.com/?ip.38.180.25.3) | - | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-25 | [38.180.135.232](https://vuldb.com/?ip.38.180.135.232) | - | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-26 | [38.180.159.239](https://vuldb.com/?ip.38.180.159.239) | - | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-27 | [38.180.192.243](https://vuldb.com/?ip.38.180.192.243) | - | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-28 | [39.44.144.182](https://vuldb.com/?ip.39.44.144.182) | - | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-29 | [45.8.157.146](https://vuldb.com/?ip.45.8.157.146) | 0fsjupu3.nktele.com | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-30 | [45.8.157.158](https://vuldb.com/?ip.45.8.157.158) | u34bht89.nktele.com | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-31 | [45.8.157.162](https://vuldb.com/?ip.45.8.157.162) | - | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-32 | [45.8.157.199](https://vuldb.com/?ip.45.8.157.199) | - | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-33 | [45.61.152.154](https://vuldb.com/?ip.45.61.152.154) | 154.152.61.45.static.cloudzy.com | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-34 | [45.63.1.88](https://vuldb.com/?ip.45.63.1.88) | 45.63.1.88.vultrusercontent.com | [Black Basta](https://vuldb.com/?actor.black_basta) | Medium
-35 | [45.67.229.148](https://vuldb.com/?ip.45.67.229.148) | renoldgavrilov93.example.com | [FIN7](https://vuldb.com/?actor.fin7) | High
-36 | [45.87.154.208](https://vuldb.com/?ip.45.87.154.208) | vm1075965.stark-industries.solutions | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-37 | [45.128.133.17](https://vuldb.com/?ip.45.128.133.17) | smx0.dralo813.com | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-38 | [45.128.135.14](https://vuldb.com/?ip.45.128.135.14) | smx0.dorpa328.com | [Black Basta](https://vuldb.com/?actor.black_basta) | High
-39 | ... | ... | ... | ...
+1 | [2.57.149.22](https://vuldb.com/ip/2.57.149.22) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+2 | [2.57.149.25](https://vuldb.com/ip/2.57.149.25) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+3 | [2.57.149.231](https://vuldb.com/ip/2.57.149.231) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+4 | [2.57.149.237](https://vuldb.com/ip/2.57.149.237) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+5 | [5.62.43.252](https://vuldb.com/ip/5.62.43.252) | r-252-43-62-5.consumer-pool.prcdn.net | [Black Basta](https://vuldb.com/actor/black_basta) | High
+6 | [5.78.41.255](https://vuldb.com/ip/5.78.41.255) | static.255.41.78.5.clients.your-server.de | [Black Basta](https://vuldb.com/actor/black_basta) | High
+7 | [5.181.3.164](https://vuldb.com/ip/5.181.3.164) | 49897.ip-ptr.tech | [Black Basta](https://vuldb.com/actor/black_basta) | High
+8 | [5.181.159.48](https://vuldb.com/ip/5.181.159.48) | 5-181-159-48.mivocloud.com | [Black Basta](https://vuldb.com/actor/black_basta) | High
+9 | [5.196.124.228](https://vuldb.com/ip/5.196.124.228) | ip228.ip-5-196-124.eu | [Black Basta](https://vuldb.com/actor/black_basta) | High
+10 | [5.199.162.220](https://vuldb.com/ip/5.199.162.220) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+11 | [8.209.111.227](https://vuldb.com/ip/8.209.111.227) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+12 | [8.211.34.166](https://vuldb.com/ip/8.211.34.166) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+13 | [20.82.136.218](https://vuldb.com/ip/20.82.136.218) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+14 | [20.187.1.254](https://vuldb.com/ip/20.187.1.254) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+15 | [23.26.137.225](https://vuldb.com/ip/23.26.137.225) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+16 | [23.81.246.84](https://vuldb.com/ip/23.81.246.84) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+17 | [23.106.160.188](https://vuldb.com/ip/23.106.160.188) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+18 | [23.227.178.65](https://vuldb.com/ip/23.227.178.65) | 23-227-178-65.static.hvvc.us | [Black Basta](https://vuldb.com/actor/black_basta) | High
+19 | [24.49.232.96](https://vuldb.com/ip/24.49.232.96) | 24-49-232-96.resi.cgocable.ca | [Black Basta](https://vuldb.com/actor/black_basta) | High
+20 | [24.64.114.59](https://vuldb.com/ip/24.64.114.59) | S0106b06ebfd79790.cg.shawcable.net | [Black Basta](https://vuldb.com/actor/black_basta) | High
+21 | [24.178.196.44](https://vuldb.com/ip/24.178.196.44) | 024-178-196-044.biz.spectrum.com | [Black Basta](https://vuldb.com/actor/black_basta) | High
+22 | [37.186.54.185](https://vuldb.com/ip/37.186.54.185) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+23 | [38.132.111.19](https://vuldb.com/ip/38.132.111.19) | jawu0119.fruitfast.eu | [Black Basta](https://vuldb.com/actor/black_basta) | High
+24 | [38.180.25.3](https://vuldb.com/ip/38.180.25.3) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+25 | [38.180.135.232](https://vuldb.com/ip/38.180.135.232) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+26 | [38.180.159.239](https://vuldb.com/ip/38.180.159.239) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+27 | [38.180.192.243](https://vuldb.com/ip/38.180.192.243) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+28 | [39.44.144.182](https://vuldb.com/ip/39.44.144.182) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+29 | [45.8.157.146](https://vuldb.com/ip/45.8.157.146) | 0fsjupu3.nktele.com | [Black Basta](https://vuldb.com/actor/black_basta) | High
+30 | [45.8.157.158](https://vuldb.com/ip/45.8.157.158) | u34bht89.nktele.com | [Black Basta](https://vuldb.com/actor/black_basta) | High
+31 | [45.8.157.162](https://vuldb.com/ip/45.8.157.162) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+32 | [45.8.157.199](https://vuldb.com/ip/45.8.157.199) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+33 | [45.61.136.236](https://vuldb.com/ip/45.61.136.236) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+34 | [45.61.139.218](https://vuldb.com/ip/45.61.139.218) | - | [Black Basta](https://vuldb.com/actor/black_basta) | High
+35 | [45.61.152.154](https://vuldb.com/ip/45.61.152.154) | 154.152.61.45.static.cloudzy.com | [Black Basta](https://vuldb.com/actor/black_basta) | High
+36 | [45.63.1.88](https://vuldb.com/ip/45.63.1.88) | 45.63.1.88.vultrusercontent.com | [Black Basta](https://vuldb.com/actor/black_basta) | Medium
+37 | [45.67.229.148](https://vuldb.com/ip/45.67.229.148) | renoldgavrilov93.example.com | [FIN7](https://vuldb.com/actor/fin7) | High
+38 | [45.87.154.208](https://vuldb.com/ip/45.87.154.208) | vm1075965.stark-industries.solutions | [Black Basta](https://vuldb.com/actor/black_basta) | High
+39 | [45.128.133.17](https://vuldb.com/ip/45.128.133.17) | smx0.dralo813.com | [Black Basta](https://vuldb.com/actor/black_basta) | High
+40 | [45.128.135.14](https://vuldb.com/ip/45.128.135.14) | smx0.dorpa328.com | [Black Basta](https://vuldb.com/actor/black_basta) | High
+41 | [45.128.149.32](https://vuldb.com/ip/45.128.149.32) | clrdp2790.desktp | [Black Basta](https://vuldb.com/actor/black_basta) | High
+42 | ... | ... | ... | ...
 
-There are 152 more IOC items available. Please use our online service to access the data.
+There are 163 more IOC items available. Please use our online service to access the data.
 
 ## TTP - Tactics, Techniques, Procedures
 
@@ -78,14 +81,13 @@ _Tactics, techniques, and procedures_ (TTP) summarize the suspected MITRE ATT&CK
 
 ID | Technique | Weakness | Description | Confidence
 -- | --------- | -------- | ----------- | ----------
-1 | T1006 | CWE-22, CWE-24 | Path Traversal | High
+1 | T1006 | CWE-22, CWE-24, CWE-25 | Path Traversal | High
 2 | T1055 | CWE-74 | Improper Neutralization of Data within XPath Expressions | High
-3 | T1059 | CWE-88, CWE-94 | Argument Injection | High
-4 | T1059.007 | CWE-79, CWE-80, CWE-85 | Basic Cross Site Scripting | High
-5 | T1068 | CWE-264, CWE-269, CWE-284 | Execution with Unnecessary Privileges | High
-6 | ... | ... | ... | ...
+3 | T1059 | CWE-88, CWE-94, CWE-1321 | Argument Injection | High
+4 | T1059.007 | CWE-79, CWE-80 | Basic Cross Site Scripting | High
+5 | ... | ... | ... | ...
 
-There are 19 more TTP items available. Please use our online service to access the data.
+There are 18 more TTP items available. Please use our online service to access the data.
 
 ## IOA - Indicator of Attack
 
@@ -102,36 +104,37 @@ ID | Type | Indicator | Confidence
 7 | File | `/admin/delete_user.php` | High
 8 | File | `/admin/index.php` | High
 9 | File | `/admin/newsletterdel.php` | High
-10 | File | `/admin/pages/` | High
-11 | File | `/admin/positions.php` | High
-12 | File | `/admin/receipt.php` | High
-13 | File | `/admind45f74adbd95.php?c=field&m=add&rname=site&rid=1&page=0` | High
-14 | File | `/admind45f74adbd95.php?c=field&m=add&rname=site&rid=1&page=1` | High
-15 | File | `/Administrator/PHP/AdminDeleteUser.php` | High
-16 | File | `/Administrator/PHP/AdminEditUser.php` | High
-17 | File | `/Administrator/PHP/AdminReply.php` | High
-18 | File | `/admins` | Low
-19 | File | `/adv_mac_filter.php` | High
-20 | File | `/ajax.php?action=login` | High
-21 | File | `/ajax/getBasicInfo.php` | High
-22 | File | `/api/files/recipepictures/` | High
-23 | File | `/app/register.php?action=reg` | High
-24 | File | `/authentication.cgi` | High
-25 | File | `/boaform/formSamba` | High
-26 | File | `/boafrm/formDdns` | High
-27 | File | `/boafrm/formTracerouteDiagnosticRun` | High
-28 | File | `/boafrm/formVpnConfigSetup` | High
-29 | File | `/cgi-bin/cstecgi.cgi` | High
-30 | File | `/cgi-bin/wlogin.cgi` | High
-31 | File | `/clientdetails/admin/regester.php` | High
-32 | File | `/detailtransac.php` | High
-33 | File | `/dev/ptpX` | Medium
-34 | File | `/editeddonor.php` | High
-35 | File | `/editprofile.php` | High
-36 | File | `/farm/product.php` | High
-37 | ... | ... | ...
+10 | File | `/admin/positions.php` | High
+11 | File | `/admin/receipt.php` | High
+12 | File | `/admind45f74adbd95.php?c=field&m=add&rname=site&rid=1&page=0` | High
+13 | File | `/admind45f74adbd95.php?c=field&m=add&rname=site&rid=1&page=1` | High
+14 | File | `/Administrator/PHP/AdminDeleteUser.php` | High
+15 | File | `/Administrator/PHP/AdminEditUser.php` | High
+16 | File | `/Administrator/PHP/AdminReply.php` | High
+17 | File | `/adv_mac_filter.php` | High
+18 | File | `/ajax.php?action=login` | High
+19 | File | `/ajax/getBasicInfo.php` | High
+20 | File | `/api/files/recipepictures/` | High
+21 | File | `/app/register.php?action=reg` | High
+22 | File | `/authentication.cgi` | High
+23 | File | `/boaform/formSamba` | High
+24 | File | `/boafrm/formDdns` | High
+25 | File | `/boafrm/formTracerouteDiagnosticRun` | High
+26 | File | `/boafrm/formVpnConfigSetup` | High
+27 | File | `/cgi-bin/cstecgi.cgi` | High
+28 | File | `/clientdetails/admin/regester.php` | High
+29 | File | `/detailtransac.php` | High
+30 | File | `/dev/ptpX` | Medium
+31 | File | `/editeddonor.php` | High
+32 | File | `/editprofile.php` | High
+33 | File | `/foreigner-search.php` | High
+34 | File | `/FrontEnd/Albums.php` | High
+35 | File | `/function.php` | High
+36 | File | `/gallery/api/status/` | High
+37 | File | `/goform/AdvSetLanip` | High
+38 | ... | ... | ...
 
-There are 320 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 326 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -139,11 +142,14 @@ The following list contains _external sources_ which discuss the campaign and th
 
 * https://1275.ru/ioc/311/black-basta-apt-iocs/
 * https://blog.eclecticiq.com/inside-bruted-black-basta-raas-members-used-automated-brute-forcing-framework-to-target-edge-network-devices
+* https://circleid.com/posts/what-remains-of-black-basta-now-that-alleged-gang-leader-joined-the-most-wanted-list
 * https://darktrace.com/blog/elevating-network-security-confronting-trust-challenges-ransomware-epidemics-and-novel-attack-tactics
 * https://de.darktrace.com/blog/black-basta-old-dogs-with-new-tricks
 * https://disclosing.observer/2025/11/24/bulletproof-hoster-anatomy-data-driven-reconstruction.html
 * https://get.zerofox.com/rs/143-DHV-007/images/ZeroFox-Intelligence-Update-Black-Basta-Ransomware-Report-2023.pdf
 * https://github.com/rapid7/Rapid7-Labs/blob/main/IOCs/BlackBasta_SocialEngineering_IOCs.txt
+* https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/
+* https://www.bluevoyant.com/blog/new-a0backdoor-linked-to-teams-impersonation-and-quick-assist-social-engineering
 * https://www.cloudflare.com/threat-intelligence/research/report/black-bastas-blunder-exploiting-the-gangs-leaked-chats/
 * https://www.cybereason.com/blog/threat-alert-aggressive-qakbot-campaign-and-the-black-basta-ransomware-group-targeting-u.s.-companies
 * https://www.secureworks.com/blog/qakbot-campaign-delivered-black-basta-ransomware
@@ -156,9 +162,9 @@ The following list contains _external sources_ which discuss the campaign and th
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

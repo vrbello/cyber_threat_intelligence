@@ -1,19 +1,19 @@
 # Qealler - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [Qealler](https://vuldb.com/?actor.qealler). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [Qealler](https://vuldb.com/actor/qealler). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.qealler](https://vuldb.com/?actor.qealler)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/qealler](https://vuldb.com/actor/qealler)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Qealler:
 
-* [US](https://vuldb.com/?country.us)
-* [NL](https://vuldb.com/?country.nl)
-* [GB](https://vuldb.com/?country.gb)
+* [US](https://vuldb.com/country/us)
+* [NL](https://vuldb.com/country/nl)
+* [GB](https://vuldb.com/country/gb)
 * ...
 
-There are 20 more country items available. Please use our online service to access the data.
+There are 21 more country items available. Please use our online service to access the data.
 
 ## IOC - Indicator of Compromise
 
@@ -21,12 +21,12 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [79.143.87.120](https://vuldb.com/?ip.79.143.87.120) | bairdroome.info | - | High
-2 | [139.59.76.44](https://vuldb.com/?ip.139.59.76.44) | server1.agorimtech.com | - | High
-3 | [146.185.139.123](https://vuldb.com/?ip.146.185.139.123) | - | - | High
+1 | [79.143.87.120](https://vuldb.com/ip/79.143.87.120) | bairdroome.info | - | High
+2 | [139.59.76.44](https://vuldb.com/ip/139.59.76.44) | server1.agorimtech.com | - | High
+3 | [146.185.139.123](https://vuldb.com/ip/146.185.139.123) | - | - | High
 4 | ... | ... | ... | ...
 
-There are 4 more IOC items available. Please use our online service to access the data.
+There are 5 more IOC items available. Please use our online service to access the data.
 
 ## TTP - Tactics, Techniques, Procedures
 
@@ -94,11 +94,12 @@ ID | Type | Indicator | Confidence
 42 | File | `/login.php` | Medium
 43 | File | `/loginsave.php` | High
 44 | File | `/LogoStore/search.php` | High
-45 | File | `/MTFWU` | Low
-46 | File | `/new` | Low
-47 | ... | ... | ...
+45 | File | `/model/viewProduct.php` | High
+46 | File | `/MTFWU` | Low
+47 | File | `/new` | Low
+48 | ... | ... | ...
 
-There are 407 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 414 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -113,9 +114,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

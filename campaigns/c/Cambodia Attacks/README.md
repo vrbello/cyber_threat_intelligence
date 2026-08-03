@@ -1,19 +1,19 @@
 # Cambodia Attacks - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the campaign known as _Cambodia Attacks_. The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the campaign known as _Cambodia Attacks_. The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor](https://vuldb.com/?actor)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor](https://vuldb.com/actor)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Cambodia Attacks:
 
-* [US](https://vuldb.com/?country.us)
-* [CN](https://vuldb.com/?country.cn)
-* [RU](https://vuldb.com/?country.ru)
+* [US](https://vuldb.com/country/us)
+* [CN](https://vuldb.com/country/cn)
+* [RU](https://vuldb.com/country/ru)
 * ...
 
-There are 4 more country items available. Please use our online service to access the data.
+There are 5 more country items available. Please use our online service to access the data.
 
 ## Actors
 
@@ -21,8 +21,8 @@ These _actors_ are associated with Cambodia Attacks or other actors linked to th
 
 ID | Actor | Confidence
 -- | ----- | ----------
-1 | [China Unknown](https://vuldb.com/?actor.china_unknown) | High
-2 | [KHRAT](https://vuldb.com/?actor.khrat) | High
+1 | [China Unknown](https://vuldb.com/actor/china_unknown) | High
+2 | [KHRAT](https://vuldb.com/actor/khrat) | High
 
 ## IOC - Indicator of Compromise
 
@@ -30,9 +30,9 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Actor | Confidence
 -- | ---------- | -------- | ----- | ----------
-1 | [104.248.153.204](https://vuldb.com/?ip.104.248.153.204) | - | [China Unknown](https://vuldb.com/?actor.china_unknown) | High
-2 | [143.110.189.141](https://vuldb.com/?ip.143.110.189.141) | - | [China Unknown](https://vuldb.com/?actor.china_unknown) | High
-3 | [165.232.186.197](https://vuldb.com/?ip.165.232.186.197) | - | [China Unknown](https://vuldb.com/?actor.china_unknown) | High
+1 | [104.248.153.204](https://vuldb.com/ip/104.248.153.204) | - | [China Unknown](https://vuldb.com/actor/china_unknown) | High
+2 | [143.110.189.141](https://vuldb.com/ip/143.110.189.141) | - | [China Unknown](https://vuldb.com/actor/china_unknown) | High
+3 | [165.232.186.197](https://vuldb.com/ip/165.232.186.197) | - | [China Unknown](https://vuldb.com/actor/china_unknown) | High
 4 | ... | ... | ... | ...
 
 There are 4 more IOC items available. Please use our online service to access the data.
@@ -84,7 +84,7 @@ ID | Type | Indicator | Confidence
 25 | File | `/xAdmin/html/cm_doclist_view_uc.jsp` | High
 26 | ... | ... | ...
 
-There are 214 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 215 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -97,9 +97,9 @@ The following list contains _external sources_ which discuss the campaign and th
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

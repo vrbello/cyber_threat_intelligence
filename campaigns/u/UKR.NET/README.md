@@ -110,31 +110,31 @@ ID | Type | Indicator | Confidence
 51 | File | `/api/settings` | High
 52 | File | `/api/sys/login` | High
 53 | File | `/api/wizard/getCapability` | High
-54 | File | `/app/api/controller/collect.php` | High
-55 | File | `/app/api/v1/openvpn.py` | High
-56 | File | `/app/controller/Api.php` | High
-57 | File | `/app/index/controller/Common.php` | High
-58 | File | `/app/register.php?action=reg` | High
-59 | File | `/app/sys1.php` | High
-60 | File | `/applications/core/modules/admin/editor/toolbar.php` | High
-61 | File | `/Applications/Google\ Drive.app/Contents/MacOS` | High
-62 | File | `/applications/nexus/modules/front/store/store.php` | High
-63 | File | `/assetsGroupReport/assetsService.j%73p` | High
-64 | File | `/auth.asp` | Medium
-65 | File | `/backend/doc/his_doc_update-account.php` | High
-66 | File | `/bin/httpd` | Medium
-67 | File | `/bitrix/admin/ldap_server_edit.php` | High
-68 | File | `/biurl_grou` | Medium
-69 | File | `/boaform/formSysCmd` | High
-70 | File | `/boafrm/formDMZ` | High
-71 | File | `/boafrm/formTmultiAP` | High
-72 | File | `/borrow.php` | Medium
-73 | File | `/browse.php` | Medium
-74 | File | `/cgi-bin/apkg_mgr.cgi` | High
-75 | File | `/cgi-bin/cstecgi.cgi` | High
+54 | File | `/api/wizard/setLanguage` | High
+55 | File | `/app/api/controller/collect.php` | High
+56 | File | `/app/api/v1/openvpn.py` | High
+57 | File | `/app/controller/Api.php` | High
+58 | File | `/app/index/controller/Common.php` | High
+59 | File | `/app/register.php?action=reg` | High
+60 | File | `/app/sys1.php` | High
+61 | File | `/applications/core/modules/admin/editor/toolbar.php` | High
+62 | File | `/Applications/Google\ Drive.app/Contents/MacOS` | High
+63 | File | `/applications/nexus/modules/front/store/store.php` | High
+64 | File | `/assetsGroupReport/assetsService.j%73p` | High
+65 | File | `/auth.asp` | Medium
+66 | File | `/backend/doc/his_doc_update-account.php` | High
+67 | File | `/bin/httpd` | Medium
+68 | File | `/bitrix/admin/ldap_server_edit.php` | High
+69 | File | `/biurl_grou` | Medium
+70 | File | `/boaform/formSysCmd` | High
+71 | File | `/boafrm/formDMZ` | High
+72 | File | `/boafrm/formTmultiAP` | High
+73 | File | `/borrow.php` | Medium
+74 | File | `/browse.php` | Medium
+75 | File | `/cgi-bin/apkg_mgr.cgi` | High
 76 | ... | ... | ...
 
-There are 669 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 672 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 

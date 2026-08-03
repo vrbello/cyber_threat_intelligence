@@ -1,19 +1,19 @@
 # Pegasus - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the campaign known as _Pegasus_. The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the campaign known as _Pegasus_. The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor](https://vuldb.com/?actor)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor](https://vuldb.com/actor)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Pegasus:
 
-* [DE](https://vuldb.com/?country.de)
-* [US](https://vuldb.com/?country.us)
-* [GB](https://vuldb.com/?country.gb)
+* [DE](https://vuldb.com/country/de)
+* [US](https://vuldb.com/country/us)
+* [GB](https://vuldb.com/country/gb)
 * ...
 
-There are 1 more country items available. Please use our online service to access the data.
+There are 2 more country items available. Please use our online service to access the data.
 
 ## Actors
 
@@ -21,9 +21,9 @@ These _actors_ are associated with Pegasus or other actors linked to the campaig
 
 ID | Actor | Confidence
 -- | ----- | ----------
-1 | [LULU](https://vuldb.com/?actor.lulu) | High
-2 | [NSO Group](https://vuldb.com/?actor.nso_group) | High
-3 | [Sarwent](https://vuldb.com/?actor.sarwent) | High
+1 | [LULU](https://vuldb.com/actor/lulu) | High
+2 | [NSO Group](https://vuldb.com/actor/nso_group) | High
+3 | [Sarwent](https://vuldb.com/actor/sarwent) | High
 
 ## IOC - Indicator of Compromise
 
@@ -31,16 +31,16 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Actor | Confidence
 -- | ---------- | -------- | ----- | ----------
-1 | [3.13.132.96](https://vuldb.com/?ip.3.13.132.96) | ec2-3-13-132-96.us-east-2.compute.amazonaws.com | [NSO Group](https://vuldb.com/?actor.nso_group) | Medium
-2 | [3.16.75.157](https://vuldb.com/?ip.3.16.75.157) | ec2-3-16-75-157.us-east-2.compute.amazonaws.com | [NSO Group](https://vuldb.com/?actor.nso_group) | Medium
-3 | [13.58.85.100](https://vuldb.com/?ip.13.58.85.100) | ec2-13-58-85-100.us-east-2.compute.amazonaws.com | [NSO Group](https://vuldb.com/?actor.nso_group) | Medium
-4 | [13.59.79.240](https://vuldb.com/?ip.13.59.79.240) | ec2-13-59-79-240.us-east-2.compute.amazonaws.com | [NSO Group](https://vuldb.com/?actor.nso_group) | Medium
-5 | [18.191.63.125](https://vuldb.com/?ip.18.191.63.125) | ec2-18-191-63-125.us-east-2.compute.amazonaws.com | [NSO Group](https://vuldb.com/?actor.nso_group) | Medium
-6 | [18.217.13.50](https://vuldb.com/?ip.18.217.13.50) | ec2-18-217-13-50.us-east-2.compute.amazonaws.com | [NSO Group](https://vuldb.com/?actor.nso_group) | Medium
-7 | [18.225.12.72](https://vuldb.com/?ip.18.225.12.72) | ec2-18-225-12-72.us-east-2.compute.amazonaws.com | [NSO Group](https://vuldb.com/?actor.nso_group) | Medium
-8 | [23.239.16.143](https://vuldb.com/?ip.23.239.16.143) | li685-143.members.linode.com | [NSO Group](https://vuldb.com/?actor.nso_group) | High
-9 | [45.32.105.249](https://vuldb.com/?ip.45.32.105.249) | 45.32.105.249.vultrusercontent.com | [NSO Group](https://vuldb.com/?actor.nso_group) | Medium
-10 | [45.79.190.38](https://vuldb.com/?ip.45.79.190.38) | srv01.benlinden.com | [NSO Group](https://vuldb.com/?actor.nso_group) | High
+1 | [3.13.132.96](https://vuldb.com/ip/3.13.132.96) | ec2-3-13-132-96.us-east-2.compute.amazonaws.com | [NSO Group](https://vuldb.com/actor/nso_group) | Medium
+2 | [3.16.75.157](https://vuldb.com/ip/3.16.75.157) | ec2-3-16-75-157.us-east-2.compute.amazonaws.com | [NSO Group](https://vuldb.com/actor/nso_group) | Medium
+3 | [13.58.85.100](https://vuldb.com/ip/13.58.85.100) | ec2-13-58-85-100.us-east-2.compute.amazonaws.com | [NSO Group](https://vuldb.com/actor/nso_group) | Medium
+4 | [13.59.79.240](https://vuldb.com/ip/13.59.79.240) | ec2-13-59-79-240.us-east-2.compute.amazonaws.com | [NSO Group](https://vuldb.com/actor/nso_group) | Medium
+5 | [18.191.63.125](https://vuldb.com/ip/18.191.63.125) | ec2-18-191-63-125.us-east-2.compute.amazonaws.com | [NSO Group](https://vuldb.com/actor/nso_group) | Medium
+6 | [18.217.13.50](https://vuldb.com/ip/18.217.13.50) | ec2-18-217-13-50.us-east-2.compute.amazonaws.com | [NSO Group](https://vuldb.com/actor/nso_group) | Medium
+7 | [18.225.12.72](https://vuldb.com/ip/18.225.12.72) | ec2-18-225-12-72.us-east-2.compute.amazonaws.com | [NSO Group](https://vuldb.com/actor/nso_group) | Medium
+8 | [23.239.16.143](https://vuldb.com/ip/23.239.16.143) | li685-143.members.linode.com | [NSO Group](https://vuldb.com/actor/nso_group) | High
+9 | [45.32.105.249](https://vuldb.com/ip/45.32.105.249) | 45.32.105.249.vultrusercontent.com | [NSO Group](https://vuldb.com/actor/nso_group) | Medium
+10 | [45.79.190.38](https://vuldb.com/ip/45.79.190.38) | srv01.benlinden.com | [NSO Group](https://vuldb.com/actor/nso_group) | High
 11 | ... | ... | ... | ...
 
 There are 41 more IOC items available. Please use our online service to access the data.
@@ -97,36 +97,41 @@ ID | Type | Indicator | Confidence
 28 | File | `/admin/post/list` | High
 29 | File | `/admin/publishnews.php` | High
 30 | File | `/admin/subscriber-csv.php` | High
-31 | File | `/admin/tag.php` | High
-32 | File | `/admin/template/update` | High
-33 | File | `/admin/unreadenq.php` | High
-34 | File | `/admin/upload/upimage.html` | High
-35 | File | `/admin/user-payment.php` | High
-36 | File | `/admin/user.php` | High
-37 | File | `/admin/user/list` | High
-38 | File | `/admin/userlist.php` | High
-39 | File | `/admin/userSys_deal.php?mudi=infoSet` | High
-40 | File | `/admin/view-enquiry.php` | High
-41 | File | `/adminapi/export/product_list` | High
-42 | File | `/Administrator/PHP/AdminAddUser.php` | High
-43 | File | `/Administrator/PHP/AdminEditCategory.php` | High
-44 | File | `/adminLogin.php` | High
-45 | File | `/ajax.php?action=delete_position` | High
-46 | File | `/api` | Low
-47 | File | `/api/monitors/import` | High
-48 | File | `/api/v1/users/` | High
-49 | File | `/app/api/controller/Store.php` | High
-50 | File | `/app/complaint.php` | High
-51 | File | `/application/index/controller/Unity.php` | High
-52 | File | `/apprain/developer/addons/update/hysontable` | High
-53 | File | `/apprain/developer/addons/update/rich_text_editor` | High
-54 | File | `/apps/meteor/app/irc/server/servers/RFC2813/parseMessage.js` | High
-55 | File | `/auth/soup-auth-digest.c` | High
-56 | File | `/backup/import` | High
-57 | File | `/basico/webservice/imprimir-danfe/id/` | High
-58 | ... | ... | ...
+31 | File | `/admin/SysModule/edit.html` | High
+32 | File | `/admin/tag.php` | High
+33 | File | `/admin/template/update` | High
+34 | File | `/admin/unreadenq.php` | High
+35 | File | `/admin/upload/upimage.html` | High
+36 | File | `/admin/user-payment.php` | High
+37 | File | `/admin/user.php` | High
+38 | File | `/admin/user/list` | High
+39 | File | `/admin/userlist.php` | High
+40 | File | `/admin/userSys_deal.php?mudi=infoSet` | High
+41 | File | `/admin/view-enquiry.php` | High
+42 | File | `/adminapi/export/product_list` | High
+43 | File | `/Administrator/PHP/AdminAddUser.php` | High
+44 | File | `/Administrator/PHP/AdminEditCategory.php` | High
+45 | File | `/adminLogin.php` | High
+46 | File | `/admin_single_student.php` | High
+47 | File | `/ajax.php?action=delete_position` | High
+48 | File | `/api` | Low
+49 | File | `/api/boards/:boardId/custom-fields/:customFieldId` | High
+50 | File | `/api/monitors/import` | High
+51 | File | `/api/v1/users/` | High
+52 | File | `/app/api/controller/Store.php` | High
+53 | File | `/app/complaint.php` | High
+54 | File | `/apprain/developer/addons/update/hysontable` | High
+55 | File | `/apprain/developer/addons/update/rich_text_editor` | High
+56 | File | `/apps/meteor/app/irc/server/servers/RFC2813/parseMessage.js` | High
+57 | File | `/auth/soup-auth-digest.c` | High
+58 | File | `/backup/import` | High
+59 | File | `/basico/webservice/imprimir-danfe/id/` | High
+60 | File | `/bid/1/admin/entry-edit/` | High
+61 | File | `/boafrm/formDdns` | High
+62 | File | `/boafrm/formFilter` | High
+63 | ... | ... | ...
 
-There are 506 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 551 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -141,9 +146,9 @@ The following list contains _external sources_ which discuss the campaign and th
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

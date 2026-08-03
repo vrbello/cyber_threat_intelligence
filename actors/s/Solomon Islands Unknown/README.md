@@ -1,16 +1,16 @@
 # Solomon Islands Unknown - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [Solomon Islands Unknown](https://vuldb.com/?actor.solomon_islands_unknown). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [Solomon Islands Unknown](https://vuldb.com/actor/solomon_islands_unknown). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.solomon_islands_unknown](https://vuldb.com/?actor.solomon_islands_unknown)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/solomon_islands_unknown](https://vuldb.com/actor/solomon_islands_unknown)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Solomon Islands Unknown:
 
-* [US](https://vuldb.com/?country.us)
-* [AU](https://vuldb.com/?country.au)
-* [GB](https://vuldb.com/?country.gb)
+* [US](https://vuldb.com/country/us)
+* [AU](https://vuldb.com/country/au)
+* [GB](https://vuldb.com/country/gb)
 * ...
 
 There are 19 more country items available. Please use our online service to access the data.
@@ -21,18 +21,18 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [5.62.56.212](https://vuldb.com/?ip.5.62.56.212) | r-212-56-62-5.consumer-pool.prcdn.net | - | High
-2 | [5.62.58.192](https://vuldb.com/?ip.5.62.58.192) | r-192-58-62-5.consumer-pool.prcdn.net | - | High
-3 | [14.137.34.0](https://vuldb.com/?ip.14.137.34.0) | - | - | High
-4 | [14.137.36.0](https://vuldb.com/?ip.14.137.36.0) | - | - | High
-5 | [14.137.54.0](https://vuldb.com/?ip.14.137.54.0) | - | - | High
-6 | [45.12.70.195](https://vuldb.com/?ip.45.12.70.195) | survey-stain.globalhilive.com | - | High
-7 | [45.12.71.195](https://vuldb.com/?ip.45.12.71.195) | - | - | High
-8 | [45.42.173.0](https://vuldb.com/?ip.45.42.173.0) | - | - | High
-9 | [57.70.174.0](https://vuldb.com/?ip.57.70.174.0) | - | - | High
-10 | [57.71.32.0](https://vuldb.com/?ip.57.71.32.0) | - | - | High
-11 | [103.2.88.0](https://vuldb.com/?ip.103.2.88.0) | - | - | High
-12 | [103.9.50.0](https://vuldb.com/?ip.103.9.50.0) | - | - | High
+1 | [5.62.56.212](https://vuldb.com/ip/5.62.56.212) | r-212-56-62-5.consumer-pool.prcdn.net | - | High
+2 | [5.62.58.192](https://vuldb.com/ip/5.62.58.192) | r-192-58-62-5.consumer-pool.prcdn.net | - | High
+3 | [14.137.34.0](https://vuldb.com/ip/14.137.34.0) | - | - | High
+4 | [14.137.36.0](https://vuldb.com/ip/14.137.36.0) | - | - | High
+5 | [14.137.54.0](https://vuldb.com/ip/14.137.54.0) | - | - | High
+6 | [45.12.70.195](https://vuldb.com/ip/45.12.70.195) | survey-stain.globalhilive.com | - | High
+7 | [45.12.71.195](https://vuldb.com/ip/45.12.71.195) | - | - | High
+8 | [45.42.173.0](https://vuldb.com/ip/45.42.173.0) | - | - | High
+9 | [57.70.174.0](https://vuldb.com/ip/57.70.174.0) | - | - | High
+10 | [57.71.32.0](https://vuldb.com/ip/57.71.32.0) | - | - | High
+11 | [103.2.88.0](https://vuldb.com/ip/103.2.88.0) | - | - | High
+12 | [103.9.50.0](https://vuldb.com/ip/103.9.50.0) | - | - | High
 13 | ... | ... | ... | ...
 
 There are 47 more IOC items available. Please use our online service to access the data.
@@ -94,20 +94,21 @@ ID | Type | Indicator | Confidence
 34 | File | `/etc/shadow` | Medium
 35 | File | `/getcfg.php` | Medium
 36 | File | `/getmaxun/maxun/blob/develop/server/src/routes/auth.ts` | High
-37 | File | `/goform/set_delshrpath_cfg` | High
-38 | File | `/hedwig.cgi` | Medium
-39 | File | `/HNAP1/` | Low
-40 | File | `/itbox_pi/branch_import.php?a=branch_list` | High
-41 | File | `/itbox_pi/networksafe.php?a=set` | High
-42 | File | `/lib/tools/Config.js` | High
-43 | File | `/manage_sy.php` | High
-44 | File | `/mtd` | Low
-45 | File | `/nagiosxi/admin/banner_message-ajaxhelper.php` | High
-46 | File | `/oa/setup/setup.jsp` | High
-47 | File | `/oauth/idp/.well-known/openid-configuration` | High
-48 | ... | ... | ...
+37 | File | `/goform/openSchedWifi` | High
+38 | File | `/goform/set_delshrpath_cfg` | High
+39 | File | `/hedwig.cgi` | Medium
+40 | File | `/HNAP1/` | Low
+41 | File | `/intranet/educar_motivo_afastamento_cad.php` | High
+42 | File | `/itbox_pi/branch_import.php?a=branch_list` | High
+43 | File | `/itbox_pi/networksafe.php?a=set` | High
+44 | File | `/lib/tools/Config.js` | High
+45 | File | `/manage_sy.php` | High
+46 | File | `/mtd` | Low
+47 | File | `/nagiosxi/admin/banner_message-ajaxhelper.php` | High
+48 | File | `/oa/setup/setup.jsp` | High
+49 | ... | ... | ...
 
-There are 416 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 421 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -121,9 +122,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

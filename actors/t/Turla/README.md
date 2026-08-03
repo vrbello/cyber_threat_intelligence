@@ -1,8 +1,8 @@
 # Turla - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [Turla](https://vuldb.com/?actor.turla). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [Turla](https://vuldb.com/actor/turla). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.turla](https://vuldb.com/?actor.turla)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/turla](https://vuldb.com/actor/turla)
 
 ## Campaigns
 
@@ -19,9 +19,9 @@ There are 1 more campaign items available. Please use our online service to acce
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Turla:
 
-* [FR](https://vuldb.com/?country.fr)
-* [US](https://vuldb.com/?country.us)
-* [CN](https://vuldb.com/?country.cn)
+* [FR](https://vuldb.com/country/fr)
+* [US](https://vuldb.com/country/us)
+* [CN](https://vuldb.com/country/cn)
 * ...
 
 There are 9 more country items available. Please use our online service to access the data.
@@ -32,18 +32,18 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [5.255.93.228](https://vuldb.com/?ip.5.255.93.228) | - | - | High
-2 | [45.33.24.145](https://vuldb.com/?ip.45.33.24.145) | 45-33-24-145.ip.linodeusercontent.com | - | High
-3 | [45.79.93.87](https://vuldb.com/?ip.45.79.93.87) | 45-79-93-87.ip.linodeusercontent.com | - | High
-4 | [45.153.241.162](https://vuldb.com/?ip.45.153.241.162) | - | - | High
-5 | [62.12.39.117](https://vuldb.com/?ip.62.12.39.117) | - | Waterbug | High
-6 | [62.68.73.57](https://vuldb.com/?ip.62.68.73.57) | - | Waterbug | High
-7 | [62.212.226.118](https://vuldb.com/?ip.62.212.226.118) | - | Waterbug | High
-8 | [65.109.179.67](https://vuldb.com/?ip.65.109.179.67) | static.67.179.109.65.clients.your-server.de | - | High
-9 | [66.178.107.140](https://vuldb.com/?ip.66.178.107.140) | - | Whitebear | High
-10 | [70.32.39.219](https://vuldb.com/?ip.70.32.39.219) | am-smartsales.com | - | High
-11 | [72.232.222.58](https://vuldb.com/?ip.72.232.222.58) | HOST.MJSHOSTING.COM | Waterbug | High
-12 | [74.50.80.35](https://vuldb.com/?ip.74.50.80.35) | vps2770870.trouble-free.net | - | High
+1 | [5.255.93.228](https://vuldb.com/ip/5.255.93.228) | - | - | High
+2 | [45.33.24.145](https://vuldb.com/ip/45.33.24.145) | 45-33-24-145.ip.linodeusercontent.com | - | High
+3 | [45.79.93.87](https://vuldb.com/ip/45.79.93.87) | 45-79-93-87.ip.linodeusercontent.com | - | High
+4 | [45.153.241.162](https://vuldb.com/ip/45.153.241.162) | - | - | High
+5 | [62.12.39.117](https://vuldb.com/ip/62.12.39.117) | - | Waterbug | High
+6 | [62.68.73.57](https://vuldb.com/ip/62.68.73.57) | - | Waterbug | High
+7 | [62.212.226.118](https://vuldb.com/ip/62.212.226.118) | - | Waterbug | High
+8 | [65.109.179.67](https://vuldb.com/ip/65.109.179.67) | static.67.179.109.65.clients.your-server.de | - | High
+9 | [66.178.107.140](https://vuldb.com/ip/66.178.107.140) | - | Whitebear | High
+10 | [70.32.39.219](https://vuldb.com/ip/70.32.39.219) | am-smartsales.com | - | High
+11 | [72.232.222.58](https://vuldb.com/ip/72.232.222.58) | HOST.MJSHOSTING.COM | Waterbug | High
+12 | [74.50.80.35](https://vuldb.com/ip/74.50.80.35) | vps2770870.trouble-free.net | - | High
 13 | ... | ... | ... | ...
 
 There are 49 more IOC items available. Please use our online service to access the data.
@@ -121,9 +121,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

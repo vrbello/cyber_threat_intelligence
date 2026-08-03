@@ -1,8 +1,8 @@
 # TA505 - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [TA505](https://vuldb.com/?actor.ta505). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [TA505](https://vuldb.com/actor/ta505). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.ta505](https://vuldb.com/?actor.ta505)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/ta505](https://vuldb.com/actor/ta505)
 
 ## Campaigns
 
@@ -19,9 +19,9 @@ There are 1 more campaign items available. Please use our online service to acce
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with TA505:
 
-* [US](https://vuldb.com/?country.us)
-* [GB](https://vuldb.com/?country.gb)
-* [CN](https://vuldb.com/?country.cn)
+* [US](https://vuldb.com/country/us)
+* [GB](https://vuldb.com/country/gb)
+* [CN](https://vuldb.com/country/cn)
 * ...
 
 There are 18 more country items available. Please use our online service to access the data.
@@ -32,21 +32,21 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [5.149.252.171](https://vuldb.com/?ip.5.149.252.171) | absolutecorporation.info | SDBbot | High
-2 | [5.149.254.25](https://vuldb.com/?ip.5.149.254.25) | bmc.srv60.swdc.ams1.nl.fortunix.net | - | High
-3 | [27.102.118.143](https://vuldb.com/?ip.27.102.118.143) | - | - | High
-4 | [37.59.52.229](https://vuldb.com/?ip.37.59.52.229) | bemta-05.srv.sopeople.net | SDBbot | High
-5 | [37.252.8.63](https://vuldb.com/?ip.37.252.8.63) | - | - | High
-6 | [45.8.126.7](https://vuldb.com/?ip.45.8.126.7) | mail01.bivoic.com | SDBbot | High
-7 | [45.63.101.210](https://vuldb.com/?ip.45.63.101.210) | 45.63.101.210.vultr.com | servhelper | Medium
-8 | [45.76.206.149](https://vuldb.com/?ip.45.76.206.149) | 45.76.206.149.vultr.com | - | Medium
-9 | [45.76.223.177](https://vuldb.com/?ip.45.76.223.177) | 45.76.223.177.vultr.com | - | Medium
-10 | [45.77.16.211](https://vuldb.com/?ip.45.77.16.211) | 45.77.16.211.vultr.com | - | Medium
-11 | [45.129.137.237](https://vuldb.com/?ip.45.129.137.237) | - | - | High
-12 | [45.142.213.139](https://vuldb.com/?ip.45.142.213.139) | jorrygo1.example.com | - | High
-13 | [45.142.214.119](https://vuldb.com/?ip.45.142.214.119) | vm293088.pq.hosting | - | High
-14 | [46.161.27.241](https://vuldb.com/?ip.46.161.27.241) | - | Servhelper/Flawedgrace | High
-15 | [66.42.45.55](https://vuldb.com/?ip.66.42.45.55) | 66.42.45.55.vultr.com | - | Medium
+1 | [5.149.252.171](https://vuldb.com/ip/5.149.252.171) | absolutecorporation.info | SDBbot | High
+2 | [5.149.254.25](https://vuldb.com/ip/5.149.254.25) | bmc.srv60.swdc.ams1.nl.fortunix.net | - | High
+3 | [27.102.118.143](https://vuldb.com/ip/27.102.118.143) | - | - | High
+4 | [37.59.52.229](https://vuldb.com/ip/37.59.52.229) | bemta-05.srv.sopeople.net | SDBbot | High
+5 | [37.252.8.63](https://vuldb.com/ip/37.252.8.63) | - | - | High
+6 | [45.8.126.7](https://vuldb.com/ip/45.8.126.7) | mail01.bivoic.com | SDBbot | High
+7 | [45.63.101.210](https://vuldb.com/ip/45.63.101.210) | 45.63.101.210.vultr.com | servhelper | Medium
+8 | [45.76.206.149](https://vuldb.com/ip/45.76.206.149) | 45.76.206.149.vultr.com | - | Medium
+9 | [45.76.223.177](https://vuldb.com/ip/45.76.223.177) | 45.76.223.177.vultr.com | - | Medium
+10 | [45.77.16.211](https://vuldb.com/ip/45.77.16.211) | 45.77.16.211.vultr.com | - | Medium
+11 | [45.129.137.237](https://vuldb.com/ip/45.129.137.237) | - | - | High
+12 | [45.142.213.139](https://vuldb.com/ip/45.142.213.139) | jorrygo1.example.com | - | High
+13 | [45.142.214.119](https://vuldb.com/ip/45.142.214.119) | vm293088.pq.hosting | - | High
+14 | [46.161.27.241](https://vuldb.com/ip/46.161.27.241) | - | Servhelper/Flawedgrace | High
+15 | [66.42.45.55](https://vuldb.com/ip/66.42.45.55) | 66.42.45.55.vultr.com | - | Medium
 16 | ... | ... | ... | ...
 
 There are 58 more IOC items available. Please use our online service to access the data.
@@ -85,72 +85,68 @@ ID | Type | Indicator | Confidence
 11 | File | `/admin/admin.php` | High
 12 | File | `/admin/adminHome.php` | High
 13 | File | `/admin/admin_user.php` | High
-14 | File | `/admin/ajax.php?action=save_area` | High
-15 | File | `/admin/applicants/controller.php` | High
-16 | File | `/admin/booking-search.php` | High
-17 | File | `/admin/category/view_category.php` | High
-18 | File | `/admin/company/index.php` | High
-19 | File | `/admin/course.php` | High
-20 | File | `/admin/del_service.php` | High
-21 | File | `/admin/departments/manage_department.php` | High
-22 | File | `/admin/div_data/delete?divId=9` | High
-23 | File | `/admin/employee/controller.php` | High
-24 | File | `/admin/index.php?page=categories` | High
-25 | File | `/admin/login.php` | High
-26 | File | `/admin/mod_room/controller.php?action=add` | High
-27 | File | `/admin/page-login.php` | High
-28 | File | `/admin/reportupload.aspx` | High
-29 | File | `/admin/search.php` | High
-30 | File | `/admin/singlelogin.php` | High
-31 | File | `/admin/sys_sql_query.php` | High
-32 | File | `/Administrator/PHP/AdminAddUser.php` | High
-33 | File | `/Administrator/PHP/AdminEditUser.php` | High
-34 | File | `/adminPage/main/upload` | High
-35 | File | `/admin_class.php` | High
-36 | File | `/admin_ping.htm` | High
-37 | File | `/admin_type.php` | High
-38 | File | `/ample/app/action/edit_product.php` | High
-39 | File | `/api/clusters/local/topics/{topic}/messages` | High
-40 | File | `/api/discoveries/` | High
-41 | File | `/api/sys/login` | High
-42 | File | `/api/test/download` | High
-43 | File | `/app/sys1.php` | High
-44 | File | `/application/index/controller/File.php` | High
-45 | File | `/Applications/Endurance.app/Contents/Library/LaunchServices/com.MagnetismStudios.endurance.helper` | High
-46 | File | `/apply.cgi` | Medium
-47 | File | `/apply/index.php` | High
-48 | File | `/approve.php` | Medium
-49 | File | `/assets/php/upload.php` | High
-50 | File | `/audimex/cgi-bin/wal.fcgi` | High
-51 | File | `/auth_pic.cgi` | High
-52 | File | `/binutils/debug.c` | High
-53 | File | `/blog` | Low
-54 | File | `/boaform/device_reset.cgi` | High
-55 | File | `/boafrm/formDdns` | High
-56 | File | `/boafrm/formMapDelDevice` | High
-57 | File | `/cgi-bin-sdb/` | High
-58 | File | `/cgi-bin/account_mgr.cgi?cmd=cgi_user_add` | High
-59 | File | `/cgi-bin/adm.cgi` | High
-60 | File | `/cgi-bin/cstecgi.cgi` | High
-61 | File | `/cgi-bin/cstecgi.cgi?action=login&flag=1` | High
-62 | File | `/cgi-bin/nas_sharing.cgi` | High
-63 | File | `/checkout` | Medium
-64 | File | `/classes/Master.php?f=save_inquiry` | High
-65 | File | `/classes/SystemSettings.php?f=update_settings` | High
-66 | File | `/classes/Users.php?f=save` | High
-67 | File | `/cms/classes/Users.php?f=delete_client` | High
-68 | File | `/collection/all` | High
-69 | File | `/config/pw_changeusers.html` | High
-70 | File | `/controller/api/Room.php` | High
-71 | File | `/controller/company/Index.php#sendCompanyLogo` | High
-72 | File | `/dashboard/createblog` | High
-73 | File | `/debug/pprof` | Medium
-74 | File | `/Default/Bd` | Medium
-75 | File | `/dev/nvme0n1` | Medium
-76 | File | `/device.rsp?opt=sys&cmd=___S_O_S_T_R_E_A_MAX___` | High
-77 | ... | ... | ...
+14 | File | `/admin/applicants/controller.php` | High
+15 | File | `/admin/booking-search.php` | High
+16 | File | `/admin/category/view_category.php` | High
+17 | File | `/admin/company/index.php` | High
+18 | File | `/admin/course.php` | High
+19 | File | `/admin/del_service.php` | High
+20 | File | `/admin/departments/manage_department.php` | High
+21 | File | `/admin/div_data/delete?divId=9` | High
+22 | File | `/admin/employee/controller.php` | High
+23 | File | `/admin/index.php?page=categories` | High
+24 | File | `/admin/login.php` | High
+25 | File | `/admin/mod_room/controller.php?action=add` | High
+26 | File | `/admin/page-login.php` | High
+27 | File | `/admin/search.php` | High
+28 | File | `/admin/singlelogin.php` | High
+29 | File | `/admin/sys_sql_query.php` | High
+30 | File | `/Administrator/PHP/AdminAddUser.php` | High
+31 | File | `/Administrator/PHP/AdminEditUser.php` | High
+32 | File | `/adminPage/main/upload` | High
+33 | File | `/admin_class.php` | High
+34 | File | `/admin_ping.htm` | High
+35 | File | `/admin_type.php` | High
+36 | File | `/ample/app/action/edit_product.php` | High
+37 | File | `/api/clusters/local/topics/{topic}/messages` | High
+38 | File | `/api/discoveries/` | High
+39 | File | `/api/sys/login` | High
+40 | File | `/api/test/download` | High
+41 | File | `/app/sys1.php` | High
+42 | File | `/application/index/controller/File.php` | High
+43 | File | `/Applications/Endurance.app/Contents/Library/LaunchServices/com.MagnetismStudios.endurance.helper` | High
+44 | File | `/apply/index.php` | High
+45 | File | `/approve.php` | Medium
+46 | File | `/assets/php/upload.php` | High
+47 | File | `/audimex/cgi-bin/wal.fcgi` | High
+48 | File | `/auth_pic.cgi` | High
+49 | File | `/binutils/debug.c` | High
+50 | File | `/blog` | Low
+51 | File | `/boaform/device_reset.cgi` | High
+52 | File | `/boafrm/formDdns` | High
+53 | File | `/boafrm/formMapDelDevice` | High
+54 | File | `/cgi-bin-sdb/` | High
+55 | File | `/cgi-bin/account_mgr.cgi?cmd=cgi_user_add` | High
+56 | File | `/cgi-bin/adm.cgi` | High
+57 | File | `/cgi-bin/cstecgi.cgi` | High
+58 | File | `/cgi-bin/cstecgi.cgi?action=login&flag=1` | High
+59 | File | `/cgi-bin/nas_sharing.cgi` | High
+60 | File | `/checkout` | Medium
+61 | File | `/classes/Master.php?f=save_inquiry` | High
+62 | File | `/classes/SystemSettings.php?f=update_settings` | High
+63 | File | `/classes/Users.php?f=save` | High
+64 | File | `/cms/classes/Users.php?f=delete_client` | High
+65 | File | `/collection/all` | High
+66 | File | `/config/pw_changeusers.html` | High
+67 | File | `/controller/api/Room.php` | High
+68 | File | `/controller/company/Index.php#sendCompanyLogo` | High
+69 | File | `/dashboard/createblog` | High
+70 | File | `/Default/Bd` | Medium
+71 | File | `/dev/nvme0n1` | Medium
+72 | File | `/device.rsp?opt=sys&cmd=___S_O_S_T_R_E_A_MAX___` | High
+73 | ... | ... | ...
 
-There are 676 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 640 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -173,9 +169,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

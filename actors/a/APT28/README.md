@@ -173,18 +173,18 @@ ID | Type | Indicator | Confidence
 1 | File | `/?r=email/api/mark&op=delFromSend` | High
 2 | File | `/?r=report/api/getlist` | High
 3 | File | `/admin/info_deal.php` | High
-4 | File | `/admin/subjects.php` | High
-5 | File | `/bilal final/edit_stud.php` | High
-6 | File | `/bilal final/login.php` | High
-7 | File | `/boafrm/formSysLog` | High
-8 | File | `/cloudstore/ecode/setup/ecology_dev.zip` | High
+4 | File | `/admin/products/manage_product.php` | High
+5 | File | `/admin/subjects.php` | High
+6 | File | `/bilal final/edit_stud.php` | High
+7 | File | `/bilal final/login.php` | High
+8 | File | `/boafrm/formSysLog` | High
 9 | File | `/config/myfield/test.php` | High
 10 | File | `/dayrui/Fcms/View/system_log.html` | High
 11 | File | `/dayrui/My/Config/Install.txt` | High
 12 | File | `/dayrui/My/View/main.html` | High
 13 | ... | ... | ...
 
-There are 101 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 104 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -254,7 +254,7 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License

@@ -1,16 +1,16 @@
 # BOUNDLESS INFORMANT - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the campaign known as _BOUNDLESS INFORMANT_. The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the campaign known as _BOUNDLESS INFORMANT_. The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor](https://vuldb.com/?actor)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor](https://vuldb.com/actor)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with BOUNDLESS INFORMANT:
 
-* [US](https://vuldb.com/?country.us)
-* [GB](https://vuldb.com/?country.gb)
-* [GR](https://vuldb.com/?country.gr)
+* [US](https://vuldb.com/country/us)
+* [GB](https://vuldb.com/country/gb)
+* [GR](https://vuldb.com/country/gr)
 * ...
 
 There are 29 more country items available. Please use our online service to access the data.
@@ -21,7 +21,7 @@ These _actors_ are associated with BOUNDLESS INFORMANT or other actors linked to
 
 ID | Actor | Confidence
 -- | ----- | ----------
-1 | [NSA](https://vuldb.com/?actor.nsa) | High
+1 | [NSA](https://vuldb.com/actor/nsa) | High
 
 ## IOC - Indicator of Compromise
 
@@ -29,12 +29,12 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Actor | Confidence
 -- | ---------- | -------- | ----- | ----------
-1 | [31.6.17.94](https://vuldb.com/?ip.31.6.17.94) | - | [NSA](https://vuldb.com/?actor.nsa) | High
-2 | [37.72.168.84](https://vuldb.com/?ip.37.72.168.84) | 84.168.72.37.static.swiftway.net | [NSA](https://vuldb.com/?actor.nsa) | High
-3 | [37.130.229.100](https://vuldb.com/?ip.37.130.229.100) | uk.server | [NSA](https://vuldb.com/?actor.nsa) | High
-4 | [37.130.229.101](https://vuldb.com/?ip.37.130.229.101) | uk.server | [NSA](https://vuldb.com/?actor.nsa) | High
-5 | [37.220.10.28](https://vuldb.com/?ip.37.220.10.28) | h37-220-10-28.host.redstation.co.uk | [NSA](https://vuldb.com/?actor.nsa) | High
-6 | [50.115.118.140](https://vuldb.com/?ip.50.115.118.140) | sfaaa.net | [NSA](https://vuldb.com/?actor.nsa) | High
+1 | [31.6.17.94](https://vuldb.com/ip/31.6.17.94) | - | [NSA](https://vuldb.com/actor/nsa) | High
+2 | [37.72.168.84](https://vuldb.com/ip/37.72.168.84) | 84.168.72.37.static.swiftway.net | [NSA](https://vuldb.com/actor/nsa) | High
+3 | [37.130.229.100](https://vuldb.com/ip/37.130.229.100) | uk.server | [NSA](https://vuldb.com/actor/nsa) | High
+4 | [37.130.229.101](https://vuldb.com/ip/37.130.229.101) | uk.server | [NSA](https://vuldb.com/actor/nsa) | High
+5 | [37.220.10.28](https://vuldb.com/ip/37.220.10.28) | h37-220-10-28.host.redstation.co.uk | [NSA](https://vuldb.com/actor/nsa) | High
+6 | [50.115.118.140](https://vuldb.com/ip/50.115.118.140) | sfaaa.net | [NSA](https://vuldb.com/actor/nsa) | High
 7 | ... | ... | ... | ...
 
 There are 25 more IOC items available. Please use our online service to access the data.
@@ -131,9 +131,9 @@ The following list contains _external sources_ which discuss the campaign and th
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

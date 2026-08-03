@@ -1,16 +1,16 @@
 # Cobalt Group - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [Cobalt Group](https://vuldb.com/?actor.cobalt_group). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [Cobalt Group](https://vuldb.com/actor/cobalt_group). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.cobalt_group](https://vuldb.com/?actor.cobalt_group)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/cobalt_group](https://vuldb.com/actor/cobalt_group)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Cobalt Group:
 
-* [GB](https://vuldb.com/?country.gb)
-* [RU](https://vuldb.com/?country.ru)
-* [US](https://vuldb.com/?country.us)
+* [GB](https://vuldb.com/country/gb)
+* [US](https://vuldb.com/country/us)
+* [RU](https://vuldb.com/country/ru)
 * ...
 
 There are 11 more country items available. Please use our online service to access the data.
@@ -21,10 +21,10 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [5.45.66.161](https://vuldb.com/?ip.5.45.66.161) | - | - | High
-2 | [5.135.237.216](https://vuldb.com/?ip.5.135.237.216) | - | - | High
-3 | [23.152.0.210](https://vuldb.com/?ip.23.152.0.210) | nordns.crowncloud.net | - | High
-4 | [23.249.164.26](https://vuldb.com/?ip.23.249.164.26) | - | - | High
+1 | [5.45.66.161](https://vuldb.com/ip/5.45.66.161) | - | - | High
+2 | [5.135.237.216](https://vuldb.com/ip/5.135.237.216) | - | - | High
+3 | [23.152.0.210](https://vuldb.com/ip/23.152.0.210) | nordns.crowncloud.net | - | High
+4 | [23.249.164.26](https://vuldb.com/ip/23.249.164.26) | - | - | High
 5 | ... | ... | ... | ...
 
 There are 16 more IOC items available. Please use our online service to access the data.
@@ -95,10 +95,10 @@ ID | Type | Indicator | Confidence
 43 | File | `/application/index/controller/Icon.php` | High
 44 | File | `/application/pay/controller/Api.php` | High
 45 | File | `/Applications/Endpoint` | High
-46 | File | `/asms/classes/Master.php?f=delete_img` | High
-47 | File | `/assets/php/upload.php` | High
-48 | File | `/auth/user/all.api` | High
-49 | File | `/blog` | Low
+46 | File | `/assets/php/upload.php` | High
+47 | File | `/auth/user/all.api` | High
+48 | File | `/blog` | Low
+49 | File | `/boafrm/formWanConfigSetup` | High
 50 | File | `/cgi-bin/cstecgi.cgi` | High
 51 | File | `/cgi-bin/vitogate.cgi` | High
 52 | File | `/classes/Master.php` | High
@@ -126,7 +126,7 @@ ID | Type | Indicator | Confidence
 74 | File | `/importexport.php` | High
 75 | ... | ... | ...
 
-There are 661 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 662 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -143,9 +143,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

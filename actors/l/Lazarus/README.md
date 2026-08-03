@@ -304,9 +304,10 @@ ID | IP address | Hostname | Campaign | Confidence
 271 | [52.128.23.153](https://vuldb.com/ip/52.128.23.153) | - | DTrack | High
 272 | [52.148.148.114](https://vuldb.com/ip/52.148.148.114) | - | - | High
 273 | [52.202.193.124](https://vuldb.com/ip/52.202.193.124) | ec2-52-202-193-124.compute-1.amazonaws.com | MagicRAT | Medium
-274 | ... | ... | ... | ...
+274 | [52.231.162.138](https://vuldb.com/ip/52.231.162.138) | - | - | High
+275 | ... | ... | ... | ...
 
-There are 1092 more IOC items available. Please use our online service to access the data.
+There are 1094 more IOC items available. Please use our online service to access the data.
 
 ## References
 
@@ -343,6 +344,7 @@ The following list contains _external sources_ which discuss the actor and the a
 * https://securelist.com/dtrack-targeting-europe-latin-america/107798/
 * https://socket.dev/blog/lazarus-strikes-npm-again-with-a-new-wave-of-malicious-packages
 * https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/lazarus-dream-job-chemical
+* https://thecybersecurity.news/general-cyber-security-news/etherrat-distribution-spoofing-administrative-tools-via-github-facades-36597/
 * https://threatbook.io/blog/id/1093
 * https://us-cert.cisa.gov/ncas/alerts/aa21-048a
 * https://us-cert.cisa.gov/ncas/alerts/TA17-164A
@@ -355,6 +357,7 @@ The following list contains _external sources_ which discuss the actor and the a
 * https://us-cert.cisa.gov/ncas/analysis-reports/ar21-048c
 * https://vxug.fakedoma.in/archive/APTs/2021/2021.04.27/Lazarus%20Group%20Recruitment.pdf
 * https://www.cisa.gov/uscert/ncas/alerts/aa22-108a
+* https://www.cyfirma.com/news/weekly-intelligence-report-24-april-2026/
 * https://www.cyfirma.com/research/lazarus-stealer-android-malware-for-russian-bank-credential-theft-through-overlay-and-sms-manipulation/
 * https://www.esentire.com/blog/bored-beavertail-invisibleferret-yacht-club-a-lazarus-lure-pt-2
 * https://www.esentire.com/blog/bored-beavertail-yacht-club-a-lazarus-lure
@@ -377,7 +380,7 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License

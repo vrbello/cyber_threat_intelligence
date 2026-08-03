@@ -13,7 +13,7 @@ These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. acce
 * [ES](https://vuldb.com/country/es)
 * ...
 
-There are 12 more country items available. Please use our online service to access the data.
+There are 13 more country items available. Please use our online service to access the data.
 
 ## Actors
 
@@ -58,41 +58,43 @@ ID | Type | Indicator | Confidence
 -- | ---- | --------- | ----------
 1 | File | `/?module=users&section=cpanel&page=list` | High
 2 | File | `/AcceptZip.ashx` | High
-3 | File | `/admin.php` | Medium
-4 | File | `/admin/add-ambulance.php` | High
-5 | File | `/admin/admin-profile.php` | High
-6 | File | `/admin/create_product.php` | High
-7 | File | `/admin/emp-profile-avatar.php` | High
-8 | File | `/admin/SysModule/upload/ajaxmodel/upload/uploadfilepath/sysmodule_1` | High
-9 | File | `/ajax.php?action=delete_tenant` | High
-10 | File | `/animalsadd.php` | High
-11 | File | `/api/authentication/login` | High
-12 | File | `/apiadmin/upload/attach` | High
-13 | File | `/artist-display.php` | High
-14 | File | `/backend/admin/his_admin_register_patient.php` | High
-15 | File | `/billing/test_accesscodelogin.php` | High
-16 | File | `/boafrm/formParentControl` | High
-17 | File | `/cgi-bin/nas_sharing.cgi` | High
-18 | File | `/cgi-bin/p1_ftpserver.php` | High
-19 | File | `/cgi-bin/supervisor/PwdGrp.cgi` | High
-20 | File | `/cgi-bin/tosei_kikai.php` | High
-21 | File | `/classes/Master.php` | High
-22 | File | `/classes/profile.class.php` | High
-23 | File | `/classes/SystemSettings.php?f=update_settings` | High
-24 | File | `/conf/app.conf` | High
-25 | File | `/control/register_case.php` | High
-26 | File | `/edit/server` | Medium
-27 | File | `/foms/routers/place-order.php` | High
-28 | File | `/forum/away.php` | High
-29 | File | `/freelist_main.php` | High
-30 | File | `/goform/AdvSetWrlsafeset` | High
-31 | File | `/goform/formSetPassword` | High
-32 | File | `/goform/SetIpBind` | High
-33 | File | `/goform/WrlclientSet` | High
-34 | File | `/h/autoSaveDraft` | High
-35 | ... | ... | ...
+3 | File | `/Actions.php` | Medium
+4 | File | `/admin.php` | Medium
+5 | File | `/admin/add-ambulance.php` | High
+6 | File | `/admin/admin-profile.php` | High
+7 | File | `/admin/ajax.php?action=delete_cart` | High
+8 | File | `/admin/create_product.php` | High
+9 | File | `/admin/emp-profile-avatar.php` | High
+10 | File | `/admin/SysModule/upload/ajaxmodel/upload/uploadfilepath/sysmodule_1` | High
+11 | File | `/ajax.php?action=delete_tenant` | High
+12 | File | `/animalsadd.php` | High
+13 | File | `/api/authentication/login` | High
+14 | File | `/apiadmin/upload/attach` | High
+15 | File | `/artist-display.php` | High
+16 | File | `/backend/admin/his_admin_register_patient.php` | High
+17 | File | `/billing/test_accesscodelogin.php` | High
+18 | File | `/boafrm/formParentControl` | High
+19 | File | `/cgi-bin/nas_sharing.cgi` | High
+20 | File | `/cgi-bin/p1_ftpserver.php` | High
+21 | File | `/cgi-bin/supervisor/PwdGrp.cgi` | High
+22 | File | `/cgi-bin/tosei_kikai.php` | High
+23 | File | `/classes/Master.php` | High
+24 | File | `/classes/profile.class.php` | High
+25 | File | `/classes/SystemSettings.php?f=update_settings` | High
+26 | File | `/conf/app.conf` | High
+27 | File | `/control/register_case.php` | High
+28 | File | `/daily-task-report.php` | High
+29 | File | `/edit/server` | Medium
+30 | File | `/foms/routers/place-order.php` | High
+31 | File | `/forum/away.php` | High
+32 | File | `/freelist_main.php` | High
+33 | File | `/goform/AdvSetWrlsafeset` | High
+34 | File | `/goform/formSetPassword` | High
+35 | File | `/goform/SetIpBind` | High
+36 | File | `/goform/WrlclientSet` | High
+37 | ... | ... | ...
 
-There are 303 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 318 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 

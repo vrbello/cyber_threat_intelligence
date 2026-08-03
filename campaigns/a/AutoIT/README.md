@@ -1,16 +1,16 @@
 # AutoIT - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the campaign known as _AutoIT_. The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the campaign known as _AutoIT_. The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor](https://vuldb.com/?actor)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor](https://vuldb.com/actor)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with AutoIT:
 
-* [US](https://vuldb.com/?country.us)
-* [IO](https://vuldb.com/?country.io)
-* [DE](https://vuldb.com/?country.de)
+* [US](https://vuldb.com/country/us)
+* [IO](https://vuldb.com/country/io)
+* [DE](https://vuldb.com/country/de)
 * ...
 
 There are 6 more country items available. Please use our online service to access the data.
@@ -21,8 +21,8 @@ These _actors_ are associated with AutoIT or other actors linked to the campaign
 
 ID | Actor | Confidence
 -- | ----- | ----------
-1 | [AsyncRAT](https://vuldb.com/?actor.asyncrat) | High
-2 | [Autoit](https://vuldb.com/?actor.autoit) | High
+1 | [AsyncRAT](https://vuldb.com/actor/asyncrat) | High
+2 | [Autoit](https://vuldb.com/actor/autoit) | High
 
 ## IOC - Indicator of Compromise
 
@@ -30,16 +30,16 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Actor | Confidence
 -- | ---------- | -------- | ----- | ----------
-1 | [5.206.225.104](https://vuldb.com/?ip.5.206.225.104) | hosted-by.blazingfast.io | [Autoit](https://vuldb.com/?actor.autoit) | High
-2 | [8.248.165.254](https://vuldb.com/?ip.8.248.165.254) | - | [Autoit](https://vuldb.com/?actor.autoit) | High
-3 | [8.249.217.254](https://vuldb.com/?ip.8.249.217.254) | - | [Autoit](https://vuldb.com/?actor.autoit) | High
-4 | [8.253.131.121](https://vuldb.com/?ip.8.253.131.121) | - | [Autoit](https://vuldb.com/?actor.autoit) | High
-5 | [13.56.128.67](https://vuldb.com/?ip.13.56.128.67) | screenconnect.medsphere.com | [Autoit](https://vuldb.com/?actor.autoit) | High
-6 | [23.3.13.88](https://vuldb.com/?ip.23.3.13.88) | a23-3-13-88.deploy.static.akamaitechnologies.com | [Autoit](https://vuldb.com/?actor.autoit) | High
-7 | [23.3.13.154](https://vuldb.com/?ip.23.3.13.154) | a23-3-13-154.deploy.static.akamaitechnologies.com | [Autoit](https://vuldb.com/?actor.autoit) | High
-8 | [23.63.245.19](https://vuldb.com/?ip.23.63.245.19) | a23-63-245-19.deploy.static.akamaitechnologies.com | [Autoit](https://vuldb.com/?actor.autoit) | High
-9 | [23.63.245.50](https://vuldb.com/?ip.23.63.245.50) | a23-63-245-50.deploy.static.akamaitechnologies.com | [Autoit](https://vuldb.com/?actor.autoit) | High
-10 | [23.199.71.136](https://vuldb.com/?ip.23.199.71.136) | a23-199-71-136.deploy.static.akamaitechnologies.com | [Autoit](https://vuldb.com/?actor.autoit) | High
+1 | [5.206.225.104](https://vuldb.com/ip/5.206.225.104) | hosted-by.blazingfast.io | [Autoit](https://vuldb.com/actor/autoit) | High
+2 | [8.248.165.254](https://vuldb.com/ip/8.248.165.254) | - | [Autoit](https://vuldb.com/actor/autoit) | High
+3 | [8.249.217.254](https://vuldb.com/ip/8.249.217.254) | - | [Autoit](https://vuldb.com/actor/autoit) | High
+4 | [8.253.131.121](https://vuldb.com/ip/8.253.131.121) | - | [Autoit](https://vuldb.com/actor/autoit) | High
+5 | [13.56.128.67](https://vuldb.com/ip/13.56.128.67) | screenconnect.medsphere.com | [Autoit](https://vuldb.com/actor/autoit) | High
+6 | [23.3.13.88](https://vuldb.com/ip/23.3.13.88) | a23-3-13-88.deploy.static.akamaitechnologies.com | [Autoit](https://vuldb.com/actor/autoit) | High
+7 | [23.3.13.154](https://vuldb.com/ip/23.3.13.154) | a23-3-13-154.deploy.static.akamaitechnologies.com | [Autoit](https://vuldb.com/actor/autoit) | High
+8 | [23.63.245.19](https://vuldb.com/ip/23.63.245.19) | a23-63-245-19.deploy.static.akamaitechnologies.com | [Autoit](https://vuldb.com/actor/autoit) | High
+9 | [23.63.245.50](https://vuldb.com/ip/23.63.245.50) | a23-63-245-50.deploy.static.akamaitechnologies.com | [Autoit](https://vuldb.com/actor/autoit) | High
+10 | [23.199.71.136](https://vuldb.com/ip/23.199.71.136) | a23-199-71-136.deploy.static.akamaitechnologies.com | [Autoit](https://vuldb.com/actor/autoit) | High
 11 | ... | ... | ... | ...
 
 There are 42 more IOC items available. Please use our online service to access the data.
@@ -113,9 +113,9 @@ The following list contains _external sources_ which discuss the campaign and th
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

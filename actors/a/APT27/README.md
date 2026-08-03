@@ -1,8 +1,8 @@
 # APT27 - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [APT27](https://vuldb.com/?actor.apt27). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [APT27](https://vuldb.com/actor/apt27). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.apt27](https://vuldb.com/?actor.apt27)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/apt27](https://vuldb.com/actor/apt27)
 
 ## Campaigns
 
@@ -14,12 +14,12 @@ The following _campaigns_ are known and can be associated with APT27:
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with APT27:
 
-* [US](https://vuldb.com/?country.us)
-* [CN](https://vuldb.com/?country.cn)
-* [GB](https://vuldb.com/?country.gb)
+* [US](https://vuldb.com/country/us)
+* [CN](https://vuldb.com/country/cn)
+* [GB](https://vuldb.com/country/gb)
 * ...
 
-There are 22 more country items available. Please use our online service to access the data.
+There are 23 more country items available. Please use our online service to access the data.
 
 ## IOC - Indicator of Compromise
 
@@ -27,15 +27,15 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [34.90.207.23](https://vuldb.com/?ip.34.90.207.23) | 23.207.90.34.bc.googleusercontent.com | - | Medium
-2 | [34.93.247.126](https://vuldb.com/?ip.34.93.247.126) | 126.247.93.34.bc.googleusercontent.com | SysUpdate | Medium
-3 | [35.187.148.253](https://vuldb.com/?ip.35.187.148.253) | 253.148.187.35.bc.googleusercontent.com | SysUpdate | Medium
-4 | [35.220.135.85](https://vuldb.com/?ip.35.220.135.85) | 85.135.220.35.bc.googleusercontent.com | SysUpdate | Medium
-5 | [45.77.250.141](https://vuldb.com/?ip.45.77.250.141) | 45.77.250.141.vultr.com | - | Medium
-6 | [45.142.214.188](https://vuldb.com/?ip.45.142.214.188) | vm309132.pq.hosting | SysUpdate | High
-7 | [47.75.49.32](https://vuldb.com/?ip.47.75.49.32) | - | SysUpdate | High
-8 | [49.143.192.221](https://vuldb.com/?ip.49.143.192.221) | - | - | High
-9 | [49.143.205.30](https://vuldb.com/?ip.49.143.205.30) | - | - | High
+1 | [34.90.207.23](https://vuldb.com/ip/34.90.207.23) | 23.207.90.34.bc.googleusercontent.com | - | Medium
+2 | [34.93.247.126](https://vuldb.com/ip/34.93.247.126) | 126.247.93.34.bc.googleusercontent.com | SysUpdate | Medium
+3 | [35.187.148.253](https://vuldb.com/ip/35.187.148.253) | 253.148.187.35.bc.googleusercontent.com | SysUpdate | Medium
+4 | [35.220.135.85](https://vuldb.com/ip/35.220.135.85) | 85.135.220.35.bc.googleusercontent.com | SysUpdate | Medium
+5 | [45.77.250.141](https://vuldb.com/ip/45.77.250.141) | 45.77.250.141.vultr.com | - | Medium
+6 | [45.142.214.188](https://vuldb.com/ip/45.142.214.188) | vm309132.pq.hosting | SysUpdate | High
+7 | [47.75.49.32](https://vuldb.com/ip/47.75.49.32) | - | SysUpdate | High
+8 | [49.143.192.221](https://vuldb.com/ip/49.143.192.221) | - | - | High
+9 | [49.143.205.30](https://vuldb.com/ip/49.143.205.30) | - | - | High
 10 | ... | ... | ... | ...
 
 There are 35 more IOC items available. Please use our online service to access the data.
@@ -49,7 +49,7 @@ ID | Technique | Weakness | Description | Confidence
 1 | T1006 | CWE-21, CWE-22, CWE-23, CWE-24, CWE-25, CWE-425 | Path Traversal | High
 2 | T1040 | CWE-319 | Authentication Bypass by Capture-replay | High
 3 | T1055 | CWE-74 | Improper Neutralization of Data within XPath Expressions | High
-4 | T1059 | CWE-88, CWE-94 | Argument Injection | High
+4 | T1059 | CWE-88, CWE-94, CWE-1321 | Argument Injection | High
 5 | T1059.007 | CWE-79, CWE-80, CWE-85 | Basic Cross Site Scripting | High
 6 | T1068 | CWE-264, CWE-269, CWE-284 | Execution with Unnecessary Privileges | High
 7 | ... | ... | ... | ...
@@ -103,26 +103,27 @@ ID | Type | Indicator | Confidence
 39 | File | `/downloadmaster/dm_apply.cgi?action_mode=initial&download_type=General&special_cgi=get_language` | High
 40 | File | `/editeddonor.php` | High
 41 | File | `/editprofile.php` | High
-42 | File | `/etc/shadow` | Medium
-43 | File | `/farm/product.php` | High
-44 | File | `/foreigner-search.php` | High
-45 | File | `/forum/away.php` | High
-46 | File | `/FrontEnd/Albums.php` | High
-47 | File | `/function.php` | High
-48 | File | `/gallery/api/status/` | High
-49 | File | `/goform/AdvSetLanip` | High
-50 | File | `/goform/AdvSetMacMtuWa` | High
-51 | File | `/goform/AdvSetMacMtuWan` | High
-52 | File | `/goform/aspForm` | High
-53 | File | `/goform/ConfigExceptAli` | High
-54 | File | `/goform/ConfigExceptMSN` | High
-55 | File | `/goform/DhcpListClient` | High
-56 | File | `/goform/exeCommand` | High
+42 | File | `/farm/product.php` | High
+43 | File | `/foreigner-search.php` | High
+44 | File | `/forum/away.php` | High
+45 | File | `/FrontEnd/Albums.php` | High
+46 | File | `/function.php` | High
+47 | File | `/gallery/api/status/` | High
+48 | File | `/goform/AdvSetLanip` | High
+49 | File | `/goform/AdvSetMacMtuWa` | High
+50 | File | `/goform/AdvSetMacMtuWan` | High
+51 | File | `/goform/aspForm` | High
+52 | File | `/goform/ConfigExceptAli` | High
+53 | File | `/goform/ConfigExceptMSN` | High
+54 | File | `/goform/DhcpListClient` | High
+55 | File | `/goform/exeCommand` | High
+56 | File | `/goform/form2Wl5RepeaterStep2.cgi` | High
 57 | File | `/goform/formConfigFastDirectionW` | High
 58 | File | `/goform/formFireWall` | High
-59 | ... | ... | ...
+59 | File | `/goform/formNatStaticMap` | High
+60 | ... | ... | ...
 
-There are 513 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 528 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -138,9 +139,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

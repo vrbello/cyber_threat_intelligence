@@ -1,19 +1,19 @@
 # Momentum - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [Momentum](https://vuldb.com/?actor.momentum). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [Momentum](https://vuldb.com/actor/momentum). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.momentum](https://vuldb.com/?actor.momentum)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/momentum](https://vuldb.com/actor/momentum)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Momentum:
 
-* [LU](https://vuldb.com/?country.lu)
-* [US](https://vuldb.com/?country.us)
-* [FR](https://vuldb.com/?country.fr)
+* [LU](https://vuldb.com/country/lu)
+* [US](https://vuldb.com/country/us)
+* [FR](https://vuldb.com/country/fr)
 * ...
 
-There are 8 more country items available. Please use our online service to access the data.
+There are 9 more country items available. Please use our online service to access the data.
 
 ## IOC - Indicator of Compromise
 
@@ -21,7 +21,7 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [107.189.31.150](https://vuldb.com/?ip.107.189.31.150) | - | - | High
+1 | [107.189.31.150](https://vuldb.com/ip/107.189.31.150) | - | - | High
 
 ## TTP - Tactics, Techniques, Procedures
 
@@ -49,41 +49,45 @@ ID | Type | Indicator | Confidence
 3 | File | `/admin.php/singer/admin/singer/del` | High
 4 | File | `/admin/?page=product/manage_product&id=2` | High
 5 | File | `/Admin/add-admin.php` | High
-6 | File | `/admin/edit-course.php` | High
-7 | File | `/admin/finished.php` | High
-8 | File | `/admin/index.PHP` | High
-9 | File | `/admin/index.php` | High
-10 | File | `/admin/manage_complaint.php` | High
-11 | File | `/admin/model/addOrUpdate` | High
-12 | File | `/Admin/News.php` | High
-13 | File | `/admin/plugin.php` | High
-14 | File | `/admin/store.php` | High
-15 | File | `/admin/update-user.php` | High
-16 | File | `/admin/update_user.php` | High
-17 | File | `/admin/view_sendlist.php` | High
-18 | File | `/adminPage/main/upload` | High
-19 | File | `/admin_class.php` | High
-20 | File | `/ajax.php?action=delete_fees` | High
-21 | File | `/api/data.php` | High
-22 | File | `/api/sys/login` | High
-23 | File | `/api/system/user?deptId=1&page=1&size=10` | High
-24 | File | `/article/app/post` | High
-25 | File | `/baseOpLog.do` | High
-26 | File | `/boafrm/formMultiAPVLAN` | High
-27 | File | `/boafrm/formNtp` | High
-28 | File | `/catalog_add.php` | High
-29 | File | `/cgi-bin/cstecgi.cgi` | High
-30 | File | `/cgi-bin/hd_config.cgi` | High
-31 | File | `/cgi-bin/photocenter_mgr.cgi` | High
-32 | File | `/classes/Users.php` | High
-33 | File | `/classes/Users.php?f=save` | High
-34 | File | `/com/esafenet/servlet/system/HookInvalidCourseService.java` | High
-35 | File | `/common/logViewer/logViewer.jsf` | High
-36 | File | `/commons/attachment/upload` | High
-37 | File | `/confirm` | Medium
-38 | ... | ... | ...
+6 | File | `/admin/admin_cl.php?mudi=revPwd` | High
+7 | File | `/admin/edit-course.php` | High
+8 | File | `/admin/finished.php` | High
+9 | File | `/admin/index.PHP` | High
+10 | File | `/admin/index.php` | High
+11 | File | `/admin/manage_complaint.php` | High
+12 | File | `/admin/model/addOrUpdate` | High
+13 | File | `/admin/modules/student/trans.php` | High
+14 | File | `/Admin/News.php` | High
+15 | File | `/admin/plugin.php` | High
+16 | File | `/admin/plugin_antispam` | High
+17 | File | `/admin/store.php` | High
+18 | File | `/admin/update-user.php` | High
+19 | File | `/admin/update_user.php` | High
+20 | File | `/admin/view_sendlist.php` | High
+21 | File | `/adminPage/main/upload` | High
+22 | File | `/admin_class.php` | High
+23 | File | `/ajax.php?action=delete_fees` | High
+24 | File | `/api/data.php` | High
+25 | File | `/api/sys/login` | High
+26 | File | `/api/system/user?deptId=1&page=1&size=10` | High
+27 | File | `/article/app/post` | High
+28 | File | `/baseOpLog.do` | High
+29 | File | `/boafrm/formMultiAPVLAN` | High
+30 | File | `/boafrm/formNtp` | High
+31 | File | `/catalog_add.php` | High
+32 | File | `/cgi-bin/cstecgi.cgi` | High
+33 | File | `/cgi-bin/DownloadFlash` | High
+34 | File | `/cgi-bin/hd_config.cgi` | High
+35 | File | `/cgi-bin/photocenter_mgr.cgi` | High
+36 | File | `/classes/Users.php` | High
+37 | File | `/classes/Users.php?f=save` | High
+38 | File | `/com/esafenet/servlet/system/HookInvalidCourseService.java` | High
+39 | File | `/common/logViewer/logViewer.jsf` | High
+40 | File | `/commons/attachment/upload` | High
+41 | File | `/confirm` | Medium
+42 | ... | ... | ...
 
-There are 331 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 359 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -95,9 +99,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

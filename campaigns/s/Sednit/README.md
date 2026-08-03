@@ -13,7 +13,7 @@ These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. acce
 * [RU](https://vuldb.com/country/ru)
 * ...
 
-There are 20 more country items available. Please use our online service to access the data.
+There are 19 more country items available. Please use our online service to access the data.
 
 ## Actors
 
@@ -119,36 +119,36 @@ ID | Type | Indicator | Confidence
 53 | File | `/ajax.php?action=save_payroll` | High
 54 | File | `/ajax.php?Ajax=GetModal_Sensor_Graph` | High
 55 | File | `/alphaware/summary.php` | High
-56 | File | `/api/File/downloadFile` | High
-57 | File | `/api/settings` | High
-58 | File | `/api/sys/login` | High
-59 | File | `/api/wizard/getCapability` | High
-60 | File | `/app/api/controller/collect.php` | High
-61 | File | `/app/api/v1/openvpn.py` | High
-62 | File | `/app/controller/Api.php` | High
-63 | File | `/app/index/controller/Common.php` | High
-64 | File | `/app/register.php?action=reg` | High
-65 | File | `/app/sys1.php` | High
-66 | File | `/applications/core/modules/admin/editor/toolbar.php` | High
-67 | File | `/Applications/Google\ Drive.app/Contents/MacOS` | High
-68 | File | `/applications/nexus/modules/front/store/store.php` | High
-69 | File | `/assetsGroupReport/assetsService.j%73p` | High
-70 | File | `/auth.asp` | Medium
-71 | File | `/backend/doc/his_doc_update-account.php` | High
-72 | File | `/BalloonSave.ashx` | High
-73 | File | `/bin/httpd` | Medium
-74 | File | `/bitrix/admin/ldap_server_edit.php` | High
-75 | File | `/biurl_grou` | Medium
-76 | File | `/boaform/formSysCmd` | High
-77 | File | `/boafrm/formDMZ` | High
-78 | File | `/boafrm/formTmultiAP` | High
-79 | File | `/boafrm/formWanConfigSetup` | High
-80 | File | `/borrow.php` | Medium
-81 | File | `/browse.php` | Medium
-82 | File | `/cgi-bin/apkg_mgr.cgi` | High
+56 | File | `/api/environments/` | High
+57 | File | `/api/File/downloadFile` | High
+58 | File | `/api/settings` | High
+59 | File | `/api/sys/login` | High
+60 | File | `/api/wizard/getCapability` | High
+61 | File | `/api/wizard/setLanguage` | High
+62 | File | `/app/api/controller/collect.php` | High
+63 | File | `/app/api/v1/openvpn.py` | High
+64 | File | `/app/controller/Api.php` | High
+65 | File | `/app/index/controller/Common.php` | High
+66 | File | `/app/register.php?action=reg` | High
+67 | File | `/app/sys1.php` | High
+68 | File | `/applications/core/modules/admin/editor/toolbar.php` | High
+69 | File | `/Applications/Google\ Drive.app/Contents/MacOS` | High
+70 | File | `/applications/nexus/modules/front/store/store.php` | High
+71 | File | `/assetsGroupReport/assetsService.j%73p` | High
+72 | File | `/auth.asp` | Medium
+73 | File | `/backend/doc/his_doc_update-account.php` | High
+74 | File | `/BalloonSave.ashx` | High
+75 | File | `/bin/httpd` | Medium
+76 | File | `/biurl_grou` | Medium
+77 | File | `/boaform/formSysCmd` | High
+78 | File | `/boafrm/formDMZ` | High
+79 | File | `/boafrm/formTmultiAP` | High
+80 | File | `/boafrm/formWanConfigSetup` | High
+81 | File | `/borrow.php` | Medium
+82 | File | `/browse.php` | Medium
 83 | ... | ... | ...
 
-There are 732 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 733 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 

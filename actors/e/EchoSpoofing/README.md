@@ -1,16 +1,16 @@
 # EchoSpoofing - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [EchoSpoofing](https://vuldb.com/?actor.echospoofing). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [EchoSpoofing](https://vuldb.com/actor/echospoofing). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.echospoofing](https://vuldb.com/?actor.echospoofing)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/echospoofing](https://vuldb.com/actor/echospoofing)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with EchoSpoofing:
 
-* [US](https://vuldb.com/?country.us)
-* [ES](https://vuldb.com/?country.es)
-* [GB](https://vuldb.com/?country.gb)
+* [US](https://vuldb.com/country/us)
+* [ES](https://vuldb.com/country/es)
+* [CN](https://vuldb.com/country/cn)
 * ...
 
 There are 11 more country items available. Please use our online service to access the data.
@@ -21,15 +21,15 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [15.204.12.95](https://vuldb.com/?ip.15.204.12.95) | net-001.lab.void.lgbt | - | High
-2 | [15.204.12.117](https://vuldb.com/?ip.15.204.12.117) | ip117.ip-15-204-12.us | - | High
-3 | [15.204.12.119](https://vuldb.com/?ip.15.204.12.119) | s14.cuuals.com | - | High
-4 | [15.204.12.120](https://vuldb.com/?ip.15.204.12.120) | s16.cuuals.com | - | High
-5 | [15.204.12.122](https://vuldb.com/?ip.15.204.12.122) | ip122.ip-15-204-12.us | - | High
-6 | [15.204.20.226](https://vuldb.com/?ip.15.204.20.226) | server.one-file.com | - | High
-7 | [15.204.40.128](https://vuldb.com/?ip.15.204.40.128) | ip128.ip-15-204-40.us | - | High
-8 | [15.204.41.213](https://vuldb.com/?ip.15.204.41.213) | ip213.ip-15-204-41.us | - | High
-9 | [15.204.41.218](https://vuldb.com/?ip.15.204.41.218) | ip218.ip-15-204-41.us | - | High
+1 | [15.204.12.95](https://vuldb.com/ip/15.204.12.95) | net-001.lab.void.lgbt | - | High
+2 | [15.204.12.117](https://vuldb.com/ip/15.204.12.117) | ip117.ip-15-204-12.us | - | High
+3 | [15.204.12.119](https://vuldb.com/ip/15.204.12.119) | s14.cuuals.com | - | High
+4 | [15.204.12.120](https://vuldb.com/ip/15.204.12.120) | s16.cuuals.com | - | High
+5 | [15.204.12.122](https://vuldb.com/ip/15.204.12.122) | ip122.ip-15-204-12.us | - | High
+6 | [15.204.20.226](https://vuldb.com/ip/15.204.20.226) | server.one-file.com | - | High
+7 | [15.204.40.128](https://vuldb.com/ip/15.204.40.128) | ip128.ip-15-204-40.us | - | High
+8 | [15.204.41.213](https://vuldb.com/ip/15.204.41.213) | ip213.ip-15-204-41.us | - | High
+9 | [15.204.41.218](https://vuldb.com/ip/15.204.41.218) | ip218.ip-15-204-41.us | - | High
 10 | ... | ... | ... | ...
 
 There are 37 more IOC items available. Please use our online service to access the data.
@@ -57,38 +57,38 @@ ID | Type | Indicator | Confidence
 -- | ---- | --------- | ----------
 1 | File | `.travis.yml` | Medium
 2 | File | `/admin/edit-doctor-specialization.php` | High
-3 | File | `/admin/maintenance/view_designation.php` | High
-4 | File | `/admin/new-autoortaxi-entry-form.php` | High
-5 | File | `/admin/pass-bwdates-report.php` | High
-6 | File | `/admin_link.php?action=delall` | High
-7 | File | `/arp_sys.asp` | Medium
-8 | File | `/boafrm/formDefRoute` | High
-9 | File | `/cardo/api` | Medium
-10 | File | `/cgi-bin/nobody/Search.cgi` | High
-11 | File | `/cgi-bin/webdav_mgr.cgi` | High
-12 | File | `/check_profile.php` | High
-13 | File | `/ConsoleHelp/` | High
-14 | File | `/context/%2e/WEB-INF/web.xml` | High
-15 | File | `/data/app` | Medium
-16 | File | `/druid/index.html` | High
-17 | File | `/etc/passwd` | Medium
-18 | File | `/form137.php` | Medium
-19 | File | `/goform/DDNS` | Medium
-20 | File | `/goform/formSetWanNonLogin` | High
-21 | File | `/goform/formWlanWizardSetup` | High
-22 | File | `/goform/portTriggerManageRule` | High
-23 | File | `/goform/scheduleAdd` | High
-24 | File | `/goform/setDMZ` | High
-25 | File | `/goform/setLan` | High
-26 | File | `/goform/SetRebootTimer` | High
-27 | File | `/goform/urlFilterManageRule` | High
-28 | File | `/grid/vgrid_server.php` | High
-29 | File | `/inc/lists/csvexport.php` | High
-30 | File | `/index` | Low
-31 | File | `/jingx.asp` | Medium
+3 | File | `/admin/index2.html` | High
+4 | File | `/admin/maintenance/view_designation.php` | High
+5 | File | `/admin/new-autoortaxi-entry-form.php` | High
+6 | File | `/admin/pass-bwdates-report.php` | High
+7 | File | `/admin_link.php?action=delall` | High
+8 | File | `/api/proxy` | Medium
+9 | File | `/arp_sys.asp` | Medium
+10 | File | `/boafrm/formDefRoute` | High
+11 | File | `/cardo/api` | Medium
+12 | File | `/cgi-bin/nobody/Search.cgi` | High
+13 | File | `/cgi-bin/webdav_mgr.cgi` | High
+14 | File | `/check_profile.php` | High
+15 | File | `/ConsoleHelp/` | High
+16 | File | `/context/%2e/WEB-INF/web.xml` | High
+17 | File | `/data/app` | Medium
+18 | File | `/druid/index.html` | High
+19 | File | `/etc/passwd` | Medium
+20 | File | `/form137.php` | Medium
+21 | File | `/goform/DDNS` | Medium
+22 | File | `/goform/formSetWanNonLogin` | High
+23 | File | `/goform/formWlanWizardSetup` | High
+24 | File | `/goform/portTriggerManageRule` | High
+25 | File | `/goform/scheduleAdd` | High
+26 | File | `/goform/setDMZ` | High
+27 | File | `/goform/setLan` | High
+28 | File | `/goform/SetRebootTimer` | High
+29 | File | `/goform/urlFilterManageRule` | High
+30 | File | `/grid/vgrid_server.php` | High
+31 | File | `/inc/lists/csvexport.php` | High
 32 | ... | ... | ...
 
-There are 271 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 273 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -100,9 +100,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

@@ -1,16 +1,16 @@
 # HOPLIGHT - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the campaign known as _HOPLIGHT_. The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the campaign known as _HOPLIGHT_. The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor](https://vuldb.com/?actor)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor](https://vuldb.com/actor)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with HOPLIGHT:
 
-* [HK](https://vuldb.com/?country.hk)
-* [US](https://vuldb.com/?country.us)
-* [GB](https://vuldb.com/?country.gb)
+* [HK](https://vuldb.com/country/hk)
+* [US](https://vuldb.com/country/us)
+* [GB](https://vuldb.com/country/gb)
 * ...
 
 There are 2 more country items available. Please use our online service to access the data.
@@ -21,9 +21,9 @@ These _actors_ are associated with HOPLIGHT or other actors linked to the campai
 
 ID | Actor | Confidence
 -- | ----- | ----------
-1 | [DPRK](https://vuldb.com/?actor.dprk) | High
-2 | [HopLight](https://vuldb.com/?actor.hoplight) | High
-3 | [Lazarus](https://vuldb.com/?actor.lazarus) | High
+1 | [DPRK](https://vuldb.com/actor/dprk) | High
+2 | [HopLight](https://vuldb.com/actor/hoplight) | High
+3 | [Lazarus](https://vuldb.com/actor/lazarus) | High
 
 ## IOC - Indicator of Compromise
 
@@ -31,15 +31,15 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Actor | Confidence
 -- | ---------- | -------- | ----- | ----------
-1 | [10.10.30.130](https://vuldb.com/?ip.10.10.30.130) | - | [HopLight](https://vuldb.com/?actor.hoplight) | High
-2 | [14.140.116.172](https://vuldb.com/?ip.14.140.116.172) | 14-140-116-172-sapient.com | [HopLight](https://vuldb.com/?actor.hoplight) | High
-3 | [21.0.0.0](https://vuldb.com/?ip.21.0.0.0) | - | [HopLight](https://vuldb.com/?actor.hoplight) | High
-4 | [21.252.107.198](https://vuldb.com/?ip.21.252.107.198) | - | [Lazarus](https://vuldb.com/?actor.lazarus) | High
-5 | [21.255.255.255](https://vuldb.com/?ip.21.255.255.255) | - | [HopLight](https://vuldb.com/?actor.hoplight) | High
-6 | [26.0.0.0](https://vuldb.com/?ip.26.0.0.0) | - | [HopLight](https://vuldb.com/?actor.hoplight) | High
-7 | [26.165.218.44](https://vuldb.com/?ip.26.165.218.44) | - | [Lazarus](https://vuldb.com/?actor.lazarus) | High
-8 | [26.255.255.255](https://vuldb.com/?ip.26.255.255.255) | - | [HopLight](https://vuldb.com/?actor.hoplight) | High
-9 | [47.206.4.145](https://vuldb.com/?ip.47.206.4.145) | static-47-206-4-145.srst.fl.frontiernet.net | [Lazarus](https://vuldb.com/?actor.lazarus) | High
+1 | [10.10.30.130](https://vuldb.com/ip/10.10.30.130) | - | [HopLight](https://vuldb.com/actor/hoplight) | High
+2 | [14.140.116.172](https://vuldb.com/ip/14.140.116.172) | 14-140-116-172-sapient.com | [HopLight](https://vuldb.com/actor/hoplight) | High
+3 | [21.0.0.0](https://vuldb.com/ip/21.0.0.0) | - | [HopLight](https://vuldb.com/actor/hoplight) | High
+4 | [21.252.107.198](https://vuldb.com/ip/21.252.107.198) | - | [Lazarus](https://vuldb.com/actor/lazarus) | High
+5 | [21.255.255.255](https://vuldb.com/ip/21.255.255.255) | - | [HopLight](https://vuldb.com/actor/hoplight) | High
+6 | [26.0.0.0](https://vuldb.com/ip/26.0.0.0) | - | [HopLight](https://vuldb.com/actor/hoplight) | High
+7 | [26.165.218.44](https://vuldb.com/ip/26.165.218.44) | - | [Lazarus](https://vuldb.com/actor/lazarus) | High
+8 | [26.255.255.255](https://vuldb.com/ip/26.255.255.255) | - | [HopLight](https://vuldb.com/actor/hoplight) | High
+9 | [47.206.4.145](https://vuldb.com/ip/47.206.4.145) | static-47-206-4-145.srst.fl.frontiernet.net | [Lazarus](https://vuldb.com/actor/lazarus) | High
 10 | ... | ... | ... | ...
 
 There are 35 more IOC items available. Please use our online service to access the data.
@@ -77,19 +77,20 @@ ID | Type | Indicator | Confidence
 10 | File | `/api/blade-log/api/list` | High
 11 | File | `/api/v1/terminal/sessions/?limit=1` | High
 12 | File | `/cgi-bin/nas_sharing.cgi` | High
-13 | File | `/config/myfield/test.php` | High
-14 | File | `/context/%2e/WEB-INF/web.xml` | High
-15 | File | `/core/conditions/AbstractWrapper.java` | High
-16 | File | `/data/remove` | Medium
-17 | File | `/debug/pprof` | Medium
-18 | File | `/etc/passwd` | Medium
-19 | File | `/f.php` | Low
-20 | File | `/face-recognition-php/facepay-master/camera.php` | High
-21 | File | `/forms/doLogin` | High
-22 | File | `/fort/trust/version/common/common.jsp` | High
-23 | ... | ... | ...
+13 | File | `/cgi-bin/nobody/Search.cgi?action=cgi_query` | High
+14 | File | `/config/myfield/test.php` | High
+15 | File | `/context/%2e/WEB-INF/web.xml` | High
+16 | File | `/core/conditions/AbstractWrapper.java` | High
+17 | File | `/data/remove` | Medium
+18 | File | `/debug/pprof` | Medium
+19 | File | `/etc/passwd` | Medium
+20 | File | `/f.php` | Low
+21 | File | `/face-recognition-php/facepay-master/camera.php` | High
+22 | File | `/forms/doLogin` | High
+23 | File | `/fort/trust/version/common/common.jsp` | High
+24 | ... | ... | ...
 
-There are 195 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 199 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -103,9 +104,9 @@ The following list contains _external sources_ which discuss the campaign and th
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

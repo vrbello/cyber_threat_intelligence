@@ -1,16 +1,16 @@
 # Palau Unknown - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [Palau Unknown](https://vuldb.com/?actor.palau_unknown). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [Palau Unknown](https://vuldb.com/actor/palau_unknown). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.palau_unknown](https://vuldb.com/?actor.palau_unknown)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/palau_unknown](https://vuldb.com/actor/palau_unknown)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Palau Unknown:
 
-* [US](https://vuldb.com/?country.us)
-* [GB](https://vuldb.com/?country.gb)
-* [CF](https://vuldb.com/?country.cf)
+* [US](https://vuldb.com/country/us)
+* [GB](https://vuldb.com/country/gb)
+* [CF](https://vuldb.com/country/cf)
 * ...
 
 There are 28 more country items available. Please use our online service to access the data.
@@ -21,15 +21,15 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [5.62.56.164](https://vuldb.com/?ip.5.62.56.164) | r-164-56-62-5.consumer-pool.prcdn.net | - | High
-2 | [5.62.61.76](https://vuldb.com/?ip.5.62.61.76) | r-76-61-62-5.consumer-pool.prcdn.net | - | High
-3 | [45.12.70.186](https://vuldb.com/?ip.45.12.70.186) | rounded-tray.alltieinc.com | - | High
-4 | [45.12.71.186](https://vuldb.com/?ip.45.12.71.186) | - | - | High
-5 | [57.70.176.0](https://vuldb.com/?ip.57.70.176.0) | - | - | High
-6 | [57.70.240.0](https://vuldb.com/?ip.57.70.240.0) | - | - | High
-7 | [103.30.248.0](https://vuldb.com/?ip.103.30.248.0) | visit.keznews.com | - | High
-8 | [103.30.250.0](https://vuldb.com/?ip.103.30.250.0) | visit.keznews.com | - | High
-9 | [103.149.150.0](https://vuldb.com/?ip.103.149.150.0) | - | - | High
+1 | [5.62.56.164](https://vuldb.com/ip/5.62.56.164) | r-164-56-62-5.consumer-pool.prcdn.net | - | High
+2 | [5.62.61.76](https://vuldb.com/ip/5.62.61.76) | r-76-61-62-5.consumer-pool.prcdn.net | - | High
+3 | [45.12.70.186](https://vuldb.com/ip/45.12.70.186) | rounded-tray.alltieinc.com | - | High
+4 | [45.12.71.186](https://vuldb.com/ip/45.12.71.186) | - | - | High
+5 | [57.70.176.0](https://vuldb.com/ip/57.70.176.0) | - | - | High
+6 | [57.70.240.0](https://vuldb.com/ip/57.70.240.0) | - | - | High
+7 | [103.30.248.0](https://vuldb.com/ip/103.30.248.0) | visit.keznews.com | - | High
+8 | [103.30.250.0](https://vuldb.com/ip/103.30.250.0) | visit.keznews.com | - | High
+9 | [103.149.150.0](https://vuldb.com/ip/103.149.150.0) | - | - | High
 10 | ... | ... | ... | ...
 
 There are 38 more IOC items available. Please use our online service to access the data.
@@ -104,37 +104,37 @@ ID | Type | Indicator | Confidence
 47 | File | `/admin/modules/subject/edit.php` | High
 48 | File | `/admin/modules/subject/index.php` | High
 49 | File | `/admin/reset-password.php` | High
-50 | File | `/admin/robot.php` | High
-51 | File | `/admin/search.php` | High
-52 | File | `/admin/subject/controller.php` | High
-53 | File | `/admin/SysModule/upload/ajaxmodel/upload/uploadfilepath/sysmodule_1` | High
-54 | File | `/admin/system/structure/getdirectorydata/web/baseinfo/companyManage` | High
-55 | File | `/admin/update_student.php` | High
-56 | File | `/admin/user/user-move-run.php` | High
-57 | File | `/admin/view-appointment.php` | High
-58 | File | `/admin/view-member-report.php` | High
-59 | File | `/admindetail.php?action=edit` | High
-60 | File | `/Administrator/PHP/AdminUpdateCategory.php` | High
-61 | File | `/adv_mac_filter.php` | High
-62 | File | `/ajax.php?action=delete_tenant` | High
-63 | File | `/ajax.php?action=save_course` | High
-64 | File | `/ajax.php?action=save_ticket` | High
-65 | File | `/ajax_city.php` | High
-66 | File | `/api/controllers/merchant/shop/PosterController.php` | High
-67 | File | `/api/employees` | High
-68 | File | `/api/jobs` | Medium
-69 | File | `/api/store_integral/order/detail/:uni` | High
-70 | File | `/api/system/other` | High
-71 | File | `/app/platform/controllers/ResetpwdController.php` | High
-72 | File | `/application/pay/controller/Index.php` | High
-73 | File | `/application/user/controller/Index.php` | High
-74 | File | `/backend/admin/his_admin_add_lab_equipment.php` | High
-75 | File | `/backend/admin/his_admin_register_patient.php` | High
-76 | File | `/backend/register.php` | High
-77 | File | `/bin/boa` | Medium
+50 | File | `/admin/search.php` | High
+51 | File | `/admin/subject/controller.php` | High
+52 | File | `/admin/SysModule/upload/ajaxmodel/upload/uploadfilepath/sysmodule_1` | High
+53 | File | `/admin/system/structure/getdirectorydata/web/baseinfo/companyManage` | High
+54 | File | `/admin/update_student.php` | High
+55 | File | `/admin/user/user-move-run.php` | High
+56 | File | `/admin/view-appointment.php` | High
+57 | File | `/admin/view-member-report.php` | High
+58 | File | `/admindetail.php?action=edit` | High
+59 | File | `/Administrator/PHP/AdminUpdateCategory.php` | High
+60 | File | `/adv_mac_filter.php` | High
+61 | File | `/ajax.php?action=delete_tenant` | High
+62 | File | `/ajax.php?action=save_course` | High
+63 | File | `/ajax.php?action=save_ticket` | High
+64 | File | `/ajax_city.php` | High
+65 | File | `/api/controllers/merchant/shop/PosterController.php` | High
+66 | File | `/api/employees` | High
+67 | File | `/api/jobs` | Medium
+68 | File | `/api/store_integral/order/detail/:uni` | High
+69 | File | `/api/system/other` | High
+70 | File | `/app/platform/controllers/ResetpwdController.php` | High
+71 | File | `/application/pay/controller/Index.php` | High
+72 | File | `/application/user/controller/Index.php` | High
+73 | File | `/backend/admin/his_admin_add_lab_equipment.php` | High
+74 | File | `/backend/admin/his_admin_register_patient.php` | High
+75 | File | `/bin/boa` | Medium
+76 | File | `/bloodrequest.php` | High
+77 | File | `/boafrm/formFilter` | High
 78 | ... | ... | ...
 
-There are 682 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 685 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -148,9 +148,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

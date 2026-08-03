@@ -1,16 +1,16 @@
 # Ngoiweb - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [Ngoiweb](https://vuldb.com/?actor.ngoiweb). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [Ngoiweb](https://vuldb.com/actor/ngoiweb). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.ngoiweb](https://vuldb.com/?actor.ngoiweb)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/ngoiweb](https://vuldb.com/actor/ngoiweb)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Ngoiweb:
 
-* [US](https://vuldb.com/?country.us)
-* [GB](https://vuldb.com/?country.gb)
-* [CN](https://vuldb.com/?country.cn)
+* [US](https://vuldb.com/country/us)
+* [GB](https://vuldb.com/country/gb)
+* [CN](https://vuldb.com/country/cn)
 * ...
 
 There are 7 more country items available. Please use our online service to access the data.
@@ -21,13 +21,13 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [1.125.125.5](https://vuldb.com/?ip.1.125.125.5) | - | - | High
-2 | [5.135.35.160](https://vuldb.com/?ip.5.135.35.160) | ip160.ip-5-135-35.eu | - | High
-3 | [5.135.58.119](https://vuldb.com/?ip.5.135.58.119) | u.competitionhumourumbrella.city | - | High
-4 | [5.135.58.121](https://vuldb.com/?ip.5.135.58.121) | 760.impulseratecloud.store | - | High
-5 | [5.135.58.123](https://vuldb.com/?ip.5.135.58.123) | 95p0.impulseratecloud.store | - | High
-6 | [5.135.58.124](https://vuldb.com/?ip.5.135.58.124) | pwtu32k.groupsensefixed.me | - | High
-7 | [5.196.194.209](https://vuldb.com/?ip.5.196.194.209) | ip209.ip-5-196-194.eu | - | High
+1 | [1.125.125.5](https://vuldb.com/ip/1.125.125.5) | - | - | High
+2 | [5.135.35.160](https://vuldb.com/ip/5.135.35.160) | ip160.ip-5-135-35.eu | - | High
+3 | [5.135.58.119](https://vuldb.com/ip/5.135.58.119) | u.competitionhumourumbrella.city | - | High
+4 | [5.135.58.121](https://vuldb.com/ip/5.135.58.121) | 760.impulseratecloud.store | - | High
+5 | [5.135.58.123](https://vuldb.com/ip/5.135.58.123) | 95p0.impulseratecloud.store | - | High
+6 | [5.135.58.124](https://vuldb.com/ip/5.135.58.124) | pwtu32k.groupsensefixed.me | - | High
+7 | [5.196.194.209](https://vuldb.com/ip/5.196.194.209) | ip209.ip-5-196-194.eu | - | High
 8 | ... | ... | ... | ...
 
 There are 27 more IOC items available. Please use our online service to access the data.
@@ -70,7 +70,7 @@ ID | Type | Indicator | Confidence
 17 | File | `/forum/away.php` | High
 18 | ... | ... | ...
 
-There are 142 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 145 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -82,9 +82,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

@@ -126,33 +126,33 @@ ID | Type | Indicator | Confidence
 47 | File | `/api/admin/system/store/order/list` | High
 48 | File | `/api/blade-system/menu/list?updatexml` | High
 49 | File | `/api/controllers/merchant/shop/PosterController.php` | High
-50 | File | `/api/files/recipepictures/` | High
-51 | File | `/api/upload` | Medium
-52 | File | `/api/v1/serve/awel/flow/import` | High
-53 | File | `/api/v1/settings` | High
-54 | File | `/api/v2/categories` | High
-55 | File | `/api/v2/users-management/users` | High
-56 | File | `/api/wizard/getBasicInfo` | High
-57 | File | `/api/wizard/getCapability` | High
-58 | File | `/app/admin/controller/Images.php` | High
-59 | File | `/app/admin/instructions/edit-result.php` | High
-60 | File | `/app/fax/fax_view.php` | High
-61 | File | `/App/Tpl/Admin/Default/Channel/index.html.Attackers` | High
-62 | File | `/app/xml_cdr/xml_cdr_details.php` | High
-63 | File | `/application/pay/controller/Api.php` | High
-64 | File | `/apply.cgi` | Medium
-65 | File | `/art-enquiry.php` | High
-66 | File | `/auth_files/photo/` | High
-67 | File | `/billaction.php` | High
-68 | File | `/bin/httpd` | Medium
-69 | File | `/binutils/debug.c` | High
-70 | File | `/boafrm/formMultiAP` | High
-71 | File | `/boafrm/formStats` | High
-72 | File | `/boafrm/formWlanRedirect` | High
-73 | File | `/bwdates-reports-details.php` | High
+50 | File | `/api/environments/` | High
+51 | File | `/api/files/recipepictures/` | High
+52 | File | `/api/upload` | Medium
+53 | File | `/api/v1/serve/awel/flow/import` | High
+54 | File | `/api/v1/settings` | High
+55 | File | `/api/v2/categories` | High
+56 | File | `/api/v2/users-management/users` | High
+57 | File | `/api/wizard/getBasicInfo` | High
+58 | File | `/api/wizard/getCapability` | High
+59 | File | `/app/admin/controller/Images.php` | High
+60 | File | `/app/admin/instructions/edit-result.php` | High
+61 | File | `/app/fax/fax_view.php` | High
+62 | File | `/App/Tpl/Admin/Default/Channel/index.html.Attackers` | High
+63 | File | `/app/xml_cdr/xml_cdr_details.php` | High
+64 | File | `/application/pay/controller/Api.php` | High
+65 | File | `/apply.cgi` | Medium
+66 | File | `/art-enquiry.php` | High
+67 | File | `/auth_files/photo/` | High
+68 | File | `/billaction.php` | High
+69 | File | `/bin/httpd` | Medium
+70 | File | `/binutils/debug.c` | High
+71 | File | `/boafrm/formMultiAP` | High
+72 | File | `/boafrm/formStats` | High
+73 | File | `/boafrm/formWlanRedirect` | High
 74 | ... | ... | ...
 
-There are 647 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 653 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 

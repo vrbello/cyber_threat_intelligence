@@ -1,19 +1,19 @@
 # FakeMBAM - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [FakeMBAM](https://vuldb.com/?actor.fakembam). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [FakeMBAM](https://vuldb.com/actor/fakembam). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.fakembam](https://vuldb.com/?actor.fakembam)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/fakembam](https://vuldb.com/actor/fakembam)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with FakeMBAM:
 
-* [NL](https://vuldb.com/?country.nl)
-* [US](https://vuldb.com/?country.us)
-* [GB](https://vuldb.com/?country.gb)
+* [NL](https://vuldb.com/country/nl)
+* [US](https://vuldb.com/country/us)
+* [GB](https://vuldb.com/country/gb)
 * ...
 
-There are 3 more country items available. Please use our online service to access the data.
+There are 4 more country items available. Please use our online service to access the data.
 
 ## IOC - Indicator of Compromise
 
@@ -21,10 +21,10 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [15.236.226.247](https://vuldb.com/?ip.15.236.226.247) | ec2-15-236-226-247.eu-west-3.compute.amazonaws.com | - | Medium
-2 | [18.159.45.239](https://vuldb.com/?ip.18.159.45.239) | ec2-18-159-45-239.eu-central-1.compute.amazonaws.com | - | Medium
-3 | [18.184.46.95](https://vuldb.com/?ip.18.184.46.95) | ec2-18-184-46-95.eu-central-1.compute.amazonaws.com | - | Medium
-4 | [34.254.170.193](https://vuldb.com/?ip.34.254.170.193) | ec2-34-254-170-193.eu-west-1.compute.amazonaws.com | - | Medium
+1 | [15.236.226.247](https://vuldb.com/ip/15.236.226.247) | ec2-15-236-226-247.eu-west-3.compute.amazonaws.com | - | Medium
+2 | [18.159.45.239](https://vuldb.com/ip/18.159.45.239) | ec2-18-159-45-239.eu-central-1.compute.amazonaws.com | - | Medium
+3 | [18.184.46.95](https://vuldb.com/ip/18.184.46.95) | ec2-18-184-46-95.eu-central-1.compute.amazonaws.com | - | Medium
+4 | [34.254.170.193](https://vuldb.com/ip/34.254.170.193) | ec2-34-254-170-193.eu-west-1.compute.amazonaws.com | - | Medium
 5 | ... | ... | ... | ...
 
 There are 15 more IOC items available. Please use our online service to access the data.
@@ -53,91 +53,91 @@ ID | Type | Indicator | Confidence
 1 | File | `../mtd/Config/Sha1Account1` | High
 2 | File | `/about.php` | Medium
 3 | File | `/actuator/heapdump` | High
-4 | File | `/admin-manage-user.php` | High
-5 | File | `/admin/action/new-father.php` | High
-6 | File | `/Admin/add-student.php` | High
-7 | File | `/admin/addemployee.php` | High
-8 | File | `/admin/api/theme-edit/` | High
-9 | File | `/admin/bookdate.php` | High
-10 | File | `/admin/booking-bwdates-reports-details.php` | High
-11 | File | `/admin/category/cate-edit-run.php` | High
-12 | File | `/admin/category/index.php` | High
-13 | File | `/Admin/changepassword.php` | High
-14 | File | `/admin/clients` | High
-15 | File | `/admin/conferences/list/` | High
-16 | File | `/admin/config_save.php` | High
-17 | File | `/admin/contacts/organizations/edit/2` | High
-18 | File | `/admin/controller/faculty_controller.php` | High
-19 | File | `/admin/controller/student_controller.php` | High
-20 | File | `/admin/googleads.php` | High
-21 | File | `/admin/index.php?page=categories` | High
-22 | File | `/admin/maintenance/manage_category.php` | High
-23 | File | `/admin/manage-users.php` | High
-24 | File | `/admin/orders/view_order.php` | High
-25 | File | `/admin/photo.php` | High
-26 | File | `/admin/reminders/manage_reminder.php` | High
-27 | File | `/admin/reports.php` | High
-28 | File | `/admin/rooms.php` | High
-29 | File | `/admin/services/manage_service.php` | High
-30 | File | `/admin/services/view_service.php` | High
-31 | File | `/admin/settings.php` | High
-32 | File | `/admin/students.php` | High
-33 | File | `/admin/suppliers/view_details.php` | High
-34 | File | `/admin/tag.php` | High
-35 | File | `/admin/update-rooms.php` | High
-36 | File | `/admin/upload/img` | High
-37 | File | `/admin/user-search.php` | High
-38 | File | `/admin/users.php` | High
-39 | File | `/admin/vacancy/controller.php` | High
-40 | File | `/adminapi/system/crud` | High
-41 | File | `/Administrator/PHP/AdminDeleteUser.php` | High
-42 | File | `/adminpanel/admin/query/deleteCourseExe.php` | High
-43 | File | `/adplanet/PlanetUser` | High
-44 | File | `/ajax.php?action=delete_product` | High
-45 | File | `/api/blade-system/menu/list?updatexml` | High
-46 | File | `/api/browserextension/UpdatePassword/` | High
-47 | File | `/api/controllers/merchant/design/MaterialController.php` | High
-48 | File | `/api/front/search/books` | High
-49 | File | `/api/mjkj-chat/chat/mng/update/questionCou` | High
-50 | File | `/api/v1/attack` | High
-51 | File | `/api/v1/bait/set` | High
-52 | File | `/api/v2/open/rowsInfo` | High
-53 | File | `/api/v2/open/tablesInfo` | High
-54 | File | `/app/admin/controller/Upload.php` | High
-55 | File | `/app/controller/Setup.php` | High
-56 | File | `/application/index/controller/Databasesource.php` | High
-57 | File | `/application/index/controller/Icon.php` | High
-58 | File | `/application/index/controller/Screen.php` | High
-59 | File | `/Applications/Endurance.app/Contents/Library/LaunchServices/com.MagnetismStudios.endurance.helper` | High
-60 | File | `/apply.cgi` | Medium
-61 | File | `/apps/reg_go.php` | High
-62 | File | `/article/DelectArticleById/` | High
-63 | File | `/boafrm/formDdns` | High
-64 | File | `/boafrm/formFilter` | High
-65 | File | `/boafrm/formMapDelDevice` | High
-66 | File | `/boafrm/formNtp` | High
-67 | File | `/boafrm/formPingDiagnosticRun` | High
-68 | File | `/boafrm/formVpnConfigSetup` | High
-69 | File | `/catcompany.php` | High
-70 | File | `/category/list?limit=10&offset=0&order=desc` | High
-71 | File | `/cgi-bin/cstecgi.cgi` | High
-72 | File | `/cgi-bin/touchlist_sync.cgi` | High
-73 | File | `/classes/Master.php` | High
-74 | File | `/classes/Master.php?f=delete_item` | High
-75 | File | `/classes/Users.php?f=save` | High
-76 | File | `/config,admin.jsp` | High
-77 | File | `/config-manager/save` | High
-78 | File | `/csms/admin/?page=system_info` | High
-79 | File | `/cwms/admin/?page=articles/view_article/` | High
-80 | File | `/dashboard/createblog` | High
-81 | File | `/dashboard/message` | High
-82 | File | `/dashboard/settings` | High
-83 | File | `/designer/add/layout` | High
-84 | File | `/detail.php` | Medium
-85 | File | `/E-mobile/App/System/File/downfile.php` | High
+4 | File | `/admi.php/admin/addon/add.html` | High
+5 | File | `/admin-manage-user.php` | High
+6 | File | `/admin/action/new-father.php` | High
+7 | File | `/Admin/add-student.php` | High
+8 | File | `/admin/addemployee.php` | High
+9 | File | `/admin/api/theme-edit/` | High
+10 | File | `/admin/bookdate.php` | High
+11 | File | `/admin/booking-bwdates-reports-details.php` | High
+12 | File | `/admin/category/cate-edit-run.php` | High
+13 | File | `/admin/category/index.php` | High
+14 | File | `/Admin/changepassword.php` | High
+15 | File | `/admin/clients` | High
+16 | File | `/admin/conferences/list/` | High
+17 | File | `/admin/config_save.php` | High
+18 | File | `/admin/contacts/organizations/edit/2` | High
+19 | File | `/admin/controller/faculty_controller.php` | High
+20 | File | `/admin/controller/student_controller.php` | High
+21 | File | `/admin/googleads.php` | High
+22 | File | `/admin/index.php?page=categories` | High
+23 | File | `/admin/maintenance/manage_category.php` | High
+24 | File | `/admin/manage-users.php` | High
+25 | File | `/admin/orders/view_order.php` | High
+26 | File | `/admin/photo.php` | High
+27 | File | `/admin/reminders/manage_reminder.php` | High
+28 | File | `/admin/reports.php` | High
+29 | File | `/admin/rooms.php` | High
+30 | File | `/admin/services/manage_service.php` | High
+31 | File | `/admin/services/view_service.php` | High
+32 | File | `/admin/settings.php` | High
+33 | File | `/admin/students.php` | High
+34 | File | `/admin/suppliers/view_details.php` | High
+35 | File | `/admin/tag.php` | High
+36 | File | `/admin/update-rooms.php` | High
+37 | File | `/admin/upload/img` | High
+38 | File | `/admin/user-search.php` | High
+39 | File | `/admin/users.php` | High
+40 | File | `/admin/vacancy/controller.php` | High
+41 | File | `/adminapi/system/crud` | High
+42 | File | `/Administrator/PHP/AdminDeleteUser.php` | High
+43 | File | `/adminpanel/admin/query/deleteCourseExe.php` | High
+44 | File | `/adplanet/PlanetUser` | High
+45 | File | `/ajax.php?action=delete_product` | High
+46 | File | `/api/blade-system/menu/list?updatexml` | High
+47 | File | `/api/browserextension/UpdatePassword/` | High
+48 | File | `/api/controllers/merchant/design/MaterialController.php` | High
+49 | File | `/api/front/search/books` | High
+50 | File | `/api/mjkj-chat/chat/mng/update/questionCou` | High
+51 | File | `/api/v1/attack` | High
+52 | File | `/api/v1/bait/set` | High
+53 | File | `/api/v2/open/rowsInfo` | High
+54 | File | `/api/v2/open/tablesInfo` | High
+55 | File | `/app/admin/controller/Upload.php` | High
+56 | File | `/app/controller/Setup.php` | High
+57 | File | `/application/index/controller/Databasesource.php` | High
+58 | File | `/application/index/controller/Icon.php` | High
+59 | File | `/application/index/controller/Screen.php` | High
+60 | File | `/Applications/Endurance.app/Contents/Library/LaunchServices/com.MagnetismStudios.endurance.helper` | High
+61 | File | `/apply.cgi` | Medium
+62 | File | `/apps/reg_go.php` | High
+63 | File | `/article/DelectArticleById/` | High
+64 | File | `/boafrm/formDdns` | High
+65 | File | `/boafrm/formFilter` | High
+66 | File | `/boafrm/formMapDelDevice` | High
+67 | File | `/boafrm/formNtp` | High
+68 | File | `/boafrm/formPingDiagnosticRun` | High
+69 | File | `/boafrm/formVpnConfigSetup` | High
+70 | File | `/catcompany.php` | High
+71 | File | `/category/list?limit=10&offset=0&order=desc` | High
+72 | File | `/cgi-bin/cstecgi.cgi` | High
+73 | File | `/cgi-bin/touchlist_sync.cgi` | High
+74 | File | `/classes/Master.php` | High
+75 | File | `/classes/Master.php?f=delete_item` | High
+76 | File | `/classes/Users.php?f=save` | High
+77 | File | `/config,admin.jsp` | High
+78 | File | `/config-manager/save` | High
+79 | File | `/csms/admin/?page=system_info` | High
+80 | File | `/cwms/admin/?page=articles/view_article/` | High
+81 | File | `/dashboard/createblog` | High
+82 | File | `/dashboard/message` | High
+83 | File | `/dashboard/settings` | High
+84 | File | `/designer/add/layout` | High
+85 | File | `/detail.php` | Medium
 86 | ... | ... | ...
 
-There are 757 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 760 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -149,9 +149,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

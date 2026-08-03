@@ -1,16 +1,16 @@
 # DoomedLoader - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [DoomedLoader](https://vuldb.com/?actor.doomedloader). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [DoomedLoader](https://vuldb.com/actor/doomedloader). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.doomedloader](https://vuldb.com/?actor.doomedloader)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/doomedloader](https://vuldb.com/actor/doomedloader)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with DoomedLoader:
 
-* [US](https://vuldb.com/?country.us)
-* [DE](https://vuldb.com/?country.de)
-* [ES](https://vuldb.com/?country.es)
+* [US](https://vuldb.com/country/us)
+* [DE](https://vuldb.com/country/de)
+* [ES](https://vuldb.com/country/es)
 * ...
 
 There are 9 more country items available. Please use our online service to access the data.
@@ -21,20 +21,20 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [1.92.68.1](https://vuldb.com/?ip.1.92.68.1) | ecs-1-92-68-1.compute.hwclouds-dns.com | - | High
-2 | [1.94.198.82](https://vuldb.com/?ip.1.94.198.82) | ecs-1-94-198-82.compute.hwclouds-dns.com | - | High
-3 | [8.137.149.188](https://vuldb.com/?ip.8.137.149.188) | - | - | High
-4 | [8.138.0.214](https://vuldb.com/?ip.8.138.0.214) | - | - | High
-5 | [8.138.111.32](https://vuldb.com/?ip.8.138.111.32) | - | - | High
-6 | [8.138.118.107](https://vuldb.com/?ip.8.138.118.107) | - | - | High
-7 | [8.138.131.251](https://vuldb.com/?ip.8.138.131.251) | - | - | High
-8 | [8.138.149.110](https://vuldb.com/?ip.8.138.149.110) | - | - | High
-9 | [8.141.9.64](https://vuldb.com/?ip.8.141.9.64) | - | - | High
-10 | [8.141.14.176](https://vuldb.com/?ip.8.141.14.176) | - | - | High
-11 | [8.147.105.128](https://vuldb.com/?ip.8.147.105.128) | - | - | High
-12 | [8.147.107.117](https://vuldb.com/?ip.8.147.107.117) | - | - | High
-13 | [8.147.108.206](https://vuldb.com/?ip.8.147.108.206) | - | - | High
-14 | [8.147.109.58](https://vuldb.com/?ip.8.147.109.58) | - | - | High
+1 | [1.92.68.1](https://vuldb.com/ip/1.92.68.1) | ecs-1-92-68-1.compute.hwclouds-dns.com | - | High
+2 | [1.94.198.82](https://vuldb.com/ip/1.94.198.82) | ecs-1-94-198-82.compute.hwclouds-dns.com | - | High
+3 | [8.137.149.188](https://vuldb.com/ip/8.137.149.188) | - | - | High
+4 | [8.138.0.214](https://vuldb.com/ip/8.138.0.214) | - | - | High
+5 | [8.138.111.32](https://vuldb.com/ip/8.138.111.32) | - | - | High
+6 | [8.138.118.107](https://vuldb.com/ip/8.138.118.107) | - | - | High
+7 | [8.138.131.251](https://vuldb.com/ip/8.138.131.251) | - | - | High
+8 | [8.138.149.110](https://vuldb.com/ip/8.138.149.110) | - | - | High
+9 | [8.141.9.64](https://vuldb.com/ip/8.141.9.64) | - | - | High
+10 | [8.141.14.176](https://vuldb.com/ip/8.141.14.176) | - | - | High
+11 | [8.147.105.128](https://vuldb.com/ip/8.147.105.128) | - | - | High
+12 | [8.147.107.117](https://vuldb.com/ip/8.147.107.117) | - | - | High
+13 | [8.147.108.206](https://vuldb.com/ip/8.147.108.206) | - | - | High
+14 | [8.147.109.58](https://vuldb.com/ip/8.147.109.58) | - | - | High
 15 | ... | ... | ... | ...
 
 There are 54 more IOC items available. Please use our online service to access the data.
@@ -103,9 +103,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

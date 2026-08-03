@@ -1,19 +1,19 @@
 # Chad Unknown - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [Chad Unknown](https://vuldb.com/?actor.chad_unknown). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [Chad Unknown](https://vuldb.com/actor/chad_unknown). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.chad_unknown](https://vuldb.com/?actor.chad_unknown)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/chad_unknown](https://vuldb.com/actor/chad_unknown)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Chad Unknown:
 
-* [US](https://vuldb.com/?country.us)
-* [ES](https://vuldb.com/?country.es)
-* [GB](https://vuldb.com/?country.gb)
+* [US](https://vuldb.com/country/us)
+* [ES](https://vuldb.com/country/es)
+* [GB](https://vuldb.com/country/gb)
 * ...
 
-There are 29 more country items available. Please use our online service to access the data.
+There are 30 more country items available. Please use our online service to access the data.
 
 ## IOC - Indicator of Compromise
 
@@ -21,23 +21,23 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [5.62.60.80](https://vuldb.com/?ip.5.62.60.80) | r-80-60-62-5.consumer-pool.prcdn.net | - | High
-2 | [5.62.62.80](https://vuldb.com/?ip.5.62.62.80) | r-80-62-62-5.consumer-pool.prcdn.net | - | High
-3 | [41.74.32.0](https://vuldb.com/?ip.41.74.32.0) | - | - | High
-4 | [41.218.0.0](https://vuldb.com/?ip.41.218.0.0) | - | - | High
-5 | [41.221.219.0](https://vuldb.com/?ip.41.221.219.0) | - | - | High
-6 | [41.242.152.0](https://vuldb.com/?ip.41.242.152.0) | - | - | High
-7 | [45.12.70.216](https://vuldb.com/?ip.45.12.70.216) | dissatisfying.globalhilive.com | - | High
-8 | [45.12.71.216](https://vuldb.com/?ip.45.12.71.216) | - | - | High
-9 | [45.59.180.0](https://vuldb.com/?ip.45.59.180.0) | - | - | High
-10 | [46.36.203.11](https://vuldb.com/?ip.46.36.203.11) | - | - | High
-11 | [46.36.203.12](https://vuldb.com/?ip.46.36.203.12) | - | - | High
-12 | [57.82.58.0](https://vuldb.com/?ip.57.82.58.0) | - | - | High
-13 | [57.82.176.0](https://vuldb.com/?ip.57.82.176.0) | - | - | High
-14 | [63.246.45.0](https://vuldb.com/?ip.63.246.45.0) | - | - | High
-15 | [80.78.17.48](https://vuldb.com/?ip.80.78.17.48) | - | - | High
-16 | [81.199.101.0](https://vuldb.com/?ip.81.199.101.0) | - | - | High
-17 | [81.199.101.20](https://vuldb.com/?ip.81.199.101.20) | - | - | High
+1 | [5.62.60.80](https://vuldb.com/ip/5.62.60.80) | r-80-60-62-5.consumer-pool.prcdn.net | - | High
+2 | [5.62.62.80](https://vuldb.com/ip/5.62.62.80) | r-80-62-62-5.consumer-pool.prcdn.net | - | High
+3 | [41.74.32.0](https://vuldb.com/ip/41.74.32.0) | - | - | High
+4 | [41.218.0.0](https://vuldb.com/ip/41.218.0.0) | - | - | High
+5 | [41.221.219.0](https://vuldb.com/ip/41.221.219.0) | - | - | High
+6 | [41.242.152.0](https://vuldb.com/ip/41.242.152.0) | - | - | High
+7 | [45.12.70.216](https://vuldb.com/ip/45.12.70.216) | dissatisfying.globalhilive.com | - | High
+8 | [45.12.71.216](https://vuldb.com/ip/45.12.71.216) | - | - | High
+9 | [45.59.180.0](https://vuldb.com/ip/45.59.180.0) | - | - | High
+10 | [46.36.203.11](https://vuldb.com/ip/46.36.203.11) | - | - | High
+11 | [46.36.203.12](https://vuldb.com/ip/46.36.203.12) | - | - | High
+12 | [57.82.58.0](https://vuldb.com/ip/57.82.58.0) | - | - | High
+13 | [57.82.176.0](https://vuldb.com/ip/57.82.176.0) | - | - | High
+14 | [63.246.45.0](https://vuldb.com/ip/63.246.45.0) | - | - | High
+15 | [80.78.17.48](https://vuldb.com/ip/80.78.17.48) | - | - | High
+16 | [81.199.101.0](https://vuldb.com/ip/81.199.101.0) | - | - | High
+17 | [81.199.101.20](https://vuldb.com/ip/81.199.101.20) | - | - | High
 18 | ... | ... | ... | ...
 
 There are 70 more IOC items available. Please use our online service to access the data.
@@ -56,7 +56,7 @@ ID | Technique | Weakness | Description | Confidence
 6 | T1078.001 | CWE-259 | Use of Hard-coded Password | High
 7 | ... | ... | ... | ...
 
-There are 22 more TTP items available. Please use our online service to access the data.
+There are 23 more TTP items available. Please use our online service to access the data.
 
 ## IOA - Indicator of Attack
 
@@ -68,62 +68,64 @@ ID | Type | Indicator | Confidence
 2 | File | `.git/` | Low
 3 | File | `.php.gif` | Medium
 4 | File | `/?r=email/api/mark&op=delFromSend` | High
-5 | File | `/admin/` | Low
-6 | File | `/admin/aboutus.php` | High
-7 | File | `/admin/add-services.php` | High
-8 | File | `/admin/adddoctorclinic.php` | High
-9 | File | `/admin/admin-area.php` | High
-10 | File | `/admin/edit-class.php` | High
-11 | File | `/admin/edit-services.php` | High
-12 | File | `/admin/index2.html` | High
-13 | File | `/admin/login.php` | High
-14 | File | `/admin/process_category_add.php` | High
-15 | File | `/admin/registration.php` | High
-16 | File | `/admin/userprofile.php` | High
-17 | File | `/admin/users-applications.php` | High
-18 | File | `/adminapi/system/crud` | High
-19 | File | `/adminpanel/admin/query/deleteCourseExe.php` | High
-20 | File | `/ajax/screenshot.php` | High
-21 | File | `/analysisProject/pagingQueryData` | High
-22 | File | `/api/snapshots/` | High
-23 | File | `/api/sys/login` | High
-24 | File | `/api/upload.php` | High
-25 | File | `/api/v1/attack/falco` | High
-26 | File | `/api/wizard/getWifiNeighbour` | High
-27 | File | `/app/middleware/TokenVerify.php` | High
-28 | File | `/attendancelist.php` | High
-29 | File | `/auth/userkey/logout.php` | High
-30 | File | `/backend/register.php` | High
-31 | File | `/blog` | Low
-32 | File | `/boafrm/formFilter` | High
-33 | File | `/boat/login.php` | High
-34 | File | `/book-appointment.php` | High
-35 | File | `/category.php` | High
-36 | File | `/category/order/hits/copyright/46/finish/1/list/1` | High
-37 | File | `/CDGServer3/logManagement/backupLogDetail.jsp` | High
-38 | File | `/cgi-bin/account_mgr.cgi?cmd=cgi_user_add` | High
-39 | File | `/cgi-bin/cstecgi.cgi` | High
-40 | File | `/cgi-bin/cstecgi.cgi?action=exportOvpn&type=user` | High
-41 | File | `/cgi-bin/cstecgi.cgi?action=login&flag=1` | High
-42 | File | `/cgi-bin/gui.cgi` | High
-43 | File | `/cgi-bin/nas_sharing.cgi` | High
-44 | File | `/cgi-bin/s3.cgi` | High
-45 | File | `/cgi-bin/sessions/get-temp-file` | High
-46 | File | `/cgi-bin/wlogin.cgi` | High
-47 | File | `/change-password.php` | High
-48 | File | `/check` | Low
-49 | File | `/client/manage/ourphp_out.php` | High
-50 | File | `/clinic/disease_symptoms_view.php` | High
-51 | File | `/common/jsp/upload2.jsp` | High
-52 | File | `/config-manager/save` | High
-53 | File | `/control/register_case.php` | High
-54 | File | `/dashboard/menu-list.php` | High
-55 | File | `/dashboard/table-list.php` | High
-56 | File | `/data/app` | Medium
-57 | File | `/debug/pprof` | Medium
-58 | ... | ... | ...
+5 | File | `/admin#themes` | High
+6 | File | `/admin/` | Low
+7 | File | `/admin/aboutus.php` | High
+8 | File | `/admin/Add%20notice/add%20notice.php` | High
+9 | File | `/admin/add-services.php` | High
+10 | File | `/admin/adddoctorclinic.php` | High
+11 | File | `/admin/admin-area.php` | High
+12 | File | `/admin/edit-class.php` | High
+13 | File | `/admin/edit-services.php` | High
+14 | File | `/admin/index.php` | High
+15 | File | `/admin/index2.html` | High
+16 | File | `/admin/login.php` | High
+17 | File | `/admin/process_category_add.php` | High
+18 | File | `/admin/registration.php` | High
+19 | File | `/admin/userprofile.php` | High
+20 | File | `/admin/users-applications.php` | High
+21 | File | `/adminapi/system/crud` | High
+22 | File | `/adminpanel/admin/query/deleteCourseExe.php` | High
+23 | File | `/ajax/screenshot.php` | High
+24 | File | `/analysisProject/pagingQueryData` | High
+25 | File | `/api/snapshots/` | High
+26 | File | `/api/sys/login` | High
+27 | File | `/api/upload.php` | High
+28 | File | `/api/v1/attack/falco` | High
+29 | File | `/api/wizard/getWifiNeighbour` | High
+30 | File | `/app/middleware/TokenVerify.php` | High
+31 | File | `/attendancelist.php` | High
+32 | File | `/auth/userkey/logout.php` | High
+33 | File | `/backend/register.php` | High
+34 | File | `/blog` | Low
+35 | File | `/boafrm/formFilter` | High
+36 | File | `/book-appointment.php` | High
+37 | File | `/category.php` | High
+38 | File | `/category/order/hits/copyright/46/finish/1/list/1` | High
+39 | File | `/CDGServer3/logManagement/backupLogDetail.jsp` | High
+40 | File | `/cgi-bin/account_mgr.cgi?cmd=cgi_user_add` | High
+41 | File | `/cgi-bin/cstecgi.cgi` | High
+42 | File | `/cgi-bin/cstecgi.cgi?action=exportOvpn&type=user` | High
+43 | File | `/cgi-bin/cstecgi.cgi?action=login&flag=1` | High
+44 | File | `/cgi-bin/gui.cgi` | High
+45 | File | `/cgi-bin/nas_sharing.cgi` | High
+46 | File | `/cgi-bin/s3.cgi` | High
+47 | File | `/cgi-bin/sessions/get-temp-file` | High
+48 | File | `/cgi-bin/wlogin.cgi` | High
+49 | File | `/change-password.php` | High
+50 | File | `/check` | Low
+51 | File | `/client/manage/ourphp_out.php` | High
+52 | File | `/clinic/disease_symptoms_view.php` | High
+53 | File | `/common/jsp/upload2.jsp` | High
+54 | File | `/config-manager/save` | High
+55 | File | `/control/register_case.php` | High
+56 | File | `/dashboard/menu-list.php` | High
+57 | File | `/dashboard/table-list.php` | High
+58 | File | `/data/app` | Medium
+59 | File | `/debug/pprof` | Medium
+60 | ... | ... | ...
 
-There are 505 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 525 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -137,9 +139,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

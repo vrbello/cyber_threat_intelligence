@@ -13,7 +13,7 @@ These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. acce
 * [RO](https://vuldb.com/country/ro)
 * ...
 
-There are 20 more country items available. Please use our online service to access the data.
+There are 22 more country items available. Please use our online service to access the data.
 
 ## Actors
 
@@ -75,9 +75,10 @@ ID | Type | Indicator | Confidence
 17 | File | `/goform/WifiExtraSet` | High
 18 | File | `/htdocs/soap.cgi` | High
 19 | File | `/htdocs/ssdpcgi` | High
-20 | ... | ... | ...
+20 | File | `/loginLess/../../etc/passwd` | High
+21 | ... | ... | ...
 
-There are 169 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 170 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 

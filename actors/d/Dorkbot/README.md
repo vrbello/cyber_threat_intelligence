@@ -1,16 +1,16 @@
 # Dorkbot - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [Dorkbot](https://vuldb.com/?actor.dorkbot). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [Dorkbot](https://vuldb.com/actor/dorkbot). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.dorkbot](https://vuldb.com/?actor.dorkbot)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/dorkbot](https://vuldb.com/actor/dorkbot)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Dorkbot:
 
-* [NL](https://vuldb.com/?country.nl)
-* [US](https://vuldb.com/?country.us)
-* [IR](https://vuldb.com/?country.ir)
+* [NL](https://vuldb.com/country/nl)
+* [US](https://vuldb.com/country/us)
+* [IR](https://vuldb.com/country/ir)
 * ...
 
 There are 24 more country items available. Please use our online service to access the data.
@@ -21,12 +21,12 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [13.107.21.200](https://vuldb.com/?ip.13.107.21.200) | - | - | High
-2 | [20.112.52.29](https://vuldb.com/?ip.20.112.52.29) | - | - | High
-3 | [80.82.64.8](https://vuldb.com/?ip.80.82.64.8) | nil-bustle.garished.com | - | High
-4 | [80.82.65.199](https://vuldb.com/?ip.80.82.65.199) | no-reverse-dns-configured.com | - | High
-5 | [80.82.65.207](https://vuldb.com/?ip.80.82.65.207) | s1.tor-exit.net | - | High
-6 | [93.190.139.14](https://vuldb.com/?ip.93.190.139.14) | 93-190-139-14.hosted-by-worldstream.net | - | High
+1 | [13.107.21.200](https://vuldb.com/ip/13.107.21.200) | - | - | High
+2 | [20.112.52.29](https://vuldb.com/ip/20.112.52.29) | - | - | High
+3 | [80.82.64.8](https://vuldb.com/ip/80.82.64.8) | nil-bustle.garished.com | - | High
+4 | [80.82.65.199](https://vuldb.com/ip/80.82.65.199) | no-reverse-dns-configured.com | - | High
+5 | [80.82.65.207](https://vuldb.com/ip/80.82.65.207) | s1.tor-exit.net | - | High
+6 | [93.190.139.14](https://vuldb.com/ip/93.190.139.14) | 93-190-139-14.hosted-by-worldstream.net | - | High
 7 | ... | ... | ... | ...
 
 There are 22 more IOC items available. Please use our online service to access the data.
@@ -61,42 +61,44 @@ ID | Type | Indicator | Confidence
 7 | File | `/admin/process_category_add.php` | High
 8 | File | `/admin/quizquestion.php` | High
 9 | File | `/admin/search-appointment.php` | High
-10 | File | `/admin/subnets/ripe-query.php` | High
-11 | File | `/admin/system/structure/getdirectorydata/web/baseinfo/companyManage` | High
-12 | File | `/api/front/search/books` | High
-13 | File | `/api/mjkj-chat/chat/mng/update/questionCou` | High
-14 | File | `/api/wizard/setsyncpppoecfg` | High
-15 | File | `/app/api/controller/caiji.php` | High
-16 | File | `/application/index/controller/Screen.php` | High
-17 | File | `/apply.cgi` | Medium
-18 | File | `/bin/httpd` | Medium
-19 | File | `/buscar_integrada.php` | High
-20 | File | `/bwdates-reports-details.php?vid=2` | High
-21 | File | `/cap.js` | Low
-22 | File | `/cgi-bin/cstecgi.cgi` | High
-23 | File | `/cgi-bin/wlogin.cgi` | High
-24 | File | `/classes/Master.php` | High
-25 | File | `/classes/Users.php` | High
-26 | File | `/config/php.ini` | High
-27 | File | `/core/conditions/AbstractWrapper.java` | High
-28 | File | `/dcim/sites/add/` | High
-29 | File | `/debug/pprof` | Medium
-30 | File | `/devinfo` | Medium
-31 | File | `/ecrire` | Low
-32 | File | `/endpoint/add-calorie.php` | High
-33 | File | `/export` | Low
-34 | File | `/file?action=download&file` | High
-35 | File | `/forum/away.php` | High
-36 | File | `/goform/aspForm` | High
-37 | File | `/goform/openSchedWifi` | High
-38 | File | `/hardware` | Medium
-39 | File | `/importexport.php` | High
-40 | File | `/include/file.php` | High
-41 | File | `/include/makecvs.php` | High
-42 | File | `/index.php` | Medium
-43 | ... | ... | ...
+10 | File | `/admin/subcategory.php` | High
+11 | File | `/admin/subnets/ripe-query.php` | High
+12 | File | `/admin/system/structure/getdirectorydata/web/baseinfo/companyManage` | High
+13 | File | `/api/front/search/books` | High
+14 | File | `/api/mjkj-chat/chat/mng/update/questionCou` | High
+15 | File | `/api/wizard/setsyncpppoecfg` | High
+16 | File | `/app/api/controller/caiji.php` | High
+17 | File | `/application/index/controller/Screen.php` | High
+18 | File | `/apply.cgi` | Medium
+19 | File | `/bin/httpd` | Medium
+20 | File | `/boafrm/formFirewallAdv` | High
+21 | File | `/buscar_integrada.php` | High
+22 | File | `/bwdates-reports-details.php?vid=2` | High
+23 | File | `/cap.js` | Low
+24 | File | `/cgi-bin/cstecgi.cgi` | High
+25 | File | `/cgi-bin/mbox-config?method=SET&section=ntp_timezone` | High
+26 | File | `/cgi-bin/wireless.cgi` | High
+27 | File | `/cgi-bin/wlogin.cgi` | High
+28 | File | `/classes/Master.php` | High
+29 | File | `/classes/Users.php` | High
+30 | File | `/config/php.ini` | High
+31 | File | `/core/conditions/AbstractWrapper.java` | High
+32 | File | `/dcim/sites/add/` | High
+33 | File | `/debug/pprof` | Medium
+34 | File | `/devinfo` | Medium
+35 | File | `/dm/dispatch/user/add` | High
+36 | File | `/ecrire` | Low
+37 | File | `/endpoint/add-calorie.php` | High
+38 | File | `/export` | Low
+39 | File | `/forum/away.php` | High
+40 | File | `/goform/aspForm` | High
+41 | File | `/goform/openSchedWifi` | High
+42 | File | `/hardware` | Medium
+43 | File | `/importexport.php` | High
+44 | File | `/include/file.php` | High
+45 | ... | ... | ...
 
-There are 368 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 386 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -109,9 +111,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

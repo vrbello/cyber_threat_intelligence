@@ -22,18 +22,19 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
 1 | [5.252.21.234](https://vuldb.com/ip/5.252.21.234) | kuvshinov.ru | - | High
-2 | [62.182.156.148](https://vuldb.com/ip/62.182.156.148) | - | - | High
-3 | [77.90.185.24](https://vuldb.com/ip/77.90.185.24) | - | - | High
-4 | [80.64.30.238](https://vuldb.com/ip/80.64.30.238) | - | - | High
-5 | [83.217.208.130](https://vuldb.com/ip/83.217.208.130) | - | - | High
-6 | [83.219.248.37](https://vuldb.com/ip/83.219.248.37) | - | - | High
-7 | [87.120.126.150](https://vuldb.com/ip/87.120.126.150) | s154186.luxhost.cc | - | High
-8 | [87.120.219.26](https://vuldb.com/ip/87.120.219.26) | - | - | High
-9 | [88.214.50.121](https://vuldb.com/ip/88.214.50.121) | - | - | High
-10 | [89.169.54.153](https://vuldb.com/ip/89.169.54.153) | tensewire.ptr.network | - | High
-11 | ... | ... | ... | ...
+2 | [45.155.69.173](https://vuldb.com/ip/45.155.69.173) | - | - | High
+3 | [54.240.48.33](https://vuldb.com/ip/54.240.48.33) | a48-33.smtp-out.amazonses.com | - | High
+4 | [62.182.156.148](https://vuldb.com/ip/62.182.156.148) | - | - | High
+5 | [65.109.115.111](https://vuldb.com/ip/65.109.115.111) | static.111.115.109.65.clients.your-server.de | - | High
+6 | [77.90.185.24](https://vuldb.com/ip/77.90.185.24) | - | - | High
+7 | [80.64.30.238](https://vuldb.com/ip/80.64.30.238) | - | - | High
+8 | [83.217.208.130](https://vuldb.com/ip/83.217.208.130) | - | - | High
+9 | [83.219.248.37](https://vuldb.com/ip/83.219.248.37) | - | - | High
+10 | [87.120.126.150](https://vuldb.com/ip/87.120.126.150) | s154186.luxhost.cc | - | High
+11 | [87.120.219.26](https://vuldb.com/ip/87.120.219.26) | - | - | High
+12 | ... | ... | ... | ...
 
-There are 41 more IOC items available. Please use our online service to access the data.
+There are 45 more IOC items available. Please use our online service to access the data.
 
 ## TTP - Tactics, Techniques, Procedures
 
@@ -41,13 +42,13 @@ _Tactics, techniques, and procedures_ (TTP) summarize the suspected MITRE ATT&CK
 
 ID | Technique | Weakness | Description | Confidence
 -- | --------- | -------- | ----------- | ----------
-1 | T1006 | CWE-22, CWE-36, CWE-425 | Path Traversal | High
+1 | T1006 | CWE-22, CWE-36, CWE-44, CWE-425 | Path Traversal | High
 2 | T1040 | CWE-294 | Authentication Bypass by Capture-replay | High
 3 | T1055 | CWE-74 | Improper Neutralization of Data within XPath Expressions | High
 4 | T1059 | CWE-94, CWE-1321 | Argument Injection | High
 5 | ... | ... | ... | ...
 
-There are 14 more TTP items available. Please use our online service to access the data.
+There are 16 more TTP items available. Please use our online service to access the data.
 
 ## IOA - Indicator of Attack
 
@@ -58,22 +59,32 @@ ID | Type | Indicator | Confidence
 1 | File | `/admin/?action=home&do=shop:index&keyword=&kind=all` | High
 2 | File | `/admin/aboutus.php` | High
 3 | File | `/admin/dialog/select_images_post.php` | High
-4 | File | `/admin/role/list` | High
-5 | File | `/admin/user/manage_user.php` | High
-6 | File | `/api/baskets/{name}` | High
-7 | File | `/be/erpc.php` | Medium
-8 | File | `/be/rpc.php` | Medium
-9 | File | `/cgi-bin/login.cgi` | High
-10 | File | `/cgi-bin/nas_sharing.cgi` | High
-11 | File | `/client/UnChkMailApplication.jsp` | High
-12 | File | `/complainer_page.php` | High
-13 | File | `/csms/?page=contact_us` | High
-14 | File | `/delete_student.php` | High
-15 | File | `/edit_criteria.php` | High
-16 | File | `/etc/shadow` | Medium
-17 | ... | ... | ...
+4 | File | `/admin/maintenance/view_designation.php` | High
+5 | File | `/admin/role/list` | High
+6 | File | `/admin/user/manage_user.php` | High
+7 | File | `/api/baskets/{name}` | High
+8 | File | `/be/erpc.php` | Medium
+9 | File | `/be/rpc.php` | Medium
+10 | File | `/cgi-bin/login.cgi` | High
+11 | File | `/cgi-bin/nas_sharing.cgi` | High
+12 | File | `/client/UnChkMailApplication.jsp` | High
+13 | File | `/complainer_page.php` | High
+14 | File | `/csms/?page=contact_us` | High
+15 | File | `/delete_student.php` | High
+16 | File | `/edit_criteria.php` | High
+17 | File | `/etc/shadow` | Medium
+18 | File | `/feeds/index.php` | High
+19 | File | `/forum/away.php` | High
+20 | File | `/goform/set_hidessid_cfg` | High
+21 | File | `/hrm/controller/employee.php` | High
+22 | File | `/index.php` | Medium
+23 | File | `/insert-and-view/action.php` | High
+24 | File | `/libsystem/login.php` | High
+25 | File | `/login.php` | Medium
+26 | File | `/membership_profile.php` | High
+27 | ... | ... | ...
 
-There are 137 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 230 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -92,7 +103,7 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License

@@ -13,7 +13,7 @@ These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. acce
 * [NL](https://vuldb.com/country/nl)
 * ...
 
-There are 15 more country items available. Please use our online service to access the data.
+There are 12 more country items available. Please use our online service to access the data.
 
 ## Actors
 
@@ -21,13 +21,14 @@ These _actors_ are associated with ClickFix or other actors linked to the campai
 
 ID | Actor | Confidence
 -- | ----- | ----------
-1 | [ClickFix](https://vuldb.com/actor/clickfix) | High
-2 | [HellsUchecker](https://vuldb.com/actor/hellsuchecker) | High
-3 | [Interlock](https://vuldb.com/actor/interlock) | High
-4 | [Kimsuky](https://vuldb.com/actor/kimsuky) | High
-5 | ... | ...
+1 | [BlueNoroff](https://vuldb.com/actor/bluenoroff) | High
+2 | [ClickFix](https://vuldb.com/actor/clickfix) | High
+3 | [ErrTraffic](https://vuldb.com/actor/errtraffic) | High
+4 | [HellsUchecker](https://vuldb.com/actor/hellsuchecker) | High
+5 | [Interlock](https://vuldb.com/actor/interlock) | High
+6 | ... | ...
 
-There are 9 more actor items available. Please use our online service to access the data.
+There are 10 more actor items available. Please use our online service to access the data.
 
 ## IOC - Indicator of Compromise
 
@@ -121,9 +122,13 @@ ID | IP address | Hostname | Actor | Confidence
 84 | [45.8.93.168](https://vuldb.com/ip/45.8.93.168) | - | [ClickFix](https://vuldb.com/actor/clickfix) | High
 85 | [45.76.63.6](https://vuldb.com/ip/45.76.63.6) | 45.76.63.6.vultrusercontent.com | [ClickFix](https://vuldb.com/actor/clickfix) | Medium
 86 | [45.77.154.115](https://vuldb.com/ip/45.77.154.115) | 45.77.154.115.vultrusercontent.com | [ClickFix](https://vuldb.com/actor/clickfix) | Medium
-87 | ... | ... | ... | ...
+87 | [45.79.216.201](https://vuldb.com/ip/45.79.216.201) | 45-79-216-201.ip.linodeusercontent.com | [ClickFix](https://vuldb.com/actor/clickfix) | High
+88 | [45.94.47.164](https://vuldb.com/ip/45.94.47.164) | - | [ClickFix](https://vuldb.com/actor/clickfix) | High
+89 | [45.118.248.29](https://vuldb.com/ip/45.118.248.29) | - | [ClickFix](https://vuldb.com/actor/clickfix) | High
+90 | [45.135.232.33](https://vuldb.com/ip/45.135.232.33) | - | [ClickFix](https://vuldb.com/actor/clickfix) | High
+91 | ... | ... | ... | ...
 
-There are 346 more IOC items available. Please use our online service to access the data.
+There are 360 more IOC items available. Please use our online service to access the data.
 
 ## TTP - Tactics, Techniques, Procedures
 
@@ -132,12 +137,12 @@ _Tactics, techniques, and procedures_ (TTP) summarize the suspected MITRE ATT&CK
 ID | Technique | Weakness | Description | Confidence
 -- | --------- | -------- | ----------- | ----------
 1 | T1006 | CWE-22 | Path Traversal | High
-2 | T1040 | CWE-319 | Authentication Bypass by Capture-replay | High
-3 | T1059 | CWE-94 | Argument Injection | High
-4 | T1059.007 | CWE-79 | Basic Cross Site Scripting | High
+2 | T1059 | CWE-94 | Argument Injection | High
+3 | T1059.007 | CWE-79 | Basic Cross Site Scripting | High
+4 | T1068 | CWE-266, CWE-269, CWE-284 | Execution with Unnecessary Privileges | High
 5 | ... | ... | ... | ...
 
-There are 16 more TTP items available. Please use our online service to access the data.
+There are 14 more TTP items available. Please use our online service to access the data.
 
 ## IOA - Indicator of Attack
 
@@ -169,12 +174,13 @@ ID | Type | Indicator | Confidence
 22 | File | `/adminlogin.php` | High
 23 | ... | ... | ...
 
-There are 191 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 188 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
 The following list contains _external sources_ which discuss the campaign and the associated activities:
 
+* https://arcticwolf.com/resources/blog/bluenoroff-uses-clickfix-fileless-powershell-and-ai-generated-zoom-meetings-to-target-web3-sector/
 * https://bi.zone/eng/expertise/blog/proydite-proverku-i-poluchite-vpo-clickfix-dobralas-do-rossii/
 * https://blog.criminalip.io/2024/10/07/clickfix/
 * https://blog.sucuri.net/2025/02/wordpress-clickfix-malware-causes-google-warnings-and-infected-computers.html
@@ -398,6 +404,16 @@ The following list contains _external sources_ which discuss the campaign and th
 * https://urlhaus.abuse.ch/url/3786456/
 * https://urlhaus.abuse.ch/url/3788856/
 * https://urlhaus.abuse.ch/url/3795294/
+* https://urlhaus.abuse.ch/url/3828510/
+* https://urlhaus.abuse.ch/url/3847358/
+* https://urlhaus.abuse.ch/url/3848383/
+* https://urlhaus.abuse.ch/url/3885384/
+* https://urlhaus.abuse.ch/url/3885387/
+* https://urlhaus.abuse.ch/url/3885396/
+* https://urlhaus.abuse.ch/url/3885397/
+* https://urlhaus.abuse.ch/url/3888553/
+* https://urlhaus.abuse.ch/url/3888558/
+* https://urlhaus.abuse.ch/url/3888800/
 * https://www.cybereason.com/blog/net-support-rat-wordpress-clickfix
 * https://www.darktrace.com/blog/unpacking-clickfix-darktraces-detection-of-a-prolific-social-engineering-tactic
 * https://www.derp.ca/research/hellsuchecker-clickfix-etherhiding/
@@ -409,7 +425,9 @@ The following list contains _external sources_ which discuss the campaign and th
 * https://www.malware-traffic-analysis.net/2025/12/29/index.html
 * https://www.malware-traffic-analysis.net/2026/01/06/index.html
 * https://www.microsoft.com/en-us/security/blog/2025/08/21/think-before-you-clickfix-analyzing-the-clickfix-social-engineering-technique/
+* https://www.netskope.com/blog/macos-clickfix-campaign-applescript-stealers-new-terminal-protections
 * https://www.proofpoint.com/us/blog/threat-insight/security-brief-clickfix-social-engineering-technique-floods-threat-landscape
+* https://www.sekoia.com/blog/unveiling-errtraffic-inside-a-growing-clickfix-malware-distribution-framework
 * https://www.sentinelone.com/blog/how-clickfix-is-weaponizing-verification-fatigue-to-deliver-rats-infostealers/
 * https://www.seqrite.com/blog/deconstructing-a-cyber-deception-an-analysis-of-the-clickfix-hijackloader-phishing-campaign/
 * https://www.sophos.com/en-us/blog/i-am-not-a-robot-clickfix-used-to-deploy-stealc-and-qilin

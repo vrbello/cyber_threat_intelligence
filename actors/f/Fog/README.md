@@ -1,19 +1,19 @@
 # Fog - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the actor known as [Fog](https://vuldb.com/?actor.fog). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the actor known as [Fog](https://vuldb.com/actor/fog). The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor.fog](https://vuldb.com/?actor.fog)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor/fog](https://vuldb.com/actor/fog)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Fog:
 
-* [US](https://vuldb.com/?country.us)
-* [DE](https://vuldb.com/?country.de)
-* [CN](https://vuldb.com/?country.cn)
+* [US](https://vuldb.com/country/us)
+* [DE](https://vuldb.com/country/de)
+* [CN](https://vuldb.com/country/cn)
 * ...
 
-There are 12 more country items available. Please use our online service to access the data.
+There are 14 more country items available. Please use our online service to access the data.
 
 ## IOC - Indicator of Compromise
 
@@ -21,11 +21,11 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Campaign | Confidence
 -- | ---------- | -------- | -------- | ----------
-1 | [5.230.33.176](https://vuldb.com/?ip.5.230.33.176) | placeholder.noezserver.de | - | High
-2 | [20.99.133.109](https://vuldb.com/?ip.20.99.133.109) | - | - | High
-3 | [20.99.184.37](https://vuldb.com/?ip.20.99.184.37) | - | - | High
-4 | [20.99.185.48](https://vuldb.com/?ip.20.99.185.48) | - | - | High
-5 | [20.99.186.246](https://vuldb.com/?ip.20.99.186.246) | - | - | High
+1 | [5.230.33.176](https://vuldb.com/ip/5.230.33.176) | placeholder.noezserver.de | - | High
+2 | [20.99.133.109](https://vuldb.com/ip/20.99.133.109) | - | - | High
+3 | [20.99.184.37](https://vuldb.com/ip/20.99.184.37) | - | - | High
+4 | [20.99.185.48](https://vuldb.com/ip/20.99.185.48) | - | - | High
+5 | [20.99.186.246](https://vuldb.com/ip/20.99.186.246) | - | - | High
 6 | ... | ... | ... | ...
 
 There are 19 more IOC items available. Please use our online service to access the data.
@@ -70,19 +70,21 @@ ID | Type | Indicator | Confidence
 18 | File | `/apiadmin/upload/attach` | High
 19 | File | `/artist-display.php` | High
 20 | File | `/backend/admin/his_admin_register_patient.php` | High
-21 | File | `/boafrm/formReflashClientTbl` | High
-22 | File | `/boafrm/formTracerouteDiagnosticRun` | High
-23 | File | `/cancelar-enturmacao-em-lote/` | High
-24 | File | `/cgi-bin/hd_config.cgi` | High
-25 | File | `/cgi-bin/nas_sharing.cgi` | High
-26 | File | `/cgi-bin/supervisor/PwdGrp.cgi` | High
-27 | File | `/classes/profile.class.php` | High
-28 | File | `/dataSet/testTransform;swagger-ui` | High
-29 | File | `/diario-de-observacoes/` | High
-30 | File | `/edit-computer-detail.php` | High
-31 | ... | ... | ...
+21 | File | `/billing/test_accesscodelogin.php` | High
+22 | File | `/boafrm/formReflashClientTbl` | High
+23 | File | `/boafrm/formTracerouteDiagnosticRun` | High
+24 | File | `/cancelar-enturmacao-em-lote/` | High
+25 | File | `/cgi-bin/hd_config.cgi` | High
+26 | File | `/cgi-bin/nas_sharing.cgi` | High
+27 | File | `/cgi-bin/supervisor/PwdGrp.cgi` | High
+28 | File | `/classes/profile.class.php` | High
+29 | File | `/dataSet/testTransform;swagger-ui` | High
+30 | File | `/delete_member.php` | High
+31 | File | `/diario-de-observacoes/` | High
+32 | File | `/edit-computer-detail.php` | High
+33 | ... | ... | ...
 
-There are 265 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 277 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -95,9 +97,9 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

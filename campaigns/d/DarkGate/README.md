@@ -1,19 +1,19 @@
 # DarkGate - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the campaign known as _DarkGate_. The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the campaign known as _DarkGate_. The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor](https://vuldb.com/?actor)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor](https://vuldb.com/actor)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with DarkGate:
 
-* [VN](https://vuldb.com/?country.vn)
-* [DE](https://vuldb.com/?country.de)
-* [CN](https://vuldb.com/?country.cn)
+* [VN](https://vuldb.com/country/vn)
+* [US](https://vuldb.com/country/us)
+* [CN](https://vuldb.com/country/cn)
 * ...
 
-There are 17 more country items available. Please use our online service to access the data.
+There are 18 more country items available. Please use our online service to access the data.
 
 ## Actors
 
@@ -21,9 +21,9 @@ These _actors_ are associated with DarkGate or other actors linked to the campai
 
 ID | Actor | Confidence
 -- | ----- | ----------
-1 | [BattleRoyal](https://vuldb.com/?actor.battleroyal) | High
-2 | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-3 | [TA577](https://vuldb.com/?actor.ta577) | High
+1 | [BattleRoyal](https://vuldb.com/actor/battleroyal) | High
+2 | [DarkGate](https://vuldb.com/actor/darkgate) | High
+3 | [TA577](https://vuldb.com/actor/ta577) | High
 
 ## IOC - Indicator of Compromise
 
@@ -31,37 +31,37 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Actor | Confidence
 -- | ---------- | -------- | ----- | ----------
-1 | [5.2.68.68](https://vuldb.com/?ip.5.2.68.68) | - | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-2 | [5.2.68.77](https://vuldb.com/?ip.5.2.68.77) | - | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-3 | [5.2.68.89](https://vuldb.com/?ip.5.2.68.89) | - | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-4 | [5.34.178.21](https://vuldb.com/?ip.5.34.178.21) | udfurgqxmjzcc.pserver.ru | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-5 | [5.180.24.155](https://vuldb.com/?ip.5.180.24.155) | vm2303689.stark-industries.solutions | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-6 | [5.181.159.29](https://vuldb.com/?ip.5.181.159.29) | no-rdns.mivocloud.com | [BattleRoyal](https://vuldb.com/?actor.battleroyal) | High
-7 | [5.181.159.49](https://vuldb.com/?ip.5.181.159.49) | no-rdns.mivocloud.com | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-8 | [5.181.159.64](https://vuldb.com/?ip.5.181.159.64) | no-rdns.mivocloud.com | [TA577](https://vuldb.com/?actor.ta577) | High
-9 | [5.181.159.76](https://vuldb.com/?ip.5.181.159.76) | no-rdns.mivocloud.com | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-10 | [5.188.87.58](https://vuldb.com/?ip.5.188.87.58) | - | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-11 | [5.252.178.193](https://vuldb.com/?ip.5.252.178.193) | no-rdns.mivocloud.com | [TA577](https://vuldb.com/?actor.ta577) | High
-12 | [8.209.99.230](https://vuldb.com/?ip.8.209.99.230) | - | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-13 | [34.16.181.0](https://vuldb.com/?ip.34.16.181.0) | 0.181.16.34.bc.googleusercontent.com | [DarkGate](https://vuldb.com/?actor.darkgate) | Medium
-14 | [35.203.111.228](https://vuldb.com/?ip.35.203.111.228) | 228.111.203.35.bc.googleusercontent.com | [DarkGate](https://vuldb.com/?actor.darkgate) | Medium
-15 | [35.247.194.72](https://vuldb.com/?ip.35.247.194.72) | 72.194.247.35.bc.googleusercontent.com | [DarkGate](https://vuldb.com/?actor.darkgate) | Medium
-16 | [38.180.60.31](https://vuldb.com/?ip.38.180.60.31) | - | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-17 | [45.11.59.87](https://vuldb.com/?ip.45.11.59.87) | mail2.hbmzubnihk.com | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-18 | [45.11.59.161](https://vuldb.com/?ip.45.11.59.161) | mail.discover-rates.com | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-19 | [45.63.52.184](https://vuldb.com/?ip.45.63.52.184) | 45.63.52.184.vultrusercontent.com | [DarkGate](https://vuldb.com/?actor.darkgate) | Medium
-20 | [45.67.34.69](https://vuldb.com/?ip.45.67.34.69) | vm2117880.stark-industries.solutions | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-21 | [45.89.53.187](https://vuldb.com/?ip.45.89.53.187) | vm2338426.stark-industries.solutions | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-22 | [45.89.65.198](https://vuldb.com/?ip.45.89.65.198) | 2.server.com | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-23 | [45.140.146.2](https://vuldb.com/?ip.45.140.146.2) | vm2099152.stark-industries.solutions | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-24 | [45.141.87.89](https://vuldb.com/?ip.45.141.87.89) | - | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-25 | [45.147.228.138](https://vuldb.com/?ip.45.147.228.138) | - | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-26 | [45.154.98.21](https://vuldb.com/?ip.45.154.98.21) | 45.154.98.21.powered.by.rdp.sh | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-27 | [46.21.157.142](https://vuldb.com/?ip.46.21.157.142) | 142.157.21.46.inferno.name | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-28 | [46.173.215.132](https://vuldb.com/?ip.46.173.215.132) | - | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-29 | [47.252.33.131](https://vuldb.com/?ip.47.252.33.131) | - | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-30 | [47.252.45.173](https://vuldb.com/?ip.47.252.45.173) | - | [DarkGate](https://vuldb.com/?actor.darkgate) | High
-31 | [47.253.141.12](https://vuldb.com/?ip.47.253.141.12) | - | [DarkGate](https://vuldb.com/?actor.darkgate) | High
+1 | [5.2.68.68](https://vuldb.com/ip/5.2.68.68) | - | [DarkGate](https://vuldb.com/actor/darkgate) | High
+2 | [5.2.68.77](https://vuldb.com/ip/5.2.68.77) | - | [DarkGate](https://vuldb.com/actor/darkgate) | High
+3 | [5.2.68.89](https://vuldb.com/ip/5.2.68.89) | - | [DarkGate](https://vuldb.com/actor/darkgate) | High
+4 | [5.34.178.21](https://vuldb.com/ip/5.34.178.21) | udfurgqxmjzcc.pserver.ru | [DarkGate](https://vuldb.com/actor/darkgate) | High
+5 | [5.180.24.155](https://vuldb.com/ip/5.180.24.155) | vm2303689.stark-industries.solutions | [DarkGate](https://vuldb.com/actor/darkgate) | High
+6 | [5.181.159.29](https://vuldb.com/ip/5.181.159.29) | no-rdns.mivocloud.com | [BattleRoyal](https://vuldb.com/actor/battleroyal) | High
+7 | [5.181.159.49](https://vuldb.com/ip/5.181.159.49) | no-rdns.mivocloud.com | [DarkGate](https://vuldb.com/actor/darkgate) | High
+8 | [5.181.159.64](https://vuldb.com/ip/5.181.159.64) | no-rdns.mivocloud.com | [TA577](https://vuldb.com/actor/ta577) | High
+9 | [5.181.159.76](https://vuldb.com/ip/5.181.159.76) | no-rdns.mivocloud.com | [DarkGate](https://vuldb.com/actor/darkgate) | High
+10 | [5.188.87.58](https://vuldb.com/ip/5.188.87.58) | - | [DarkGate](https://vuldb.com/actor/darkgate) | High
+11 | [5.252.178.193](https://vuldb.com/ip/5.252.178.193) | no-rdns.mivocloud.com | [TA577](https://vuldb.com/actor/ta577) | High
+12 | [8.209.99.230](https://vuldb.com/ip/8.209.99.230) | - | [DarkGate](https://vuldb.com/actor/darkgate) | High
+13 | [34.16.181.0](https://vuldb.com/ip/34.16.181.0) | 0.181.16.34.bc.googleusercontent.com | [DarkGate](https://vuldb.com/actor/darkgate) | Medium
+14 | [35.203.111.228](https://vuldb.com/ip/35.203.111.228) | 228.111.203.35.bc.googleusercontent.com | [DarkGate](https://vuldb.com/actor/darkgate) | Medium
+15 | [35.247.194.72](https://vuldb.com/ip/35.247.194.72) | 72.194.247.35.bc.googleusercontent.com | [DarkGate](https://vuldb.com/actor/darkgate) | Medium
+16 | [38.180.60.31](https://vuldb.com/ip/38.180.60.31) | - | [DarkGate](https://vuldb.com/actor/darkgate) | High
+17 | [45.11.59.87](https://vuldb.com/ip/45.11.59.87) | mail2.hbmzubnihk.com | [DarkGate](https://vuldb.com/actor/darkgate) | High
+18 | [45.11.59.161](https://vuldb.com/ip/45.11.59.161) | mail.discover-rates.com | [DarkGate](https://vuldb.com/actor/darkgate) | High
+19 | [45.63.52.184](https://vuldb.com/ip/45.63.52.184) | 45.63.52.184.vultrusercontent.com | [DarkGate](https://vuldb.com/actor/darkgate) | Medium
+20 | [45.67.34.69](https://vuldb.com/ip/45.67.34.69) | vm2117880.stark-industries.solutions | [DarkGate](https://vuldb.com/actor/darkgate) | High
+21 | [45.89.53.187](https://vuldb.com/ip/45.89.53.187) | vm2338426.stark-industries.solutions | [DarkGate](https://vuldb.com/actor/darkgate) | High
+22 | [45.89.65.198](https://vuldb.com/ip/45.89.65.198) | 2.server.com | [DarkGate](https://vuldb.com/actor/darkgate) | High
+23 | [45.140.146.2](https://vuldb.com/ip/45.140.146.2) | vm2099152.stark-industries.solutions | [DarkGate](https://vuldb.com/actor/darkgate) | High
+24 | [45.141.87.89](https://vuldb.com/ip/45.141.87.89) | - | [DarkGate](https://vuldb.com/actor/darkgate) | High
+25 | [45.147.228.138](https://vuldb.com/ip/45.147.228.138) | - | [DarkGate](https://vuldb.com/actor/darkgate) | High
+26 | [45.154.98.21](https://vuldb.com/ip/45.154.98.21) | 45.154.98.21.powered.by.rdp.sh | [DarkGate](https://vuldb.com/actor/darkgate) | High
+27 | [46.21.157.142](https://vuldb.com/ip/46.21.157.142) | 142.157.21.46.inferno.name | [DarkGate](https://vuldb.com/actor/darkgate) | High
+28 | [46.173.215.132](https://vuldb.com/ip/46.173.215.132) | - | [DarkGate](https://vuldb.com/actor/darkgate) | High
+29 | [47.252.33.131](https://vuldb.com/ip/47.252.33.131) | - | [DarkGate](https://vuldb.com/actor/darkgate) | High
+30 | [47.252.45.173](https://vuldb.com/ip/47.252.45.173) | - | [DarkGate](https://vuldb.com/actor/darkgate) | High
+31 | [47.253.141.12](https://vuldb.com/ip/47.253.141.12) | - | [DarkGate](https://vuldb.com/actor/darkgate) | High
 32 | ... | ... | ... | ...
 
 There are 124 more IOC items available. Please use our online service to access the data.
@@ -72,14 +72,15 @@ _Tactics, techniques, and procedures_ (TTP) summarize the suspected MITRE ATT&CK
 
 ID | Technique | Weakness | Description | Confidence
 -- | --------- | -------- | ----------- | ----------
-1 | T1006 | CWE-22, CWE-23, CWE-24, CWE-425 | Path Traversal | High
-2 | T1040 | CWE-319 | Authentication Bypass by Capture-replay | High
+1 | T1006 | CWE-22, CWE-24, CWE-29 | Path Traversal | High
+2 | T1040 | CWE-294, CWE-319 | Authentication Bypass by Capture-replay | High
 3 | T1055 | CWE-74 | Improper Neutralization of Data within XPath Expressions | High
-4 | T1059 | CWE-88, CWE-94, CWE-1321 | Argument Injection | High
+4 | T1059 | CWE-94, CWE-1321 | Argument Injection | High
 5 | T1059.007 | CWE-79, CWE-80 | Basic Cross Site Scripting | High
-6 | ... | ... | ... | ...
+6 | T1068 | CWE-250, CWE-264, CWE-266, CWE-269, CWE-270, CWE-284 | Execution with Unnecessary Privileges | High
+7 | ... | ... | ... | ...
 
-There are 21 more TTP items available. Please use our online service to access the data.
+There are 22 more TTP items available. Please use our online service to access the data.
 
 ## IOA - Indicator of Attack
 
@@ -87,108 +88,100 @@ These _indicators of attack_ (IOA) list the potential fragments used for technic
 
 ID | Type | Indicator | Confidence
 -- | ---- | --------- | ----------
-1 | File | `/99/ImportSQLTable` | High
-2 | File | `/?explorer/index/zip` | High
-3 | File | `/?page=manage_reservation` | High
-4 | File | `/about.php` | Medium
-5 | File | `/accomodation.php` | High
-6 | File | `/account/_settings` | High
-7 | File | `/add-subadmin.php` | High
-8 | File | `/add_classes.php` | High
-9 | File | `/add_command_action` | High
-10 | File | `/admin.php` | Medium
-11 | File | `/admin/actions/check-attendance.php` | High
-12 | File | `/admin/actions/delete-equipment.php` | High
-13 | File | `/admin/actions/remove-announcement.php` | High
-14 | File | `/admin/add-category.php` | High
-15 | File | `/admin/add-directory.php` | High
-16 | File | `/admin/add_content.php` | High
-17 | File | `/admin/add_room.php` | High
-18 | File | `/admin/admin_content_tag.php?action=save_content` | High
-19 | File | `/admin/app/login_crud.php` | High
-20 | File | `/admin/assets/plugins/DataTables/media/unit_testing/templates/two_tables.php` | High
-21 | File | `/admin/blood/update/B+.php` | High
-22 | File | `/admin/budget/manage_budget.php` | High
-23 | File | `/admin/casedetails.php` | High
-24 | File | `/admin/changeimage.php` | High
-25 | File | `/admin/class.php?dowhat=modifyclass` | High
-26 | File | `/admin/clientview.php` | High
-27 | File | `/admin/conferences/list/` | High
-28 | File | `/admin/controller/student_controller.php` | High
-29 | File | `/admin/customer-list.php` | High
-30 | File | `/admin/customermanagementframework/customers/list` | High
-31 | File | `/admin/deleteitem.php` | High
-32 | File | `/admin/de_activate.php` | High
-33 | File | `/admin/edit-customer-detailed.php` | High
-34 | File | `/admin/edit-user-profile.php` | High
-35 | File | `/admin/edit_room.php` | High
-36 | File | `/admin/fetch_product_details.php` | High
-37 | File | `/admin/filemanager/view` | High
-38 | File | `/admin/forgot-password.php` | High
-39 | File | `/admin/index.php` | High
-40 | File | `/admin/login.php` | High
-41 | File | `/admin/manage_user.php` | High
-42 | File | `/admin/modules/course/index.php` | High
-43 | File | `/admin/options-theme.php` | High
-44 | File | `/admin/request-received-bydonar.php` | High
-45 | File | `/admin/roomdel.php` | High
-46 | File | `/admin/sales-reports-detail.php` | High
-47 | File | `/admin/search-appointment.php` | High
-48 | File | `/admin/show.php` | High
-49 | File | `/admin/spec_add.php` | High
-50 | File | `/admin/teacher-attendance.php` | High
-51 | File | `/admin/templets_one_edit.php` | High
-52 | File | `/admin/update-profile.php` | High
-53 | File | `/admin/update_user.php` | High
-54 | File | `/admin/v1/blog/edit` | High
-55 | File | `/admin/view-progress-report.php` | High
-56 | File | `/admin/voters_add.php` | High
-57 | File | `/adminapi/product/product` | High
-58 | File | `/Administrator/PHP/AdminEditUser.php` | High
-59 | File | `/admin_class.php` | High
-60 | File | `/admin_search_student.php` | High
-61 | File | `/advisers.php` | High
-62 | File | `/airag/knowledge/doc/edit` | High
-63 | File | `/ajax.php?action=delete_borrower` | High
-64 | File | `/ajax.php?action=delete_supplier` | High
-65 | File | `/ajax.php?action=read_msg` | High
-66 | File | `/ajax.php?action=save_student` | High
-67 | File | `/ajax.php?Ajax=GetModal_MQTTEdit` | High
-68 | File | `/api/backend/core/web-file-upload/upload` | High
-69 | File | `/api/CONFIG/restore` | High
-70 | File | `/api/extclients/` | High
-71 | File | `/api/file/multiDownload` | High
-72 | File | `/api/file/upload` | High
-73 | File | `/api/v1/serve/awel/flow/import` | High
-74 | File | `/api /v3/auth` | High
-75 | File | `/assets/changeSllyabus.php` | High
-76 | File | `/assets/editNotes.php` | High
-77 | File | `/assets/uploadNotes.php` | High
-78 | File | `/att_single_view.php` | High
-79 | File | `/auth/userkey/logout.php` | High
-80 | File | `/bin/httpd` | Medium
-81 | File | `/Blood/A+.php` | High
-82 | File | `/boaform/formPing` | High
-83 | File | `/boafrm/formReflashClientTbl` | High
-84 | File | `/brand/queryAll` | High
-85 | File | `/C6/Jhsoft.Web.departments/GetTreeDate.aspx` | High
-86 | File | `/c6/Jhsoft.Web.projectmanage/TaskManage/AddTask.aspx/?Type=add` | High
-87 | File | `/cart.php` | Medium
-88 | File | `/cgi-bin/adm.cgi` | High
-89 | File | `/cgi-bin/api.values.post` | High
+1 | File | `../mtd/Config/Sha1Account1` | High
+2 | File | `/?page=reserve` | High
+3 | File | `/academy/tutor/filter` | High
+4 | File | `/actuator/heapdump` | High
+5 | File | `/add-company.php` | High
+6 | File | `/addcat.php` | Medium
+7 | File | `/admin` | Low
+8 | File | `/admin-cp/media` | High
+9 | File | `/admin/?page=maintenance/brand` | High
+10 | File | `/admin/aboutus.php` | High
+11 | File | `/admin/Add%20notice/notice.php` | High
+12 | File | `/admin/add-team.php` | High
+13 | File | `/admin/admin_edit_menu.php` | High
+14 | File | `/admin/admin_edit_supplier.php` | High
+15 | File | `/admin/ajax.php?action=login2` | High
+16 | File | `/admin/app/login_crud.php` | High
+17 | File | `/admin/asign-single-student-subjects.php` | High
+18 | File | `/admin/attachment/download` | High
+19 | File | `/admin/bwdates-report-details.php` | High
+20 | File | `/admin/category.php` | High
+21 | File | `/admin/check_availability.php` | High
+22 | File | `/admin/communitymanagement.php` | High
+23 | File | `/admin/config/list.html` | High
+24 | File | `/admin/create_product.php` | High
+25 | File | `/admin/deleteitem.php` | High
+26 | File | `/admin/delete_user.php` | High
+27 | File | `/admin/departments/view_department.php` | High
+28 | File | `/admin/edit-doc.php` | High
+29 | File | `/admin/edit_posts.php` | High
+30 | File | `/admin/enquiry` | High
+31 | File | `/admin/home.php` | High
+32 | File | `/admin/index.php` | High
+33 | File | `/admin/index.php?act=reset_admin_psw` | High
+34 | File | `/admin/login.php` | High
+35 | File | `/admin/Member/index.html` | High
+36 | File | `/admin/mod_amenities/index.php?view=add` | High
+37 | File | `/admin/profile.php` | High
+38 | File | `/admin/robot/approval/list` | High
+39 | File | `/admin/roomdelete.php` | High
+40 | File | `/admin/search-directory.php.` | High
+41 | File | `/admin/theme/Upload.html` | High
+42 | File | `/admin/update-user.php` | High
+43 | File | `/admin/update_s3.php` | High
+44 | File | `/admin/update_s4.php` | High
+45 | File | `/admin/update_s7.php` | High
+46 | File | `/admin/user.php` | High
+47 | File | `/admin/yesterday-reg-users.php` | High
+48 | File | `/Administrator/PHP/AdminAddUser.php` | High
+49 | File | `/Administrator/PHP/AdminViewSongs.php` | High
+50 | File | `/adminPage/conf/saveCmd` | High
+51 | File | `/admin_class.php` | High
+52 | File | `/admin_state.php` | High
+53 | File | `/ajax.php` | Medium
+54 | File | `/ajax.php?action=login` | High
+55 | File | `/apartment-visitor/edit-apartment.php` | High
+56 | File | `/api/av/removeUnusedAttributeView` | High
+57 | File | `/api/backend/v1/user/create` | High
+58 | File | `/api/blocks/{block_id}/execute` | High
+59 | File | `/api/code/upload` | High
+60 | File | `/api/controllers/merchant/shop/PosterController.php` | High
+61 | File | `/api/endpoint` | High
+62 | File | `/api/events/in` | High
+63 | File | `/api/file` | Medium
+64 | File | `/api/smartfilters/testexecutions` | High
+65 | File | `/api/System.php` | High
+66 | File | `/api/users/{id}/preferences` | High
+67 | File | `/api/v1/editor/` | High
+68 | File | `/api/v1/getbaseconfig` | High
+69 | File | `/api/v1/text-to-speech/generate` | High
+70 | File | `/api/vanna/v2/` | High
+71 | File | `/api/website/title` | High
+72 | File | `/app/ajax/search_sales_report.php` | High
+73 | File | `/app/login` | Medium
+74 | File | `/application/models/Crud_model.php` | High
+75 | File | `/backend/admin/his_admin_add_vendor.php` | High
+76 | File | `/Base/BaseHandler.ashx` | High
+77 | File | `/Base/BaseService.asmx/DataService` | High
+78 | File | `/bidnow.php` | Medium
+79 | File | `/bin/httpd` | Medium
+80 | File | `/bin/netis.cgi` | High
+81 | File | `/Blood/A-.php` | High
+82 | File | `/boafrm/formStaticDHCP` | High
+83 | File | `/boafrm/formSysLog` | High
+84 | File | `/book_car.php` | High
+85 | File | `/borrowedequip.php` | High
+86 | File | `/borrowedtool.php` | High
+87 | File | `/borrowed_equip_report.php` | High
+88 | File | `/catageory.php` | High
+89 | File | `/cgi-bin/account_mgr.cgi?cmd=cgi_user_add` | High
 90 | File | `/cgi-bin/cstecgi.cgi` | High
-91 | File | `/cgi-bin/ExportSyslog.sh` | High
-92 | File | `/cgi-bin/hd_config.cgi` | High
-93 | File | `/cgi-bin/wireless.cgi` | High
-94 | File | `/check.php` | Medium
-95 | File | `/classes/Master.php?f=delete_product` | High
-96 | File | `/classes/SystemSettings.php?f=update_settings` | High
-97 | File | `/cms/article/findField` | High
-98 | File | `/contact_us.php` | High
-99 | File | `/createuser.php` | High
-100 | ... | ... | ...
+91 | File | `/cgi-bin/dsk_mgr.cgi` | High
+92 | ... | ... | ...
 
-There are 881 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 808 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -281,9 +274,9 @@ The following list contains _external sources_ which discuss the campaign and th
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

@@ -1,19 +1,19 @@
 # Matanbuchus - Cyber Threat Intelligence
 
-These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/?kb.cti) of the campaign known as _Matanbuchus_. The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
+These _indicators_ were reported, collected, and generated during the [VulDB CTI analysis](https://vuldb.com/kb/cti) of the campaign known as _Matanbuchus_. The _activity monitoring_ correlates data from social media, forums, chat rooms, and darknet markets. It helps to determine associated actors, specific activities, expected intentions, emerging research, and ongoing attacks. Our unique _predictive model_ uses _big data_ to forecast activities and their characteristics.
 
-_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/?actor](https://vuldb.com/?actor)
+_Live data_ and more _analysis capabilities_ are available at [https://vuldb.com/actor](https://vuldb.com/actor)
 
 ## Countries
 
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Matanbuchus:
 
-* [US](https://vuldb.com/?country.us)
-* [CN](https://vuldb.com/?country.cn)
-* [RU](https://vuldb.com/?country.ru)
+* [US](https://vuldb.com/country/us)
+* [RU](https://vuldb.com/country/ru)
+* [RO](https://vuldb.com/country/ro)
 * ...
 
-There are 3 more country items available. Please use our online service to access the data.
+There are 4 more country items available. Please use our online service to access the data.
 
 ## Actors
 
@@ -21,8 +21,8 @@ These _actors_ are associated with Matanbuchus or other actors linked to the cam
 
 ID | Actor | Confidence
 -- | ----- | ----------
-1 | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | High
-2 | [BelialDemon](https://vuldb.com/?actor.belialdemon) | High
+1 | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | High
+2 | [BelialDemon](https://vuldb.com/actor/belialdemon) | High
 
 ## IOC - Indicator of Compromise
 
@@ -30,29 +30,29 @@ These _indicators of compromise_ (IOC) indicate associated network resources whi
 
 ID | IP address | Hostname | Actor | Confidence
 -- | ---------- | -------- | ----- | ----------
-1 | [5.252.155.81](https://vuldb.com/?ip.5.252.155.81) | - | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | High
-2 | [8.211.34.5](https://vuldb.com/?ip.8.211.34.5) | - | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | High
-3 | [34.94.151.129](https://vuldb.com/?ip.34.94.151.129) | 129.151.94.34.bc.googleusercontent.com | [BelialDemon](https://vuldb.com/?actor.belialdemon) | Medium
-4 | [34.105.89.82](https://vuldb.com/?ip.34.105.89.82) | 82.89.105.34.bc.googleusercontent.com | [BelialDemon](https://vuldb.com/?actor.belialdemon) | Medium
-5 | [34.106.243.174](https://vuldb.com/?ip.34.106.243.174) | 174.243.106.34.bc.googleusercontent.com | [BelialDemon](https://vuldb.com/?actor.belialdemon) | Medium
-6 | [34.130.217.52](https://vuldb.com/?ip.34.130.217.52) | 52.217.130.34.bc.googleusercontent.com | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | Medium
-7 | [44.208.127.245](https://vuldb.com/?ip.44.208.127.245) | ec2-44-208-127-245.compute-1.amazonaws.com | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | Medium
-8 | [45.141.86.26](https://vuldb.com/?ip.45.141.86.26) | - | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | High
-9 | [45.141.86.98](https://vuldb.com/?ip.45.141.86.98) | - | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | High
-10 | [45.141.86.132](https://vuldb.com/?ip.45.141.86.132) | - | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | High
-11 | [45.141.86.133](https://vuldb.com/?ip.45.141.86.133) | - | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | High
-12 | [45.142.195.242](https://vuldb.com/?ip.45.142.195.242) | - | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | High
-13 | [46.8.210.98](https://vuldb.com/?ip.46.8.210.98) | 622857.cloud4box.ru | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | High
-14 | [47.89.157.126](https://vuldb.com/?ip.47.89.157.126) | - | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | High
-15 | [47.254.129.255](https://vuldb.com/?ip.47.254.129.255) | - | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | High
-16 | [62.113.117.216](https://vuldb.com/?ip.62.113.117.216) | v2751855.hosted-by-vdsina.ru | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | High
-17 | [77.83.207.133](https://vuldb.com/?ip.77.83.207.133) | - | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | High
-18 | [80.64.30.95](https://vuldb.com/?ip.80.64.30.95) | - | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | High
-19 | [85.175.70.222](https://vuldb.com/?ip.85.175.70.222) | - | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | High
-20 | [85.208.84.242](https://vuldb.com/?ip.85.208.84.242) | - | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | High
-21 | [88.204.123.123](https://vuldb.com/?ip.88.204.123.123) | - | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | High
-22 | [89.23.113.220](https://vuldb.com/?ip.89.23.113.220) | 44059-1.ip-ptr.tech | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | High
-23 | [91.202.233.168](https://vuldb.com/?ip.91.202.233.168) | - | [Matanbuchus](https://vuldb.com/?actor.matanbuchus) | High
+1 | [5.252.155.81](https://vuldb.com/ip/5.252.155.81) | - | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | High
+2 | [8.211.34.5](https://vuldb.com/ip/8.211.34.5) | - | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | High
+3 | [34.94.151.129](https://vuldb.com/ip/34.94.151.129) | 129.151.94.34.bc.googleusercontent.com | [BelialDemon](https://vuldb.com/actor/belialdemon) | Medium
+4 | [34.105.89.82](https://vuldb.com/ip/34.105.89.82) | 82.89.105.34.bc.googleusercontent.com | [BelialDemon](https://vuldb.com/actor/belialdemon) | Medium
+5 | [34.106.243.174](https://vuldb.com/ip/34.106.243.174) | 174.243.106.34.bc.googleusercontent.com | [BelialDemon](https://vuldb.com/actor/belialdemon) | Medium
+6 | [34.130.217.52](https://vuldb.com/ip/34.130.217.52) | 52.217.130.34.bc.googleusercontent.com | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | Medium
+7 | [44.208.127.245](https://vuldb.com/ip/44.208.127.245) | ec2-44-208-127-245.compute-1.amazonaws.com | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | Medium
+8 | [45.141.86.26](https://vuldb.com/ip/45.141.86.26) | - | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | High
+9 | [45.141.86.98](https://vuldb.com/ip/45.141.86.98) | - | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | High
+10 | [45.141.86.132](https://vuldb.com/ip/45.141.86.132) | - | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | High
+11 | [45.141.86.133](https://vuldb.com/ip/45.141.86.133) | - | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | High
+12 | [45.142.195.242](https://vuldb.com/ip/45.142.195.242) | - | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | High
+13 | [46.8.210.98](https://vuldb.com/ip/46.8.210.98) | 622857.cloud4box.ru | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | High
+14 | [47.89.157.126](https://vuldb.com/ip/47.89.157.126) | - | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | High
+15 | [47.254.129.255](https://vuldb.com/ip/47.254.129.255) | - | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | High
+16 | [62.113.117.216](https://vuldb.com/ip/62.113.117.216) | v2751855.hosted-by-vdsina.ru | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | High
+17 | [77.83.207.133](https://vuldb.com/ip/77.83.207.133) | - | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | High
+18 | [80.64.30.95](https://vuldb.com/ip/80.64.30.95) | - | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | High
+19 | [85.175.70.222](https://vuldb.com/ip/85.175.70.222) | - | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | High
+20 | [85.208.84.242](https://vuldb.com/ip/85.208.84.242) | - | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | High
+21 | [88.204.123.123](https://vuldb.com/ip/88.204.123.123) | - | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | High
+22 | [89.23.113.220](https://vuldb.com/ip/89.23.113.220) | 44059-1.ip-ptr.tech | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | High
+23 | [91.202.233.168](https://vuldb.com/ip/91.202.233.168) | - | [Matanbuchus](https://vuldb.com/actor/matanbuchus) | High
 24 | ... | ... | ... | ...
 
 There are 93 more IOC items available. Please use our online service to access the data.
@@ -76,14 +76,14 @@ These _indicators of attack_ (IOA) list the potential fragments used for technic
 
 ID | Type | Indicator | Confidence
 -- | ---- | --------- | ----------
-1 | File | `/apply.cgi` | Medium
-2 | File | `/cgi-bin/cstecgi.cgi` | High
-3 | File | `/config/pw_changeusers.html` | High
+1 | File | `/cgi-bin/cstecgi.cgi` | High
+2 | File | `/config/pw_changeusers.html` | High
+3 | File | `/dm/dispatch/user/add` | High
 4 | File | `/php/ping.php` | High
 5 | File | `/scripts/unlock_tasks.php` | High
 6 | ... | ... | ...
 
-There are 36 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
+There are 34 more IOA items available (file, library, argument, input value, pattern, network port). Please use our online service to access the data.
 
 ## References
 
@@ -131,9 +131,9 @@ The following list contains _external sources_ which discuss the campaign and th
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/?kb.cti)
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
 
-(c) [1997-2026](https://vuldb.com/?kb.changelog) by [vuldb.com](https://vuldb.com/?kb.about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/?kb.faq), read the [documentation](https://vuldb.com/?kb) or [contact us](https://vuldb.com/?contact)!
+(c) [1997-2026](https://vuldb.com/kb/changelog) by [vuldb.com](https://vuldb.com/kb/about). All data on this page is shared under the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Questions? Check the [FAQ](https://vuldb.com/kb/faq), read the [documentation](https://vuldb.com/kb) or [contact us](https://vuldb.com/contact)!

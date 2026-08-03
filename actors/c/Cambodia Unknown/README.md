@@ -9,8 +9,6 @@ _Live data_ and more _analysis capabilities_ are available at [https://vuldb.com
 These _countries_ are directly (e.g. origin of attacks) or indirectly (e.g. access by proxy) associated with Cambodia Unknown:
 
 * [CN](https://vuldb.com/country/cn)
-* [US](https://vuldb.com/country/us)
-* [GB](https://vuldb.com/country/gb)
 
 ## IOC - Indicator of Compromise
 
@@ -230,9 +228,7 @@ _Tactics, techniques, and procedures_ (TTP) summarize the suspected MITRE ATT&CK
 
 ID | Technique | Weakness | Description | Confidence
 -- | --------- | -------- | ----------- | ----------
-1 | T1059.007 | CWE-79 | Basic Cross Site Scripting | High
-2 | T1202 | CWE-77 | Command Shell in Externally Accessible Directory | High
-3 | T1505 | CWE-89 | SQL Injection | High
+1 | T1202 | CWE-77 | Command Shell in Externally Accessible Directory | High
 
 ## IOA - Indicator of Attack
 
@@ -241,7 +237,6 @@ These _indicators of attack_ (IOA) list the potential fragments used for technic
 ID | Type | Indicator | Confidence
 -- | ---- | --------- | ----------
 1 | File | `/goform/telnet` | High
-2 | Argument | `question_id` | Medium
 
 ## References
 
@@ -259,7 +254,7 @@ The following list contains _external sources_ which discuss the actor and the a
 
 The following _articles_ explain our unique predictive cyber threat intelligence:
 
-* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti
+* [VulDB Cyber Threat Intelligence Documentation](https://vuldb.com/kb/cti)
 * [Cyber Threat Intelligence - Early Anticipation of Attacks](https://www.scip.ch/en/?labs.20201022)
 
 ## License
